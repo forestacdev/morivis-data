@@ -1,0 +1,1045 @@
+{
+  "azumaya_kezikabora": {
+    "width": 432,
+    "height": 512,
+    "x": 0,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "fac_forest_labo": {
+    "width": 432,
+    "height": 512,
+    "x": 432,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "fac_kakoutou": {
+    "width": 432,
+    "height": 512,
+    "x": 864,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "fac_kensyutou": {
+    "width": 432,
+    "height": 512,
+    "x": 1296,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "fac_koubou": {
+    "width": 432,
+    "height": 512,
+    "x": 0,
+    "y": 512,
+    "pixelRatio": 1
+  },
+  "fac_open_labo": {
+    "width": 432,
+    "height": 512,
+    "x": 432,
+    "y": 512,
+    "pixelRatio": 1
+  },
+  "fac_ringyoukikaitou": {
+    "width": 432,
+    "height": 512,
+    "x": 864,
+    "y": 512,
+    "pixelRatio": 1
+  },
+  "fac_seizaitou": {
+    "width": 432,
+    "height": 512,
+    "x": 1296,
+    "y": 512,
+    "pixelRatio": 1
+  },
+  "fac_syako": {
+    "width": 432,
+    "height": 512,
+    "x": 0,
+    "y": 1024,
+    "pixelRatio": 1
+  },
+  "fac_tech_a": {
+    "width": 432,
+    "height": 512,
+    "x": 432,
+    "y": 1024,
+    "pixelRatio": 1
+  },
+  "fac_wood_labo": {
+    "width": 432,
+    "height": 512,
+    "x": 864,
+    "y": 1024,
+    "pixelRatio": 1
+  },
+  "gate_ensyurin": {
+    "width": 432,
+    "height": 512,
+    "x": 1296,
+    "y": 1024,
+    "pixelRatio": 1
+  },
+  "gate_kokuyurin": {
+    "width": 432,
+    "height": 512,
+    "x": 0,
+    "y": 1536,
+    "pixelRatio": 1
+  },
+  "kezikaboraike": {
+    "width": 432,
+    "height": 512,
+    "x": 432,
+    "y": 1536,
+    "pixelRatio": 1
+  },
+  "mokudou": {
+    "width": 432,
+    "height": 512,
+    "x": 864,
+    "y": 1536,
+    "pixelRatio": 1
+  },
+  "morinoiriguti": {
+    "width": 432,
+    "height": 512,
+    "x": 1296,
+    "y": 1536,
+    "pixelRatio": 1
+  },
+  "oosugi": {
+    "width": 432,
+    "height": 512,
+    "x": 0,
+    "y": 2048,
+    "pixelRatio": 1
+  },
+  "sumiyakigoya": {
+    "width": 432,
+    "height": 512,
+    "x": 432,
+    "y": 2048,
+    "pixelRatio": 1
+  },
+  "toilet": {
+    "width": 432,
+    "height": 512,
+    "x": 864,
+    "y": 2048,
+    "pixelRatio": 1
+  },
+  "unknown": {
+    "width": 24,
+    "height": 24,
+    "x": 1296,
+    "y": 2048,
+    "pixelRatio": 1
+  },
+  "yamanokami": {
+    "width": 432,
+    "height": 512,
+    "x": 1320,
+    "y": 2048,
+    "pixelRatio": 1
+  },
+  "ziriki_05": {
+    "width": 432,
+    "height": 512,
+    "x": 0,
+    "y": 2560,
+    "pixelRatio": 1
+  },
+  "ziriki_06": {
+    "width": 432,
+    "height": 512,
+    "x": 432,
+    "y": 2560,
+    "pixelRatio": 1
+  },
+  "ziriki_07": {
+    "width": 432,
+    "height": 512,
+    "x": 864,
+    "y": 2560,
+    "pixelRatio": 1
+  },
+  "ziriki_10": {
+    "width": 432,
+    "height": 512,
+    "x": 1296,
+    "y": 2560,
+    "pixelRatio": 1
+  },
+  "ziriki_12": {
+    "width": 432,
+    "height": 512,
+    "x": 0,
+    "y": 3072,
+    "pixelRatio": 1
+  },
+  "ziriki_13": {
+    "width": 432,
+    "height": 512,
+    "x": 432,
+    "y": 3072,
+    "pixelRatio": 1
+  },
+  "ziriki_14": {
+    "width": 432,
+    "height": 512,
+    "x": 864,
+    "y": 3072,
+    "pixelRatio": 1
+  },
+  "ziriki_18": {
+    "width": 432,
+    "height": 512,
+    "x": 1296,
+    "y": 3072,
+    "pixelRatio": 1
+  },
+  "ziriki_21": {
+    "width": 432,
+    "height": 512,
+    "x": 0,
+    "y": 3584,
+    "pixelRatio": 1
+  },
+  "ziriki_23": {
+    "width": 432,
+    "height": 512,
+    "x": 432,
+    "y": 3584,
+    "pixelRatio": 1
+  },
+  "インターチェンジ-20": {
+    "width": 64,
+    "height": 64,
+    "x": 864,
+    "y": 3584,
+    "pixelRatio": 1
+  },
+  "サービスエリア-20": {
+    "width": 64,
+    "height": 64,
+    "x": 928,
+    "y": 3584,
+    "pixelRatio": 1
+  },
+  "ジャンクション-20": {
+    "width": 64,
+    "height": 64,
+    "x": 992,
+    "y": 3584,
+    "pixelRatio": 1
+  },
+  "スマートインターチェンジ-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1056,
+    "y": 3584,
+    "pixelRatio": 1
+  },
+  "ハイマツ地": {
+    "width": 64,
+    "height": 64,
+    "x": 1120,
+    "y": 3584,
+    "pixelRatio": 1
+  },
+  "ヤシ科樹林-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1184,
+    "y": 3584,
+    "pixelRatio": 1
+  },
+  "ヤシ科樹林": {
+    "width": 64,
+    "height": 64,
+    "x": 1248,
+    "y": 3584,
+    "pixelRatio": 1
+  },
+  "三角点-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1312,
+    "y": 3584,
+    "pixelRatio": 1
+  },
+  "三角点": {
+    "width": 64,
+    "height": 64,
+    "x": 1376,
+    "y": 3584,
+    "pixelRatio": 1
+  },
+  "中学校-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1440,
+    "y": 3584,
+    "pixelRatio": 1
+  },
+  "中学校": {
+    "width": 64,
+    "height": 64,
+    "x": 1504,
+    "y": 3584,
+    "pixelRatio": 1
+  },
+  "主要な港-500": {
+    "width": 64,
+    "height": 64,
+    "x": 1568,
+    "y": 3584,
+    "pixelRatio": 1
+  },
+  "主要な空港-500": {
+    "width": 64,
+    "height": 64,
+    "x": 1632,
+    "y": 3584,
+    "pixelRatio": 1
+  },
+  "交番": {
+    "width": 64,
+    "height": 64,
+    "x": 1696,
+    "y": 3584,
+    "pixelRatio": 1
+  },
+  "人口100万人以上-500": {
+    "width": 64,
+    "height": 64,
+    "x": 1760,
+    "y": 3584,
+    "pixelRatio": 1
+  },
+  "人口100万人以上2-500": {
+    "width": 64,
+    "height": 64,
+    "x": 1824,
+    "y": 3584,
+    "pixelRatio": 1
+  },
+  "人口50万-100万人未満-500": {
+    "width": 64,
+    "height": 64,
+    "x": 1888,
+    "y": 3584,
+    "pixelRatio": 1
+  },
+  "人口50万人未満-500": {
+    "width": 64,
+    "height": 64,
+    "x": 0,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "保健所": {
+    "width": 64,
+    "height": 64,
+    "x": 64,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "北海道の総合振興局・振興局-20": {
+    "width": 64,
+    "height": 64,
+    "x": 128,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "博物館法の登録博物館・博物館相当施設": {
+    "width": 64,
+    "height": 64,
+    "x": 192,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "史跡・名勝・天然記念物-20": {
+    "width": 64,
+    "height": 64,
+    "x": 256,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "史跡・名勝・天然記念物": {
+    "width": 64,
+    "height": 64,
+    "x": 320,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "噴火口・噴気口-20": {
+    "width": 64,
+    "height": 64,
+    "x": 384,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "噴火口・噴気口": {
+    "width": 64,
+    "height": 64,
+    "x": 448,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "図書館": {
+    "width": 64,
+    "height": 64,
+    "x": 512,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "国道番号-20": {
+    "width": 64,
+    "height": 64,
+    "x": 576,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "国道番号": {
+    "width": 64,
+    "height": 64,
+    "x": 640,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "国際空港-20": {
+    "width": 64,
+    "height": 64,
+    "x": 704,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "国際空港以外の拠点空港等-20": {
+    "width": 64,
+    "height": 64,
+    "x": 768,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "城跡-20": {
+    "width": 64,
+    "height": 64,
+    "x": 832,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "城跡": {
+    "width": 64,
+    "height": 64,
+    "x": 896,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "墓地": {
+    "width": 64,
+    "height": 64,
+    "x": 960,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "外国公館": {
+    "width": 64,
+    "height": 64,
+    "x": 1024,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "官公署": {
+    "width": 64,
+    "height": 64,
+    "x": 1088,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "寺院-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1152,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "寺院": {
+    "width": 64,
+    "height": 64,
+    "x": 1216,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "小学校-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1280,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "小学校": {
+    "width": 64,
+    "height": 64,
+    "x": 1344,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "工場-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1408,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "市役所・東京都の区役所-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1472,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "市役所・東京都の区役所": {
+    "width": 64,
+    "height": 64,
+    "x": 1536,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "市役所・東京都の区役所（都道府県所在都市以外）-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1600,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "広葉樹林-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1664,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "広葉樹林": {
+    "width": 64,
+    "height": 64,
+    "x": 1728,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "指示点": {
+    "width": 64,
+    "height": 64,
+    "x": 1792,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "採鉱地-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1856,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "採鉱地": {
+    "width": 64,
+    "height": 64,
+    "x": 1920,
+    "y": 4096,
+    "pixelRatio": 1
+  },
+  "果樹園-20": {
+    "width": 64,
+    "height": 64,
+    "x": 0,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "果樹園": {
+    "width": 64,
+    "height": 64,
+    "x": 64,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "植生界": {
+    "width": 64,
+    "height": 64,
+    "x": 128,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "標高点-500": {
+    "width": 64,
+    "height": 64,
+    "x": 192,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "標高点（測点）-20": {
+    "width": 64,
+    "height": 64,
+    "x": 256,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "標高点（測点）": {
+    "width": 64,
+    "height": 64,
+    "x": 320,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "水深-20": {
+    "width": 64,
+    "height": 64,
+    "x": 384,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "水準点": {
+    "width": 64,
+    "height": 64,
+    "x": 448,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "水面標高-20": {
+    "width": 96,
+    "height": 24,
+    "x": 512,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "油井・ガス井-20": {
+    "width": 64,
+    "height": 64,
+    "x": 608,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "油井・ガス井": {
+    "width": 64,
+    "height": 64,
+    "x": 672,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "流水方向": {
+    "width": 64,
+    "height": 64,
+    "x": 736,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "消防署": {
+    "width": 64,
+    "height": 64,
+    "x": 800,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "温泉-20": {
+    "width": 64,
+    "height": 64,
+    "x": 864,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "温泉": {
+    "width": 64,
+    "height": 64,
+    "x": 928,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "港湾-20": {
+    "width": 64,
+    "height": 64,
+    "x": 992,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "港湾": {
+    "width": 64,
+    "height": 64,
+    "x": 1056,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "滝": {
+    "width": 64,
+    "height": 64,
+    "x": 1120,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "漁港-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1184,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "漁港": {
+    "width": 64,
+    "height": 64,
+    "x": 1248,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "火山-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1312,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "灯台-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1376,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "灯台": {
+    "width": 64,
+    "height": 64,
+    "x": 1440,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "煙突": {
+    "width": 64,
+    "height": 64,
+    "x": 1504,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "特別標高点": {
+    "width": 64,
+    "height": 64,
+    "x": 1568,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "特定重要港-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1632,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "田-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1696,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "田": {
+    "width": 64,
+    "height": 64,
+    "x": 1760,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "町・村-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1824,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "町村役場・政令指定都市の区役所-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1888,
+    "y": 4160,
+    "pixelRatio": 1
+  },
+  "町村役場・政令指定都市の区役所": {
+    "width": 64,
+    "height": 64,
+    "x": 0,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "畑-20": {
+    "width": 64,
+    "height": 64,
+    "x": 64,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "畑": {
+    "width": 64,
+    "height": 64,
+    "x": 128,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "病院-20": {
+    "width": 64,
+    "height": 64,
+    "x": 192,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "病院": {
+    "width": 64,
+    "height": 64,
+    "x": 256,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "発電所等-20": {
+    "width": 64,
+    "height": 64,
+    "x": 320,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "発電所等": {
+    "width": 64,
+    "height": 64,
+    "x": 384,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "砂礫地（領域が不明瞭な場合）-20": {
+    "width": 3,
+    "height": 3,
+    "x": 448,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "神社-20": {
+    "width": 64,
+    "height": 64,
+    "x": 451,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "神社": {
+    "width": 64,
+    "height": 64,
+    "x": 515,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "税務署": {
+    "width": 64,
+    "height": 64,
+    "x": 579,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "竹林": {
+    "width": 64,
+    "height": 64,
+    "x": 643,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "笹地": {
+    "width": 64,
+    "height": 64,
+    "x": 707,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "老人ホーム": {
+    "width": 64,
+    "height": 64,
+    "x": 771,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "自然災害伝承碑": {
+    "width": 64,
+    "height": 64,
+    "x": 835,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "自衛隊-20": {
+    "width": 64,
+    "height": 64,
+    "x": 899,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "自衛隊等の飛行場-20": {
+    "width": 64,
+    "height": 64,
+    "x": 963,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "茶畑": {
+    "width": 64,
+    "height": 64,
+    "x": 1027,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "荒地": {
+    "width": 64,
+    "height": 64,
+    "x": 1091,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "裁判所": {
+    "width": 64,
+    "height": 64,
+    "x": 1155,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "記念碑": {
+    "width": 64,
+    "height": 64,
+    "x": 1219,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "警察署-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1283,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "警察署": {
+    "width": 64,
+    "height": 64,
+    "x": 1347,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "郵便局-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1411,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "郵便局": {
+    "width": 64,
+    "height": 64,
+    "x": 1475,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "都市高速道路番号-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1539,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "都道府県所在地-100": {
+    "width": 64,
+    "height": 64,
+    "x": 1603,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "都道府県所在地-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1667,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "重要港-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1731,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "針葉樹林-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1795,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "針葉樹林": {
+    "width": 64,
+    "height": 64,
+    "x": 1859,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "雨裂（下部）-20": {
+    "width": 64,
+    "height": 64,
+    "x": 1923,
+    "y": 4224,
+    "pixelRatio": 1
+  },
+  "電子基準点-20": {
+    "width": 64,
+    "height": 64,
+    "x": 0,
+    "y": 4288,
+    "pixelRatio": 1
+  },
+  "電子基準点": {
+    "width": 64,
+    "height": 64,
+    "x": 64,
+    "y": 4288,
+    "pixelRatio": 1
+  },
+  "電波塔": {
+    "width": 64,
+    "height": 64,
+    "x": 128,
+    "y": 4288,
+    "pixelRatio": 1
+  },
+  "風車-20": {
+    "width": 64,
+    "height": 64,
+    "x": 192,
+    "y": 4288,
+    "pixelRatio": 1
+  },
+  "風車": {
+    "width": 64,
+    "height": 64,
+    "x": 256,
+    "y": 4288,
+    "pixelRatio": 1
+  },
+  "高等学校・中等教育学校-20": {
+    "width": 64,
+    "height": 64,
+    "x": 320,
+    "y": 4288,
+    "pixelRatio": 1
+  },
+  "高等学校・中等教育学校": {
+    "width": 64,
+    "height": 64,
+    "x": 384,
+    "y": 4288,
+    "pixelRatio": 1
+  },
+  "高速道路番号-20": {
+    "width": 64,
+    "height": 64,
+    "x": 448,
+    "y": 4288,
+    "pixelRatio": 1
+  }
+}
