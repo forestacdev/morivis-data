@@ -19,14 +19,7 @@ def lonlat_to_tile_coords(lon: float, lat: float, zoom: int = 14):
     return {"x": x_tile, "y": y_tile, "z": zoom}
 
 
-OUTPUT_DIR = (
-    Path(__file__).resolve().parent.parent.parent
-    / "frontend"
-    / "src"
-    / "routes"
-    / "components"
-    / "header"
-)
+OUTPUT_DIR = Path(__file__).resolve().parent.parent.parent / "data"
 
 search_data_dict = {
     "fac_ziriki_point": {

@@ -12,19 +12,8 @@ def load_geojson(file_path):
 
 
 INPUT_DIR = Path(__file__).resolve().parent.parent / "data"
-OUTPUT_DIR = (
-    Path(__file__).resolve().parent.parent.parent / "frontend" / "static" / "streetView"
-)
+OUTPUT_DIR = Path(__file__).resolve().parent.parent.parent / "data" / "streetView"
 
-OUTPUT_DIR2 = (
-    Path(__file__).resolve().parent.parent.parent
-    / "frontend"
-    / "src"
-    / "routes"
-    / "map"
-    / "components"
-    / "streetView"
-)
 
 # ノードデータとリンクデータのファイルパスを指定（適宜変更）
 nodes_file = INPUT_DIR / "THETA360.geojson"
@@ -114,7 +103,7 @@ links_gdf.to_file(output_links_fgb, driver="FlatGeobuf")
 print(f"✅ リンクデータを {output_links_fgb} に保存しました。")
 
 # --- 5. 隣接ノードデータを JSON で保存 ---
-output_connections_file = OUTPUT_DIR2 / "node_connections.json"
+output_connections_file = OUTPUT_DIR / "node_connections.json"
 with open(output_connections_file, "w", encoding="utf-8") as f:
     json.dump(node_connections, f, indent=2, ensure_ascii=False)
 
