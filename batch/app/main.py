@@ -1,11 +1,8 @@
-import json
-import os
-import sys
 from pathlib import Path
 
-from fastapi import FastAPI, HTTPException
+from aiopmtiles import Reader
+from fastapi import FastAPI, Response
 from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
 
 app = FastAPI()
 
@@ -18,63 +15,15 @@ app.add_middleware(
     allow_headers=["*"],  # すべてのHTTPヘッダーを許可
 )
 
-JSON_FILE = "data.json"
 
-JSON_FILE = (
+FILE = (
     Path(__file__).resolve().parent.parent.parent
-    / "frontend"
-    / "src"
-    / "routes"
-    / "map"
-    / "components"
-    / "streetView"
-    / "angle.json"
+    / "data"
+    / "entry"
+    / "pmtiles"
+    / "vector"
+    / "ensyurin.pmtiles"
 )
-
-
-# JSONファイルを読み込む関数
-
-
-def load_json():
-    if not os.path.exists(JSON_FILE):
-        return []
-    with open(JSON_FILE, "r", encoding="utf-8") as file:
-        return json.load(file)
-
-
-# JSONファイルに書き込む関数
-def save_json(data):
-    with open(JSON_FILE, "w", encoding="utf-8") as file:
-        json.dump(data, file, indent=4, ensure_ascii=False)
-
-
-# リクエストボディのバリデーション
-class UpdateAngles(BaseModel):
-    id: str  # または id: uuid.UUID でバリデーションを強化
-    angleX: float
-    angleY: float
-    angleZ: float
-
-
-@app.put("/update_angle")
-async def update_angle(data: UpdateAngles):
-    json_data = load_json()
-
-    for obj in json_data:
-        if obj["id"] == str(data.id):  # `id` が文字列なのでそのまま比較
-            print("Found matching ID:", obj["id"])  # 確認用
-            sys.stdout.flush()
-
-            obj["angleX"] = data.angleX
-            obj["angleY"] = data.angleY
-            obj["angleZ"] = data.angleZ
-
-            save_json(json_data)  # 更新後にJSONを保存
-
-            return {"message": "Updated successfully", "data": obj["id"]}
-
-    print("ID not found:", data.id)  # IDが見つからなかった場合
-    raise HTTPException(status_code=404, detail="ID not found")
 
 
 @app.get("/")
@@ -82,7 +31,37 @@ def read_root():
     return {"Hello": "World"}
 
 
-# jsonファイルのデータを取得
-@app.get("/json")
-async def read_angles():
-    return load_json()
+@app.get("/health")
+def health():
+    return {"status": "ok"}
+
+
+# PMTilesのベクタタイルを取得するエンドポイント
+@app.get("/vector/{file_name}/{z}/{x}/{y}.pbf")
+async def vectortile(file_name: str, z: int, x: int, y: int):
+    async with Reader(
+        f"http://127.0.0.1:9000/data/entry/pmtiles/vector/{file_name}.pmtiles"
+    ) as pmtiles:
+        # Get Tile
+        tile_data = await pmtiles.get_tile(z, x, y)
+
+    if tile_data is None:
+        return Response(status_code=404)
+
+    return Response(
+        content=tile_data,
+        media_type="application/vnd.mapbox-vector-tile",
+        headers={"content-encoding": "gzip"},
+    )
+
+
+# PMTilesのラスタタイルを取得するエンドポイント
+@app.get("/raster/{file_name}/{z}/{x}/{y}.png")
+async def rastertile(file_name: str, z: int, x: int, y: int):
+    async with Reader(
+        f"http://127.0.0.1:9000/data/entry/pmtiles/raster/{file_name}.pmtiles"
+    ) as pmtiles:
+        tile_data = await pmtiles.get_tile(z, x, y)
+        if tile_data is None:
+            return Response(status_code=404)
+        return Response(content=tile_data, media_type="image/png")

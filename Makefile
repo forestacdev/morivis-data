@@ -1,3 +1,6 @@
+tiles: ## タイルサーバーを起動
+	cd batch && \
+	uv run fastapi dev
 
 ensyurin_update: ## 演習林のデータ更新
 	cd batch && \

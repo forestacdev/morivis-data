@@ -11,6 +11,35 @@ wheels = [
 ]
 
 [[package]]
+name = "aiocache"
+version = "0.12.3"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/7a/64/b945b8025a9d1e6e2138845f4022165d3b337f55f50984fbc6a4c0a1e355/aiocache-0.12.3.tar.gz", hash = "sha256:f528b27bf4d436b497a1d0d1a8f59a542c153ab1e37c3621713cb376d44c4713", size = 132196 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/37/d7/15d67e05b235d1ed8c3ce61688fe4d84130e72af1657acadfaac3479f4cf/aiocache-0.12.3-py2.py3-none-any.whl", hash = "sha256:889086fc24710f431937b87ad3720a289f7fc31c4fd8b68e9f918b9bacd8270d", size = 28199 },
+]
+
+[[package]]
+name = "aiofiles"
+version = "24.1.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/0b/03/a88171e277e8caa88a4c77808c20ebb04ba74cc4681bf1e9416c862de237/aiofiles-24.1.0.tar.gz", hash = "sha256:22a075c9e5a3810f0c2e48f3008c94d68c65d763b9b03857924c99e57355166c", size = 30247 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/a5/45/30bb92d442636f570cb5651bc661f52b610e2eec3f891a5dc3a4c3667db0/aiofiles-24.1.0-py3-none-any.whl", hash = "sha256:b4ec55f4195e3eb5d7abd1bf7e061763e864dd4954231fb8539a0ef8bb8260e5", size = 15896 },
+]
+
+[[package]]
+name = "aiopmtiles"
+version = "0.1.0"
+source = { git = "http://github.com/developmentseed/aiopmtiles#d58875183797e22a4bcf921cf7dae9b6dc37a9ff" }
+dependencies = [
+    { name = "aiocache" },
+    { name = "aiofiles" },
+    { name = "httpx" },
+    { name = "pmtiles" },
+]
+
+[[package]]
 name = "annotated-types"
 version = "0.7.0"
 source = { registry = "https://pypi.org/simple" }
@@ -46,6 +75,7 @@ name = "batch"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "aiopmtiles" },
     { name = "fastapi", extra = ["standard"] },
     { name = "flatgeobuf" },
     { name = "geopandas" },
@@ -59,6 +89,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
+    { name = "aiopmtiles", git = "http://github.com/developmentseed/aiopmtiles" },
     { name = "fastapi", extras = ["standard"], specifier = ">=0.115.7" },
     { name = "flatgeobuf", specifier = ">=0.3.1" },
     { name = "geopandas", specifier = ">=1.0.1" },
@@ -481,6 +512,12 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/d7/6c/6ec83ee2f6f0fda8d4cf89045c6be4b0373ebfc363ba8538f8c999f63fcd/pillow-11.1.0-cp313-cp313t-win_amd64.whl", hash = "sha256:ad5db5781c774ab9a9b2c4302bbf0c1014960a0a7be63278d13ae6fdf88126fe", size = 2631595 },
     { url = "https://files.pythonhosted.org/packages/cf/6c/41c21c6c8af92b9fea313aa47c75de49e2f9a467964ee33eb0135d47eb64/pillow-11.1.0-cp313-cp313t-win_arm64.whl", hash = "sha256:67cd427c68926108778a9005f2a04adbd5e67c442ed21d95389fe1d595458756", size = 2377651 },
 ]
+
+[[package]]
+name = "pmtiles"
+version = "3.4.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/21/69/5c2e4eb58aaf6303aebbaad3e6d7394b96d28f94af5bc16a6540d815bb09/pmtiles-3.4.1.tar.gz", hash = "sha256:48d6d8f317e7ec1f4150a715b1c220777f89f0c1061874a6022255a0859836ee", size = 13895 }
 
 [[package]]
 name = "pydantic"
