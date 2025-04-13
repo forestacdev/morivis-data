@@ -103,6 +103,8 @@ def create_search_json(file_paths, output_json=OUTPUT_DIR / "search_data.json"):
                         if convert_nan_to_none(row.get(k)) is not None
                     ]
 
+                    prop_id = convert_nan_to_none(row.get("_prop_id"))
+
                     feature = {
                         "layer_id": file_id,
                         "name": name,
@@ -110,6 +112,7 @@ def create_search_json(file_paths, output_json=OUTPUT_DIR / "search_data.json"):
                         "feature_id": feature_id,
                         "point": rep_point,
                         "tile_coords": tile_coords,
+                        "prop_id": prop_id,
                         "path": path,
                     }
                     search_index.append(feature)

@@ -15,6 +15,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "fac_open_labo",
     "path": "fac_building_point.geojson"
   },
   {
@@ -33,6 +34,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "fac_kakoutou",
     "path": "fac_building_point.geojson"
   },
   {
@@ -51,6 +53,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "fac_seizaitou",
     "path": "fac_building_point.geojson"
   },
   {
@@ -69,6 +72,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "fac_kensyutou",
     "path": "fac_building_point.geojson"
   },
   {
@@ -87,6 +91,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "fac_tech_a",
     "path": "fac_building_point.geojson"
   },
   {
@@ -105,6 +110,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "fac_tech_b",
     "path": "fac_building_point.geojson"
   },
   {
@@ -123,6 +129,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "fac_morinos",
     "path": "fac_building_point.geojson"
   },
   {
@@ -141,6 +148,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "fac_information",
     "path": "fac_building_point.geojson"
   },
   {
@@ -159,6 +167,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "fac_koubou",
     "path": "fac_building_point.geojson"
   },
   {
@@ -177,6 +186,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "fac_syako",
     "path": "fac_building_point.geojson"
   },
   {
@@ -195,6 +205,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "fac_cottage",
     "path": "fac_building_point.geojson"
   },
   {
@@ -213,6 +224,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "fac_forest_labo",
     "path": "fac_building_point.geojson"
   },
   {
@@ -231,6 +243,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "fac_wood_labo",
     "path": "fac_building_point.geojson"
   },
   {
@@ -249,6 +262,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "fac_center",
     "path": "fac_building_point.geojson"
   },
   {
@@ -267,6 +281,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "fac_ringyoukikaitou",
     "path": "fac_building_point.geojson"
   },
   {
@@ -287,6 +302,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_15",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -307,6 +323,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_01",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -327,6 +344,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_09",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -347,6 +365,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_11",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -367,6 +386,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_19",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -387,6 +407,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_02",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -407,6 +428,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_10",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -427,6 +449,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_17",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -447,6 +470,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_23",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -467,6 +491,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_08",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -487,6 +512,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_20",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -507,6 +533,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_13",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -527,6 +554,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_06",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -547,6 +575,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_18",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -567,6 +596,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_21",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -587,6 +617,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_05",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -607,6 +638,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_12",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -627,6 +659,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_14",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -647,6 +680,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_24",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -667,6 +701,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_22",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -687,6 +722,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_07",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -707,6 +743,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_04",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -727,6 +764,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_16",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -747,6 +785,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "ziriki_03",
     "path": "fac_ziriki_point.geojson"
   },
   {
@@ -765,6 +804,7 @@
       "y": 6459,
       "z": 14
     },
+    "prop_id": "heihuuiwa",
     "path": "fac_poi.geojson"
   },
   {
@@ -783,6 +823,7 @@
       "y": 6459,
       "z": 14
     },
+    "prop_id": "aozyutaki",
     "path": "fac_poi.geojson"
   },
   {
@@ -801,6 +842,7 @@
       "y": 6459,
       "z": 14
     },
+    "prop_id": "hirumesiiwa",
     "path": "fac_poi.geojson"
   },
   {
@@ -819,6 +861,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "umanoseiwa",
     "path": "fac_poi.geojson"
   },
   {
@@ -837,6 +880,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "nagamenoiwa",
     "path": "fac_poi.geojson"
   },
   {
@@ -855,6 +899,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "yamanokami",
     "path": "fac_poi.geojson"
   },
   {
@@ -873,6 +918,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "hebiotaki",
     "path": "fac_poi.geojson"
   },
   {
@@ -891,6 +937,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "gate_kokuyurin",
     "path": "fac_poi.geojson"
   },
   {
@@ -909,6 +956,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "azumaya_kezikabora",
     "path": "fac_poi.geojson"
   },
   {
@@ -927,6 +975,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "kezikaboraike",
     "path": "fac_poi.geojson"
   },
   {
@@ -945,6 +994,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "oosugi",
     "path": "fac_poi.geojson"
   },
   {
@@ -963,6 +1013,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "mokudou",
     "path": "fac_poi.geojson"
   },
   {
@@ -981,6 +1032,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "morinoiriguti",
     "path": "fac_poi.geojson"
   },
   {
@@ -999,6 +1051,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": null,
     "path": "fac_poi.geojson"
   },
   {
@@ -1017,6 +1070,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "gate_ensyurin",
     "path": "fac_poi.geojson"
   },
   {
@@ -1035,6 +1089,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "sumiyakigoya",
     "path": "fac_poi.geojson"
   },
   {
@@ -1053,6 +1108,7 @@
       "y": 6458,
       "z": 14
     },
+    "prop_id": "toilet",
     "path": "fac_poi.geojson"
   },
   {
@@ -1071,6 +1127,7 @@
       "y": 6459,
       "z": 14
     },
+    "prop_id": "miharasiiwa",
     "path": "fac_poi.geojson"
   },
   {
@@ -1089,6 +1146,7 @@
       "y": 6459,
       "z": 14
     },
+    "prop_id": "azumaya_1",
     "path": "fac_poi.geojson"
   },
   {
@@ -1107,6 +1165,7 @@
       "y": 6459,
       "z": 14
     },
+    "prop_id": "kozyo_kanritou",
     "path": "fac_poi.geojson"
   }
 ]
