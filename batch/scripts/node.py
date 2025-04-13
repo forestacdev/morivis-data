@@ -12,7 +12,7 @@ def load_geojson(file_path):
 
 
 INPUT_DIR = Path(__file__).resolve().parent.parent / "data"
-OUTPUT_DIR = Path(__file__).resolve().parent.parent.parent / "data" / "streetView"
+OUTPUT_DIR = Path(__file__).resolve().parent.parent.parent / "data" / "street-view"
 
 
 # ノードデータとリンクデータのファイルパスを指定（適宜変更）

@@ -10,7 +10,7 @@ ensyurin_update: ## 演習林のデータ更新
 360_update: ## データの更新
 	cd batch && \
 	uv run scripts/node.py && \
-	tippecanoe -o ../data/streetView/THETA360.pmtiles data/THETA360.geojson data/THETA360_line.geojson -ai --force
+	tippecanoe -o ../data/street-view/THETA360.pmtiles data/THETA360.geojson data/THETA360_line.geojson -ai --force
 
 search_data_update: ## 検索データの更新
 	cd batch && \
