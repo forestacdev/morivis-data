@@ -30,12 +30,12 @@ search_data_dict = {
     "fac_building_point": {
         "name_key": "name",
         "path": "fac_building_point.geojson",
-        "search_keys": ["name"],
+        "search_keys": ["name", "category", "建物名称"],
     },
     "fac_poi": {
         "name_key": "name",
         "path": "fac_poi.geojson",
-        "search_keys": ["name"],
+        "search_keys": ["name", "種類", "category"],
     },
 }
 
