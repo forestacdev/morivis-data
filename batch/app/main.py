@@ -40,7 +40,7 @@ def health():
 @app.get("/vector/{file_name}/{z}/{x}/{y}.pbf")
 async def vectortile(file_name: str, z: int, x: int, y: int):
     async with Reader(
-        f"http://127.0.0.1:9000/data/entry/pmtiles/vector/{file_name}.pmtiles"
+        f"http://localhost:9000/data/entries/pmtiles/vector/{file_name}.pmtiles"
     ) as pmtiles:
         # Get Tile
         tile_data = await pmtiles.get_tile(z, x, y)
@@ -59,7 +59,7 @@ async def vectortile(file_name: str, z: int, x: int, y: int):
 @app.get("/raster/{file_name}/{z}/{x}/{y}.png")
 async def rastertile(file_name: str, z: int, x: int, y: int):
     async with Reader(
-        f"http://127.0.0.1:9000/data/entry/pmtiles/raster/{file_name}.pmtiles"
+        f"http://localhost:9000/data/entries/pmtiles/raster/{file_name}.pmtiles"
     ) as pmtiles:
         tile_data = await pmtiles.get_tile(z, x, y)
         if tile_data is None:

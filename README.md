@@ -1,7 +1,5 @@
 # morivis-data
 
-開発環境
+This repository manages the forest and geographic data used in the morivis WebGIS application.
 
-```
-http-server -p 9000 --cors
-```
+🚧 This repository is currently under active development. The structure and content of the data may change without notice.
