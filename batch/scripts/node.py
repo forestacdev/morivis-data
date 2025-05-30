@@ -34,7 +34,7 @@ node_dict = {}
 
 for feature in nodes_geojson["features"]:
     if feature["geometry"]["type"] == "Point":
-        node_id = feature["properties"]["id"]
+        node_id = feature["properties"]["ID"]
         coordinates = round_coordinates(feature["geometry"]["coordinates"])  # 丸める
         node_dict[coordinates] = node_id
 
@@ -76,6 +76,10 @@ for feature in links_geojson["features"]:
                     node_connections[source_id].append(target_id)
                 if source_id not in node_connections[target_id]:
                     node_connections[target_id].append(source_id)
+            if target_id == "eff8984a-a037-44a9-a6d3-b67271dca211":
+                print(f"source: {source_id}")
+                print(f"target: {target_id}")
+                print(f"coordinates: {coordinates}")
 
         else:
             print(f"⚠️ 識別できないノードがある: {coordinates}")
