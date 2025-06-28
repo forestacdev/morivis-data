@@ -147,5 +147,5 @@ if __name__ == "__main__":
     else:
         print(f"📂 {len(fgb_files)} 個の .geojson ファイルを処理中...")
 
-        # 検索用 JSON を作成
+        # 検索用 JSON を作成（関数は別途定義済みと仮定）
         create_search_json(fgb_files)

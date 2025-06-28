@@ -1,11 +1,10 @@
 [
   {
-    "layer_id": "fac_poi",
+    "layer_id": "fac_building_point",
     "name": "オープンラボ",
     "search_values": [
       "オープンラボ",
-      "アカデミー施設",
-      "おーぷんらぼ"
+      "アカデミー施設"
     ],
     "feature_id": 0,
     "point": [
@@ -18,15 +17,14 @@
       "z": 14
     },
     "prop_id": "fac_open_labo",
-    "path": "fac_poi.geojson"
+    "path": "fac_building_point.geojson"
   },
   {
-    "layer_id": "fac_poi",
+    "layer_id": "fac_building_point",
     "name": "加工棟",
     "search_values": [
       "加工棟",
-      "アカデミー施設",
-      "かこうとう"
+      "アカデミー施設"
     ],
     "feature_id": 1,
     "point": [
@@ -39,15 +37,14 @@
       "z": 14
     },
     "prop_id": "fac_kakoutou",
-    "path": "fac_poi.geojson"
+    "path": "fac_building_point.geojson"
   },
   {
-    "layer_id": "fac_poi",
+    "layer_id": "fac_building_point",
     "name": "製材棟",
     "search_values": [
       "製材棟",
-      "アカデミー施設",
-      "せいざいとう"
+      "アカデミー施設"
     ],
     "feature_id": 2,
     "point": [
@@ -60,15 +57,14 @@
       "z": 14
     },
     "prop_id": "fac_seizaitou",
-    "path": "fac_poi.geojson"
+    "path": "fac_building_point.geojson"
   },
   {
-    "layer_id": "fac_poi",
+    "layer_id": "fac_building_point",
     "name": "研修棟",
     "search_values": [
       "研修棟",
-      "アカデミー施設",
-      "けんしゅうとう"
+      "アカデミー施設"
     ],
     "feature_id": 3,
     "point": [
@@ -81,17 +77,15 @@
       "z": 14
     },
     "prop_id": "fac_kensyutou",
-    "path": "fac_poi.geojson"
+    "path": "fac_building_point.geojson"
   },
   {
-    "layer_id": "fac_poi",
+    "layer_id": "fac_building_point",
     "name": "テクニカルセンターA",
     "search_values": [
       "テクニカルセンターA",
       "アカデミー施設",
-      "専修学校校舎",
-      "テクニカルセンター",
-      "てくにかるせんたーえー"
+      "テクニカルセンターＡ"
     ],
     "feature_id": 4,
     "point": [
@@ -104,17 +98,15 @@
       "z": 14
     },
     "prop_id": "fac_tech_a",
-    "path": "fac_poi.geojson"
+    "path": "fac_building_point.geojson"
   },
   {
-    "layer_id": "fac_poi",
+    "layer_id": "fac_building_point",
     "name": "テクニカルセンターB",
     "search_values": [
       "テクニカルセンターB",
       "アカデミー施設",
-      "専修学校校舎",
-      "テクニカルセンター",
-      "てくにかるせんたーびー"
+      "テクニカルセンターB"
     ],
     "feature_id": 5,
     "point": [
@@ -127,17 +119,15 @@
       "z": 14
     },
     "prop_id": "fac_tech_b",
-    "path": "fac_poi.geojson"
+    "path": "fac_building_point.geojson"
   },
   {
-    "layer_id": "fac_poi",
+    "layer_id": "fac_building_point",
     "name": "森林総合教育センター(morinos)",
     "search_values": [
       "森林総合教育センター(morinos)",
       "アカデミー施設",
-      "センターハウス",
-      "森林総合教育センター・センターハウス",
-      "もりのす"
+      "森林総合教育センター・センターハウス"
     ],
     "feature_id": 6,
     "point": [
@@ -150,17 +140,15 @@
       "z": 14
     },
     "prop_id": "fac_morinos",
-    "path": "fac_poi.geojson"
+    "path": "fac_building_point.geojson"
   },
   {
-    "layer_id": "fac_poi",
+    "layer_id": "fac_building_point",
     "name": "森の情報センター",
     "search_values": [
       "森の情報センター",
       "アカデミー施設",
-      "専修学校校舎",
-      "森の情報センター",
-      "もりのじょうほうせんたー"
+      "森の情報センター"
     ],
     "feature_id": 7,
     "point": [
@@ -173,17 +161,15 @@
       "z": 14
     },
     "prop_id": "fac_information",
-    "path": "fac_poi.geojson"
+    "path": "fac_building_point.geojson"
   },
   {
-    "layer_id": "fac_poi",
+    "layer_id": "fac_building_point",
     "name": "森の工房",
     "search_values": [
       "森の工房",
       "アカデミー施設",
-      "専修学校校舎",
-      "森の工房",
-      "もりのこうぼう"
+      "森の工房"
     ],
     "feature_id": 8,
     "point": [
@@ -196,17 +182,15 @@
       "z": 14
     },
     "prop_id": "fac_koubou",
-    "path": "fac_poi.geojson"
+    "path": "fac_building_point.geojson"
   },
   {
-    "layer_id": "fac_poi",
+    "layer_id": "fac_building_point",
     "name": "車庫",
     "search_values": [
       "車庫",
       "アカデミー施設",
-      "車庫",
-      "車庫",
-      "しゃこ"
+      "車庫"
     ],
     "feature_id": 9,
     "point": [
@@ -219,17 +203,15 @@
       "z": 14
     },
     "prop_id": "fac_syako",
-    "path": "fac_poi.geojson"
+    "path": "fac_building_point.geojson"
   },
   {
-    "layer_id": "fac_poi",
+    "layer_id": "fac_building_point",
     "name": "森のコテージ",
     "search_values": [
       "森のコテージ",
       "アカデミー施設",
-      "寄宿舎",
-      "森のコテージ",
-      "もりのこてーじ"
+      "森のコテージ"
     ],
     "feature_id": 10,
     "point": [
@@ -242,17 +224,15 @@
       "z": 14
     },
     "prop_id": "fac_cottage",
-    "path": "fac_poi.geojson"
+    "path": "fac_building_point.geojson"
   },
   {
-    "layer_id": "fac_poi",
+    "layer_id": "fac_building_point",
     "name": "メディアラボ、フォレストラボ",
     "search_values": [
       "メディアラボ、フォレストラボ",
       "アカデミー施設",
-      "専修学校校舎",
-      "マルチメディア実習棟",
-      "めでぃあらぼ、ふぉれすとらぼ"
+      "マルチメディア実習棟"
     ],
     "feature_id": 11,
     "point": [
@@ -265,17 +245,15 @@
       "z": 14
     },
     "prop_id": "fac_forest_labo",
-    "path": "fac_poi.geojson"
+    "path": "fac_building_point.geojson"
   },
   {
-    "layer_id": "fac_poi",
+    "layer_id": "fac_building_point",
     "name": "ウッドラボ",
     "search_values": [
       "ウッドラボ",
       "アカデミー施設",
-      "専修学校校舎",
-      "アトリエ",
-      "うっどらぼ"
+      "アトリエ"
     ],
     "feature_id": 12,
     "point": [
@@ -288,17 +266,15 @@
       "z": 14
     },
     "prop_id": "fac_wood_labo",
-    "path": "fac_poi.geojson"
+    "path": "fac_building_point.geojson"
   },
   {
-    "layer_id": "fac_poi",
+    "layer_id": "fac_building_point",
     "name": "アカデミーセンター",
     "search_values": [
       "アカデミーセンター",
       "アカデミー施設",
-      "専修学校事務所",
-      "アカデミーセンター",
-      "あかでみーせんたー"
+      "アカデミーセンター"
     ],
     "feature_id": 13,
     "point": [
@@ -311,17 +287,15 @@
       "z": 14
     },
     "prop_id": "fac_center",
-    "path": "fac_poi.geojson"
+    "path": "fac_building_point.geojson"
   },
   {
-    "layer_id": "fac_poi",
+    "layer_id": "fac_building_point",
     "name": "林業機械学習棟",
     "search_values": [
       "林業機械学習棟",
       "アカデミー施設",
-      "車庫",
-      "高性能林業機械車庫",
-      "りんぎょうきかいがくしゅうとう"
+      "高性能林業機械車庫"
     ],
     "feature_id": 14,
     "point": [
@@ -334,18 +308,521 @@
       "z": 14
     },
     "prop_id": "fac_ringyoukikaitou",
-    "path": "fac_poi.geojson"
+    "path": "fac_building_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "SOMA’s Hut(ソマズハット)",
+    "search_values": [
+      "SOMA’s Hut(ソマズハット)",
+      "自力建設",
+      "2015"
+    ],
+    "feature_id": 0,
+    "point": [
+      136.9232546722223,
+      35.55284719443177
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_15",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "森の中の四寸傘",
+    "search_values": [
+      "森の中の四寸傘",
+      "自力建設",
+      "2001"
+    ],
+    "feature_id": 1,
+    "point": [
+      136.92130311980299,
+      35.552165704819075
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_01",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "こならのみち",
+    "search_values": [
+      "こならのみち",
+      "自力建設",
+      "2009"
+    ],
+    "feature_id": 2,
+    "point": [
+      136.91922424915165,
+      35.55449699684275
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_09",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "森のインターチェンジ",
+    "search_values": [
+      "森のインターチェンジ",
+      "自力建設",
+      "2011"
+    ],
+    "feature_id": 3,
+    "point": [
+      136.91912716838334,
+      35.55433980253134
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_11",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "Cobiki(こびき)",
+    "search_values": [
+      "Cobiki(こびき)",
+      "自力建設",
+      "2019"
+    ],
+    "feature_id": 4,
+    "point": [
+      136.91843570674718,
+      35.55422496945224
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_19",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "みさきのちゃや",
+    "search_values": [
+      "みさきのちゃや",
+      "自力建設",
+      "2002"
+    ],
+    "feature_id": 5,
+    "point": [
+      136.91854652144718,
+      35.5549326480508
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_02",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "アラカシのだんだん",
+    "search_values": [
+      "アラカシのだんだん",
+      "自力建設",
+      "2010"
+    ],
+    "feature_id": 6,
+    "point": [
+      136.9184671312035,
+      35.55497562971101
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_10",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "里山獣肉学舎",
+    "search_values": [
+      "里山獣肉学舎",
+      "自力建設",
+      "2017"
+    ],
+    "feature_id": 7,
+    "point": [
+      136.91905782286463,
+      35.55613247338581
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_17",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "ほとりの櫓",
+    "search_values": [
+      "ほとりの櫓",
+      "自力建設",
+      "2023"
+    ],
+    "feature_id": 8,
+    "point": [
+      136.91837994892697,
+      35.55575438855056
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_23",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "ほたるの川床",
+    "search_values": [
+      "ほたるの川床",
+      "自力建設",
+      "2008"
+    ],
+    "feature_id": 9,
+    "point": [
+      136.9186567816317,
+      35.55550264687203
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_08",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "みどりのアトリエ",
+    "search_values": [
+      "みどりのアトリエ",
+      "自力建設",
+      "2020"
+    ],
+    "feature_id": 10,
+    "point": [
+      136.9187098051423,
+      35.55550984212805
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_20",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "おうらいの茶の間",
+    "search_values": [
+      "おうらいの茶の間",
+      "自力建設",
+      "2013"
+    ],
+    "feature_id": 11,
+    "point": [
+      136.91811331544088,
+      35.555594292431074
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_13",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "桂の湯殿",
+    "search_values": [
+      "桂の湯殿",
+      "自力建設",
+      "2006"
+    ],
+    "feature_id": 12,
+    "point": [
+      136.91808442232696,
+      35.555830789012084
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_06",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "森のいちだんらく",
+    "search_values": [
+      "森のいちだんらく",
+      "自力建設",
+      "2018"
+    ],
+    "feature_id": 13,
+    "point": [
+      136.91816639704874,
+      35.55584939437969
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_18",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "木立てのこみち",
+    "search_values": [
+      "木立てのこみち",
+      "自力建設",
+      "2021"
+    ],
+    "feature_id": 14,
+    "point": [
+      136.91788262609452,
+      35.555665982565
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_21",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "Switch(スイッチ)",
+    "search_values": [
+      "Switch(スイッチ)",
+      "自力建設",
+      "2005"
+    ],
+    "feature_id": 15,
+    "point": [
+      136.91733106807786,
+      35.55574879536785
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_05",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "木漏れ日の塔",
+    "search_values": [
+      "木漏れ日の塔",
+      "自力建設",
+      "2012"
+    ],
+    "feature_id": 16,
+    "point": [
+      136.91669416774363,
+      35.555513979309644
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_12",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "森湊灯台",
+    "search_values": [
+      "森湊灯台",
+      "自力建設",
+      "2014"
+    ],
+    "feature_id": 17,
+    "point": [
+      136.9182146159711,
+      35.55476357425939
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_14",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "栞",
+    "search_values": [
+      "栞",
+      "自力建設",
+      "2024"
+    ],
+    "feature_id": 18,
+    "point": [
+      136.9176853687138,
+      35.55397634181378
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_24",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "丁稚基地",
+    "search_values": [
+      "丁稚基地",
+      "自力建設",
+      "2022"
+    ],
+    "feature_id": 19,
+    "point": [
+      136.91770346150986,
+      35.55406317758115
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_22",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "地空楼",
+    "search_values": [
+      "地空楼",
+      "自力建設",
+      "2007"
+    ],
+    "feature_id": 20,
+    "point": [
+      136.91761857081204,
+      35.55404584642813
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_07",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "風の円居",
+    "search_values": [
+      "風の円居",
+      "自力建設",
+      "2004"
+    ],
+    "feature_id": 21,
+    "point": [
+      136.91916872643702,
+      35.55410524884002
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_04",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "Oasis(オアシス)",
+    "search_values": [
+      "Oasis(オアシス)",
+      "自力建設",
+      "2016"
+    ],
+    "feature_id": 22,
+    "point": [
+      136.91978373396978,
+      35.55398670421557
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_16",
+    "path": "fac_ziriki_point.geojson"
+  },
+  {
+    "layer_id": "fac_ziriki_point",
+    "name": "活木処",
+    "search_values": [
+      "活木処",
+      "自力建設",
+      "2003"
+    ],
+    "feature_id": 23,
+    "point": [
+      136.9196310479865,
+      35.553781047270256
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "ziriki_03",
+    "path": "fac_ziriki_point.geojson"
   },
   {
     "layer_id": "fac_poi",
     "name": "屏風岩",
     "search_values": [
       "屏風岩",
-      "演習林",
       "岩",
-      "へいふういわ"
+      "演習林"
     ],
-    "feature_id": 15,
+    "feature_id": 0,
     "point": [
       136.925213,
       35.548385
@@ -363,11 +840,10 @@
     "name": "青樹滝",
     "search_values": [
       "青樹滝",
-      "演習林",
       "滝",
-      "あおじゅたき"
+      "演習林"
     ],
-    "feature_id": 16,
+    "feature_id": 1,
     "point": [
       136.923228,
       35.549236
@@ -385,11 +861,10 @@
     "name": "昼飯岩",
     "search_values": [
       "昼飯岩",
-      "演習林",
       "岩",
-      "ひるめしいわ"
+      "演習林"
     ],
-    "feature_id": 17,
+    "feature_id": 2,
     "point": [
       136.922616,
       35.548532
@@ -407,11 +882,10 @@
     "name": "馬の背岩",
     "search_values": [
       "馬の背岩",
-      "演習林",
       "岩",
-      "うまのせいわ"
+      "演習林"
     ],
-    "feature_id": 18,
+    "feature_id": 3,
     "point": [
       136.923477,
       35.551817
@@ -429,11 +903,10 @@
     "name": "眺の岩",
     "search_values": [
       "眺の岩",
-      "演習林",
       "岩",
-      "ながめのいわ"
+      "演習林"
     ],
-    "feature_id": 19,
+    "feature_id": 4,
     "point": [
       136.923906,
       35.551367
@@ -451,10 +924,9 @@
     "name": "山の神",
     "search_values": [
       "山の神",
-      "演習林",
-      "やまのかみ"
+      "演習林"
     ],
-    "feature_id": 20,
+    "feature_id": 5,
     "point": [
       136.923685,
       35.55234
@@ -472,11 +944,10 @@
     "name": "蛇尾滝",
     "search_values": [
       "蛇尾滝",
-      "演習林",
       "滝",
-      "へびおたき"
+      "演習林"
     ],
-    "feature_id": 21,
+    "feature_id": 6,
     "point": [
       136.923946,
       35.552341
@@ -494,11 +965,10 @@
     "name": "国有林ゲート",
     "search_values": [
       "国有林ゲート",
-      "演習林",
       "ゲート",
-      "こくゆうりんゲート"
+      "演習林"
     ],
-    "feature_id": 22,
+    "feature_id": 7,
     "point": [
       136.92401,
       35.55462
@@ -513,14 +983,34 @@
   },
   {
     "layer_id": "fac_poi",
+    "name": "東屋",
+    "search_values": [
+      "東屋",
+      "東屋",
+      "演習林"
+    ],
+    "feature_id": 8,
+    "point": [
+      136.922851,
+      35.555274
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "azumaya_kezikabora",
+    "path": "fac_poi.geojson"
+  },
+  {
+    "layer_id": "fac_poi",
     "name": "毛鹿洞池",
     "search_values": [
       "毛鹿洞池",
-      "演習林",
       "池",
-      "けじかぼらいけ"
+      "演習林"
     ],
-    "feature_id": 23,
+    "feature_id": 9,
     "point": [
       136.922681,
       35.555474
@@ -538,10 +1028,9 @@
     "name": "大杉",
     "search_values": [
       "大杉",
-      "演習林",
-      "おおすぎ"
+      "演習林"
     ],
-    "feature_id": 24,
+    "feature_id": 10,
     "point": [
       136.92288,
       35.552971
@@ -556,13 +1045,32 @@
   },
   {
     "layer_id": "fac_poi",
+    "name": "木道",
+    "search_values": [
+      "木道",
+      "演習林"
+    ],
+    "feature_id": 11,
+    "point": [
+      136.922882,
+      35.551982
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "mokudou",
+    "path": "fac_poi.geojson"
+  },
+  {
+    "layer_id": "fac_poi",
     "name": "森のいりぐち",
     "search_values": [
       "森のいりぐち",
-      "演習林",
-      "もりのいりぐち"
+      "演習林"
     ],
-    "feature_id": 25,
+    "feature_id": 12,
     "point": [
       136.920382,
       35.553815
@@ -581,10 +1089,9 @@
     "search_values": [
       "岐阜県森林研究所",
       "施設",
-      "施設",
-      "岐阜県森林研究所"
+      "施設"
     ],
-    "feature_id": 26,
+    "feature_id": 13,
     "point": [
       136.9201796997884,
       35.553436122622
@@ -602,11 +1109,10 @@
     "name": "チェーンゲート",
     "search_values": [
       "チェーンゲート",
-      "演習林",
       "ゲート",
-      "ちぇーんげーと"
+      "演習林"
     ],
-    "feature_id": 27,
+    "feature_id": 14,
     "point": [
       136.92001,
       35.551472
@@ -624,10 +1130,9 @@
     "name": "炭焼き小屋",
     "search_values": [
       "炭焼き小屋",
-      "演習林",
-      "すみやきごや"
+      "演習林"
     ],
-    "feature_id": 28,
+    "feature_id": 15,
     "point": [
       136.921202,
       35.550254
@@ -642,14 +1147,33 @@
   },
   {
     "layer_id": "fac_poi",
+    "name": "トイレ",
+    "search_values": [
+      "トイレ",
+      "演習林"
+    ],
+    "feature_id": 16,
+    "point": [
+      136.921287,
+      35.550746
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6458,
+      "z": 14
+    },
+    "prop_id": "toilet",
+    "path": "fac_poi.geojson"
+  },
+  {
+    "layer_id": "fac_poi",
     "name": "見晴らし岩",
     "search_values": [
       "見晴らし岩",
-      "演習林",
       "岩",
-      "みはらしいわ"
+      "演習林"
     ],
-    "feature_id": 29,
+    "feature_id": 17,
     "point": [
       136.920721,
       35.548931
@@ -664,14 +1188,34 @@
   },
   {
     "layer_id": "fac_poi",
-    "name": "古城山ふれあいの森管理棟",
+    "name": "東屋",
     "search_values": [
-      "古城山ふれあいの森管理棟",
-      "施設",
-      "施設",
-      "こじょうさんふれあいのもりかんりとう"
+      "東屋",
+      "東屋",
+      "演習林"
     ],
-    "feature_id": 30,
+    "feature_id": 18,
+    "point": [
+      136.920841,
+      35.548827
+    ],
+    "tile_coords": {
+      "x": 14423,
+      "y": 6459,
+      "z": 14
+    },
+    "prop_id": "azumaya_1",
+    "path": "fac_poi.geojson"
+  },
+  {
+    "layer_id": "fac_poi",
+    "name": "古城山ふれあいの森 管理棟",
+    "search_values": [
+      "古城山ふれあいの森 管理棟",
+      "施設",
+      "施設"
+    ],
+    "feature_id": 19,
     "point": [
       136.9190129344606,
       35.54882899788583
@@ -682,540 +1226,6 @@
       "z": 14
     },
     "prop_id": "kozyo_kanritou",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "SOMA’s Hut(ソマズハット)",
-    "search_values": [
-      "SOMA’s Hut(ソマズハット)",
-      "自力建設",
-      "",
-      "そまずはっと"
-    ],
-    "feature_id": 31,
-    "point": [
-      136.9232546722223,
-      35.55284719443177
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_15",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "森の中の四寸傘",
-    "search_values": [
-      "森の中の四寸傘",
-      "自力建設",
-      "",
-      "もりのよんすんがさ"
-    ],
-    "feature_id": 32,
-    "point": [
-      136.92130311980299,
-      35.552165704819075
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_01",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "こならのみち",
-    "search_values": [
-      "こならのみち",
-      "自力建設",
-      "その他",
-      "こならのみち",
-      "こならのみち"
-    ],
-    "feature_id": 33,
-    "point": [
-      136.91922424915165,
-      35.55449699684275
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_09",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "森のインターチェンジ",
-    "search_values": [
-      "森のインターチェンジ",
-      "自力建設",
-      "通路",
-      "森のインターチェンジ",
-      "もりのいんたーちぇんじ"
-    ],
-    "feature_id": 34,
-    "point": [
-      136.91912716838334,
-      35.55433980253134
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_11",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "Cobiki(こびき)",
-    "search_values": [
-      "Cobiki(こびき)",
-      "自力建設",
-      "その他",
-      "簡易製材小屋",
-      "こびき"
-    ],
-    "feature_id": 35,
-    "point": [
-      136.91843570674718,
-      35.55422496945224
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_19",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "みさきのちゃや",
-    "search_values": [
-      "みさきのちゃや",
-      "自力建設",
-      "その他",
-      "みさきのちゃや",
-      "みさきのちゃや"
-    ],
-    "feature_id": 36,
-    "point": [
-      136.91854652144718,
-      35.5549326480508
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_02",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "アラカシのだんだん",
-    "search_values": [
-      "アラカシのだんだん",
-      "自力建設",
-      "その他",
-      "あらかしのだんだん",
-      "あらかしのだんだん"
-    ],
-    "feature_id": 37,
-    "point": [
-      136.9184671312035,
-      35.55497562971101
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_10",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "里山獣肉学舎",
-    "search_values": [
-      "里山獣肉学舎",
-      "自力建設",
-      "その他",
-      "里山獣肉学舎",
-      "さとやまじゅうにくがくしゃ"
-    ],
-    "feature_id": 38,
-    "point": [
-      136.91905782286463,
-      35.55613247338581
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_17",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "ほとりの櫓",
-    "search_values": [
-      "ほとりの櫓",
-      "自力建設"
-    ],
-    "feature_id": 39,
-    "point": [
-      136.91837994892697,
-      35.55575438855056
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_23",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "ほたるの川床",
-    "search_values": [
-      "ほたるの川床",
-      "自力建設",
-      "",
-      "ほたるのかわどこ"
-    ],
-    "feature_id": 40,
-    "point": [
-      136.9186567816317,
-      35.55550264687203
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_08",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "みどりのアトリエ",
-    "search_values": [
-      "みどりのアトリエ",
-      "自力建設",
-      "",
-      "みどりのあとりえ"
-    ],
-    "feature_id": 41,
-    "point": [
-      136.9187098051423,
-      35.55550984212805
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_20",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "おうらいの茶の間",
-    "search_values": [
-      "おうらいの茶の間",
-      "自力建設",
-      "通路",
-      "おうらいの茶の間",
-      "おうらいのちゃのま"
-    ],
-    "feature_id": 42,
-    "point": [
-      136.91811331544088,
-      35.555594292431074
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_13",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "桂の湯殿",
-    "search_values": [
-      "桂の湯殿",
-      "自力建設",
-      "その他",
-      "桂の湯殿",
-      "かつらのゆどの"
-    ],
-    "feature_id": 43,
-    "point": [
-      136.91808442232696,
-      35.555830789012084
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_06",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "森のいちだんらく",
-    "search_values": [
-      "森のいちだんらく",
-      "自力建設",
-      "",
-      "もりのいちだんらく"
-    ],
-    "feature_id": 44,
-    "point": [
-      136.91816639704874,
-      35.55584939437969
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_18",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "木立のこみち",
-    "search_values": [
-      "木立のこみち",
-      "自力建設",
-      "",
-      "こだちのこみち"
-    ],
-    "feature_id": 45,
-    "point": [
-      136.91788262609452,
-      35.555665982565
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_21",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "Switch(スイッチ)",
-    "search_values": [
-      "Switch(スイッチ)",
-      "自力建設",
-      "自転車置場",
-      "swich",
-      "すいっち"
-    ],
-    "feature_id": 46,
-    "point": [
-      136.91733106807786,
-      35.55574879536785
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_05",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "木漏れ日の塔",
-    "search_values": [
-      "木漏れ日の塔",
-      "自力建設",
-      "",
-      "こもれびのとう"
-    ],
-    "feature_id": 47,
-    "point": [
-      136.91669416774363,
-      35.555513979309644
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_12",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "森湊灯台",
-    "search_values": [
-      "森湊灯台",
-      "自力建設",
-      "その他",
-      "森湊灯台",
-      "もりみなととうだい"
-    ],
-    "feature_id": 48,
-    "point": [
-      136.9182146159711,
-      35.55476357425939
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_14",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "栞",
-    "search_values": [
-      "栞",
-      "自力建設"
-    ],
-    "feature_id": 49,
-    "point": [
-      136.9176853687138,
-      35.55397634181378
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_24",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "丁稚基地",
-    "search_values": [
-      "丁稚基地",
-      "自力建設"
-    ],
-    "feature_id": 50,
-    "point": [
-      136.91770346150986,
-      35.55406317758115
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_22",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "地空楼",
-    "search_values": [
-      "地空楼",
-      "自力建設",
-      "通路",
-      "地空楼"
-    ],
-    "feature_id": 51,
-    "point": [
-      136.91761857081204,
-      35.55404584642813
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_07",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "風の円居",
-    "search_values": [
-      "風の円居",
-      "自力建設",
-      "その他",
-      "風の円居",
-      "かぜのまとい"
-    ],
-    "feature_id": 52,
-    "point": [
-      136.91916872643702,
-      35.55410524884002
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_04",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "Oasis(オアシス)",
-    "search_values": [
-      "Oasis(オアシス)",
-      "自力建設",
-      "その他",
-      "オアシス",
-      "おあしす"
-    ],
-    "feature_id": 53,
-    "point": [
-      136.91978373396978,
-      35.55398670421557
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_16",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
-    "name": "活木処",
-    "search_values": [
-      "活木処",
-      "自力建設",
-      "その他",
-      "活木処"
-    ],
-    "feature_id": 54,
-    "point": [
-      136.9196310479865,
-      35.553781047270256
-    ],
-    "tile_coords": {
-      "x": 14423,
-      "y": 6458,
-      "z": 14
-    },
-    "prop_id": "ziriki_03",
     "path": "fac_poi.geojson"
   }
 ]
