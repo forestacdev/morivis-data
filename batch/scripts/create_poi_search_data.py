@@ -21,6 +21,7 @@ def lonlat_to_tile_coords(lon: float, lat: float, zoom: int = 14):
 
 OUTPUT_DIR = Path(__file__).resolve().parent.parent.parent / "data"
 
+# TODO:　引数でファイルパスをわたすのがいいかも
 search_data_dict = {
     "fac_poi": {
         "name_key": "name",
