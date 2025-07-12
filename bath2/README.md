@@ -11,4 +11,10 @@ npx mbsprite explode https://gsi-cyberjapan.github.io/optimal_bvmap/sprite/std i
 npx mbsprite explode http://localhost:9000/data/sprite/sprite icons
 ```
 
-https://github.com/stevage/mbsprite
+## Tools
+- https://github.com/stevage/mbsprite
+
+
+## Data source
+- https://github.com/gsi-cyberjapan/optimal_bvmap/tree/main/sprite
+- https://github.com/azavea/texturemap?tab=readme-ov-file
