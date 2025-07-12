@@ -7,7 +7,7 @@ function generatePrefectureSVGs_AspectRatio() {
     const geojsonData = JSON.parse(fs.readFileSync('lite_prefectures.geojson', 'utf8'));
     
     // 出力ディレクトリを作成
-    const outputDir = './prefecture_svg_aspect_ratio';
+    const outputDir = './prefectures';
     if (!fs.existsSync(outputDir)) {
         fs.mkdirSync(outputDir, { recursive: true });
     }
@@ -114,7 +114,7 @@ function generatePrefectureSVGs_AspectRatio() {
     }
     
     // 座標変換関数（パディング付き）
-    function coordinateToSVG(coord, bounds, viewport, padding = 0.1) {
+    function coordinateToSVG(coord, bounds, viewport, padding = 0) {
         const [lon, lat] = coord;
         const lonRange = bounds.maxLon - bounds.minLon;
         const latRange = bounds.maxLat - bounds.minLat;
@@ -207,68 +207,34 @@ function generatePrefectureSVGs_AspectRatio() {
             });
         }
         
-        // SVGファイルを作成（都道府県名なし、黒色）
-        const svgContent = `<?xml version="1.0" encoding="UTF-8"?>
-<svg width="${viewport.width}" height="${viewport.height}" viewBox="0 0 ${viewport.width} ${viewport.height}" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="100%" fill="white"/>
+        // SVGファイルを作成 svelte
+const svgContent = `<script lang="ts">
+    interface Props {
+        width?: string;
+    }
+
+    let { width = '100px' }: Props = $props();
+</script>
+<svg {width} height="auto" viewBox="0 0 ${viewport.width} ${viewport.height}" xmlns="http://www.w3.org/2000/svg">
     <path d="${pathData}" fill="black" stroke="black" stroke-width="1"/>
 </svg>`;
         
         // ファイルに保存
-        fs.writeFileSync(`${outputDir}/${fileName}.svg`, svgContent);
-        console.log(`✅ Generated: ${fileName}.svg (${viewport.width}x${viewport.height})`);
+        fs.writeFileSync(`${outputDir}/${fileName}.svelte`, svgContent);
+        console.log(`Generated: ${fileName}.svg (${viewport.width}x${viewport.height})`);
     });
     
-    console.log(`\n🎉 完了！ ${geojsonData.features.length} 個のSVGファイルを生成しました`);
-    console.log(`📁 出力先: ${outputDir}`);
+    console.log(`${geojsonData.features.length} 個のSVGファイルを生成しました`);
+    console.log(`出力先: ${outputDir}`);
 }
 
 
-
-// 統計情報を表示
-function showStatistics() {
-    console.log('\n📊 統計情報:');
-    
-    const outputDir = './prefectures';
-    const files = fs.readdirSync(outputDir).filter(file => file.endsWith('.svg'));
-    
-    let totalSize = 0;
-    let minSize = Infinity;
-    let maxSize = 0;
-    let aspectRatios = [];
-    
-    files.forEach(file => {
-        const filePath = `${outputDir}/${file}`;
-        const fileSize = fs.statSync(filePath).size;
-        totalSize += fileSize;
-        minSize = Math.min(minSize, fileSize);
-        maxSize = Math.max(maxSize, fileSize);
-        
-        // SVGファイルからサイズを取得
-        const content = fs.readFileSync(filePath, 'utf8');
-        const widthMatch = content.match(/width="(\d+)"/);
-        const heightMatch = content.match(/height="(\d+)"/);
-        
-        if (widthMatch && heightMatch) {
-            const width = parseInt(widthMatch[1]);
-            const height = parseInt(heightMatch[1]);
-            aspectRatios.push(width / height);
-        }
-    });
-    
-    console.log(`ファイル数: ${files.length}`);
-    console.log(`総サイズ: ${Math.round(totalSize / 1024)}KB`);
-    console.log(`平均サイズ: ${Math.round(totalSize / files.length / 1024)}KB`);
-    console.log(`最小サイズ: ${Math.round(minSize / 1024)}KB`);
-    console.log(`最大サイズ: ${Math.round(maxSize / 1024)}KB`);
-    console.log(`平均アスペクト比: ${(aspectRatios.reduce((a, b) => a + b, 0) / aspectRatios.length).toFixed(2)}`);
-}
 
 // 実行部分
 async function main() {
     try {
         generatePrefectureSVGs_AspectRatio();
-        showStatistics();
+      
         
         console.log('\n🎯 特徴:');
         console.log('✅ ファイル名が都道府県コード（01-47）になっている');
@@ -302,5 +268,4 @@ if (require.main === module) {
 
 module.exports = {
     generatePrefectureSVGs_AspectRatio,
-    showStatistics
 };

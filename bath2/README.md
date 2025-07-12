@@ -1,9 +1,14 @@
+
+iconからspriteを作成
 ```
 npx mbsprite bundle ../data/sprite icons icons@2x
 ```
 
+
+spritesからiconを出力
 ```
 npx mbsprite explode https://gsi-cyberjapan.github.io/optimal_bvmap/sprite/std icons
+npx mbsprite explode http://localhost:9000/data/sprite/sprite icons
 ```
 
 https://github.com/stevage/mbsprite

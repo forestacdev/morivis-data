@@ -1,1234 +1,898 @@
 {
-  "aozyutaki": {
-    "width": 432,
-    "height": 512,
+  "tmpoly-caret-100-black": {
+    "width": 13,
+    "height": 13,
     "x": 0,
     "y": 0,
     "pixelRatio": 2
   },
-  "azumaya_1": {
-    "width": 432,
-    "height": 512,
-    "x": 432,
+  "tmpoly-caret-100-white": {
+    "width": 13,
+    "height": 13,
+    "x": 13,
     "y": 0,
     "pixelRatio": 2
   },
-  "azumaya_kezikabora": {
-    "width": 432,
-    "height": 512,
-    "x": 864,
+  "tmpoly-caret-200-black": {
+    "width": 10,
+    "height": 10,
+    "x": 26,
     "y": 0,
     "pixelRatio": 2
   },
-  "fac_center": {
-    "width": 432,
-    "height": 512,
-    "x": 1296,
+  "tmpoly-caret-200-white": {
+    "width": 10,
+    "height": 10,
+    "x": 36,
     "y": 0,
     "pixelRatio": 2
   },
-  "fac_cottage": {
-    "width": 432,
-    "height": 512,
-    "x": 0,
-    "y": 512,
+  "tmpoly-circle-alt-light-100-black": {
+    "width": 20,
+    "height": 20,
+    "x": 46,
+    "y": 0,
     "pixelRatio": 2
   },
-  "fac_forest_labo": {
-    "width": 432,
-    "height": 512,
-    "x": 432,
-    "y": 512,
+  "tmpoly-circle-alt-light-100-white": {
+    "width": 20,
+    "height": 20,
+    "x": 66,
+    "y": 0,
     "pixelRatio": 2
   },
-  "fac_information": {
-    "width": 432,
-    "height": 512,
-    "x": 864,
-    "y": 512,
+  "tmpoly-circle-alt-light-200-black": {
+    "width": 12,
+    "height": 12,
+    "x": 86,
+    "y": 0,
     "pixelRatio": 2
   },
-  "fac_kakoutou": {
-    "width": 432,
-    "height": 512,
-    "x": 1296,
-    "y": 512,
+  "tmpoly-circle-alt-light-200-white": {
+    "width": 12,
+    "height": 12,
+    "x": 98,
+    "y": 0,
     "pixelRatio": 2
   },
-  "fac_kensyutou": {
-    "width": 432,
-    "height": 512,
-    "x": 0,
-    "y": 1024,
-    "pixelRatio": 2
-  },
-  "fac_koubou": {
-    "width": 432,
-    "height": 512,
-    "x": 432,
-    "y": 1024,
-    "pixelRatio": 2
-  },
-  "fac_morinos": {
-    "width": 432,
-    "height": 512,
-    "x": 864,
-    "y": 1024,
-    "pixelRatio": 2
-  },
-  "fac_open_labo": {
-    "width": 432,
-    "height": 512,
-    "x": 1296,
-    "y": 1024,
-    "pixelRatio": 2
-  },
-  "fac_ringyoukikaitou": {
-    "width": 432,
-    "height": 512,
-    "x": 0,
-    "y": 1536,
-    "pixelRatio": 2
-  },
-  "fac_seizaitou": {
-    "width": 432,
-    "height": 512,
-    "x": 432,
-    "y": 1536,
-    "pixelRatio": 2
-  },
-  "fac_syako": {
-    "width": 432,
-    "height": 512,
-    "x": 864,
-    "y": 1536,
-    "pixelRatio": 2
-  },
-  "fac_tech_a": {
-    "width": 432,
-    "height": 512,
-    "x": 1296,
-    "y": 1536,
-    "pixelRatio": 2
-  },
-  "fac_tech_b": {
-    "width": 432,
-    "height": 512,
-    "x": 0,
-    "y": 2048,
-    "pixelRatio": 2
-  },
-  "fac_wood_labo": {
-    "width": 432,
-    "height": 512,
-    "x": 432,
-    "y": 2048,
-    "pixelRatio": 2
-  },
-  "gate_ensyurin": {
-    "width": 432,
-    "height": 512,
-    "x": 864,
-    "y": 2048,
-    "pixelRatio": 2
-  },
-  "gate_kokuyurin": {
-    "width": 432,
-    "height": 512,
-    "x": 1296,
-    "y": 2048,
-    "pixelRatio": 2
-  },
-  "hebiotaki": {
-    "width": 432,
-    "height": 512,
-    "x": 0,
-    "y": 2560,
-    "pixelRatio": 2
-  },
-  "heihuuiwa": {
-    "width": 432,
-    "height": 512,
-    "x": 432,
-    "y": 2560,
-    "pixelRatio": 2
-  },
-  "hirumesiiwa": {
-    "width": 432,
-    "height": 512,
-    "x": 864,
-    "y": 2560,
-    "pixelRatio": 2
-  },
-  "kezikaboraike": {
-    "width": 432,
-    "height": 512,
-    "x": 1296,
-    "y": 2560,
-    "pixelRatio": 2
-  },
-  "miharasiiwa": {
-    "width": 432,
-    "height": 512,
-    "x": 0,
-    "y": 3072,
-    "pixelRatio": 2
-  },
-  "mokudou": {
-    "width": 432,
-    "height": 512,
-    "x": 432,
-    "y": 3072,
-    "pixelRatio": 2
-  },
-  "morinoiriguti": {
-    "width": 432,
-    "height": 512,
-    "x": 864,
-    "y": 3072,
-    "pixelRatio": 2
-  },
-  "nagamenoiwa": {
-    "width": 432,
-    "height": 512,
-    "x": 1296,
-    "y": 3072,
-    "pixelRatio": 2
-  },
-  "oosugi": {
-    "width": 432,
-    "height": 512,
-    "x": 0,
-    "y": 3584,
-    "pixelRatio": 2
-  },
-  "sumiyakigoya": {
-    "width": 432,
-    "height": 512,
-    "x": 432,
-    "y": 3584,
-    "pixelRatio": 2
-  },
-  "toilet": {
-    "width": 432,
-    "height": 512,
-    "x": 864,
-    "y": 3584,
-    "pixelRatio": 2
-  },
-  "umanoseiwa": {
-    "width": 432,
-    "height": 512,
-    "x": 1296,
-    "y": 3584,
-    "pixelRatio": 2
-  },
-  "unknown": {
+  "tmpoly-circle-alt-medium-100-black": {
     "width": 24,
     "height": 24,
-    "x": 1728,
-    "y": 3584,
+    "x": 110,
+    "y": 0,
     "pixelRatio": 2
   },
-  "yamanokami": {
-    "width": 432,
-    "height": 512,
-    "x": 0,
-    "y": 4096,
+  "tmpoly-circle-alt-medium-100-white": {
+    "width": 24,
+    "height": 24,
+    "x": 134,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_01": {
-    "width": 432,
-    "height": 512,
-    "x": 432,
-    "y": 4096,
+  "tmpoly-circle-alt-medium-200-black": {
+    "width": 16,
+    "height": 16,
+    "x": 158,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_02": {
-    "width": 432,
-    "height": 512,
-    "x": 864,
-    "y": 4096,
+  "tmpoly-circle-alt-medium-200-white": {
+    "width": 16,
+    "height": 16,
+    "x": 174,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_03": {
-    "width": 432,
-    "height": 512,
-    "x": 1296,
-    "y": 4096,
+  "tmpoly-circle-bold-100-black": {
+    "width": 16,
+    "height": 16,
+    "x": 190,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_04": {
-    "width": 432,
-    "height": 512,
-    "x": 0,
-    "y": 4608,
+  "tmpoly-circle-bold-100-white": {
+    "width": 16,
+    "height": 16,
+    "x": 206,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_05": {
-    "width": 432,
-    "height": 512,
-    "x": 432,
-    "y": 4608,
+  "tmpoly-circle-bold-200-black": {
+    "width": 12,
+    "height": 12,
+    "x": 222,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_06": {
-    "width": 432,
-    "height": 512,
-    "x": 864,
-    "y": 4608,
+  "tmpoly-circle-bold-200-white": {
+    "width": 12,
+    "height": 12,
+    "x": 234,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_07": {
-    "width": 432,
-    "height": 512,
-    "x": 1296,
-    "y": 4608,
+  "tmpoly-circle-heavy-100-black": {
+    "width": 16,
+    "height": 16,
+    "x": 246,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_08": {
-    "width": 432,
-    "height": 512,
-    "x": 0,
-    "y": 5120,
+  "tmpoly-circle-heavy-100-white": {
+    "width": 16,
+    "height": 16,
+    "x": 262,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_09": {
-    "width": 432,
-    "height": 512,
-    "x": 432,
-    "y": 5120,
+  "tmpoly-circle-heavy-200-black": {
+    "width": 12,
+    "height": 12,
+    "x": 278,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_10": {
-    "width": 432,
-    "height": 512,
-    "x": 864,
-    "y": 5120,
+  "tmpoly-circle-heavy-200-white": {
+    "width": 12,
+    "height": 12,
+    "x": 290,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_11": {
-    "width": 432,
-    "height": 512,
-    "x": 1296,
-    "y": 5120,
+  "tmpoly-circle-light-100-black": {
+    "width": 14,
+    "height": 14,
+    "x": 302,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_12": {
-    "width": 432,
-    "height": 512,
-    "x": 0,
-    "y": 5632,
+  "tmpoly-circle-light-100-white": {
+    "width": 14,
+    "height": 14,
+    "x": 316,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_13": {
-    "width": 432,
-    "height": 512,
-    "x": 432,
-    "y": 5632,
+  "tmpoly-circle-light-200-black": {
+    "width": 10,
+    "height": 10,
+    "x": 330,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_14": {
-    "width": 432,
-    "height": 512,
-    "x": 864,
-    "y": 5632,
+  "tmpoly-circle-light-200-white": {
+    "width": 10,
+    "height": 10,
+    "x": 340,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_15": {
-    "width": 432,
-    "height": 512,
-    "x": 1296,
-    "y": 5632,
+  "tmpoly-circle-light-300-black": {
+    "width": 6,
+    "height": 6,
+    "x": 350,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_16": {
-    "width": 432,
-    "height": 512,
-    "x": 0,
-    "y": 6144,
+  "tmpoly-circle-light-300-white": {
+    "width": 6,
+    "height": 6,
+    "x": 356,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_17": {
-    "width": 432,
-    "height": 512,
-    "x": 432,
-    "y": 6144,
+  "tmpoly-circle-medium-100-black": {
+    "width": 16,
+    "height": 16,
+    "x": 362,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_18": {
-    "width": 432,
-    "height": 512,
-    "x": 864,
-    "y": 6144,
+  "tmpoly-circle-medium-100-white": {
+    "width": 16,
+    "height": 16,
+    "x": 378,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_19": {
-    "width": 432,
-    "height": 512,
-    "x": 1296,
-    "y": 6144,
+  "tmpoly-circle-medium-200-black": {
+    "width": 12,
+    "height": 12,
+    "x": 394,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_20": {
-    "width": 432,
-    "height": 512,
-    "x": 0,
-    "y": 6656,
+  "tmpoly-circle-medium-200-white": {
+    "width": 12,
+    "height": 12,
+    "x": 406,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_21": {
-    "width": 432,
-    "height": 512,
-    "x": 432,
-    "y": 6656,
+  "tmpoly-circle-medium-300-black": {
+    "width": 8,
+    "height": 8,
+    "x": 418,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_22": {
-    "width": 432,
-    "height": 512,
-    "x": 864,
-    "y": 6656,
+  "tmpoly-circle-medium-300-white": {
+    "width": 8,
+    "height": 8,
+    "x": 426,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_23": {
-    "width": 432,
-    "height": 512,
-    "x": 1296,
-    "y": 6656,
+  "tmpoly-crosshatch-light-100-black": {
+    "width": 8,
+    "height": 8,
+    "x": 434,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ziriki_24": {
-    "width": 432,
-    "height": 512,
-    "x": 0,
-    "y": 7168,
+  "tmpoly-crosshatch-light-100-white": {
+    "width": 8,
+    "height": 8,
+    "x": 442,
+    "y": 0,
     "pixelRatio": 2
   },
-  "インターチェンジ-20": {
-    "width": 64,
-    "height": 64,
-    "x": 432,
-    "y": 7168,
+  "tmpoly-crosshatch-light-200-black": {
+    "width": 12,
+    "height": 12,
+    "x": 450,
+    "y": 0,
     "pixelRatio": 2
   },
-  "サービスエリア-20": {
-    "width": 64,
-    "height": 64,
-    "x": 496,
-    "y": 7168,
+  "tmpoly-crosshatch-light-200-white": {
+    "width": 12,
+    "height": 12,
+    "x": 462,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ジャンクション-20": {
-    "width": 64,
-    "height": 64,
-    "x": 560,
-    "y": 7168,
+  "tmpoly-crosshatch-light-300-black": {
+    "width": 16,
+    "height": 16,
+    "x": 474,
+    "y": 0,
     "pixelRatio": 2
   },
-  "スマートインターチェンジ-20": {
-    "width": 64,
-    "height": 64,
-    "x": 624,
-    "y": 7168,
+  "tmpoly-crosshatch-light-300-white": {
+    "width": 16,
+    "height": 16,
+    "x": 490,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ハイマツ地": {
-    "width": 64,
-    "height": 64,
-    "x": 688,
-    "y": 7168,
+  "tmpoly-crosshatch-medium-100-black": {
+    "width": 8,
+    "height": 8,
+    "x": 506,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ヤシ科樹林-20": {
-    "width": 64,
-    "height": 64,
+  "tmpoly-crosshatch-medium-100-white": {
+    "width": 8,
+    "height": 8,
+    "x": 514,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-crosshatch-medium-200-black": {
+    "width": 12,
+    "height": 12,
+    "x": 522,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-crosshatch-medium-200-white": {
+    "width": 12,
+    "height": 12,
+    "x": 534,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-crosshatch-medium-300-black": {
+    "width": 16,
+    "height": 16,
+    "x": 546,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-crosshatch-medium-300-white": {
+    "width": 16,
+    "height": 16,
+    "x": 562,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-grid-light-100-black": {
+    "width": 6,
+    "height": 6,
+    "x": 578,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-grid-light-100-white": {
+    "width": 6,
+    "height": 6,
+    "x": 584,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-grid-light-200-black": {
+    "width": 8,
+    "height": 8,
+    "x": 590,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-grid-light-200-white": {
+    "width": 8,
+    "height": 8,
+    "x": 598,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-grid-medium-100-black": {
+    "width": 6,
+    "height": 6,
+    "x": 606,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-grid-medium-100-white": {
+    "width": 6,
+    "height": 6,
+    "x": 612,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-grid-medium-200-black": {
+    "width": 8,
+    "height": 8,
+    "x": 618,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-grid-medium-200-white": {
+    "width": 8,
+    "height": 8,
+    "x": 626,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-horizontal-light-100-black": {
+    "width": 10,
+    "height": 10,
+    "x": 634,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-horizontal-light-100-white": {
+    "width": 10,
+    "height": 10,
+    "x": 644,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-horizontal-light-200-black": {
+    "width": 6,
+    "height": 6,
+    "x": 654,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-horizontal-light-200-white": {
+    "width": 6,
+    "height": 6,
+    "x": 660,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-horizontal-medium-100-black": {
+    "width": 12,
+    "height": 12,
+    "x": 666,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-horizontal-medium-100-white": {
+    "width": 12,
+    "height": 12,
+    "x": 678,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-horizontal-medium-200-black": {
+    "width": 8,
+    "height": 8,
+    "x": 690,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-horizontal-medium-200-white": {
+    "width": 8,
+    "height": 8,
+    "x": 698,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-down-light-100-black": {
+    "width": 16,
+    "height": 16,
+    "x": 706,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-down-light-100-white": {
+    "width": 16,
+    "height": 16,
+    "x": 722,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-down-light-200-black": {
+    "width": 14,
+    "height": 14,
+    "x": 738,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-down-light-200-white": {
+    "width": 14,
+    "height": 14,
     "x": 752,
-    "y": 7168,
+    "y": 0,
     "pixelRatio": 2
   },
-  "ヤシ科樹林": {
-    "width": 64,
-    "height": 64,
-    "x": 816,
-    "y": 7168,
+  "tmpoly-line-vertical-down-light-300-black": {
+    "width": 12,
+    "height": 12,
+    "x": 766,
+    "y": 0,
     "pixelRatio": 2
   },
-  "三角点-20": {
-    "width": 64,
-    "height": 64,
-    "x": 880,
-    "y": 7168,
+  "tmpoly-line-vertical-down-light-300-white": {
+    "width": 12,
+    "height": 12,
+    "x": 778,
+    "y": 0,
     "pixelRatio": 2
   },
-  "三角点": {
-    "width": 64,
-    "height": 64,
+  "tmpoly-line-vertical-down-light-400-black": {
+    "width": 10,
+    "height": 10,
+    "x": 790,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-down-light-400-white": {
+    "width": 10,
+    "height": 10,
+    "x": 800,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-down-light-500-black": {
+    "width": 8,
+    "height": 8,
+    "x": 810,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-down-light-500-white": {
+    "width": 8,
+    "height": 8,
+    "x": 818,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-down-medium-100-black": {
+    "width": 16,
+    "height": 16,
+    "x": 826,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-down-medium-100-white": {
+    "width": 16,
+    "height": 16,
+    "x": 842,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-down-medium-200-black": {
+    "width": 12,
+    "height": 12,
+    "x": 858,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-down-medium-200-white": {
+    "width": 12,
+    "height": 12,
+    "x": 870,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-down-medium-300-black": {
+    "width": 10,
+    "height": 10,
+    "x": 882,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-down-medium-300-white": {
+    "width": 10,
+    "height": 10,
+    "x": 892,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-down-medium-400-black": {
+    "width": 8,
+    "height": 8,
+    "x": 902,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-down-medium-400-white": {
+    "width": 8,
+    "height": 8,
+    "x": 910,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-light-100-black": {
+    "width": 10,
+    "height": 10,
+    "x": 918,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-light-100-white": {
+    "width": 10,
+    "height": 10,
+    "x": 928,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-light-200-black": {
+    "width": 6,
+    "height": 6,
+    "x": 938,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-light-200-white": {
+    "width": 6,
+    "height": 6,
     "x": 944,
-    "y": 7168,
+    "y": 0,
     "pixelRatio": 2
   },
-  "中学校-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1008,
-    "y": 7168,
+  "tmpoly-line-vertical-medium-100-black": {
+    "width": 12,
+    "height": 12,
+    "x": 950,
+    "y": 0,
     "pixelRatio": 2
   },
-  "中学校": {
-    "width": 64,
-    "height": 64,
-    "x": 1072,
-    "y": 7168,
+  "tmpoly-line-vertical-medium-100-white": {
+    "width": 12,
+    "height": 12,
+    "x": 962,
+    "y": 0,
     "pixelRatio": 2
   },
-  "主要な港-500": {
-    "width": 64,
-    "height": 64,
-    "x": 1136,
-    "y": 7168,
+  "tmpoly-line-vertical-medium-200-black": {
+    "width": 8,
+    "height": 8,
+    "x": 974,
+    "y": 0,
     "pixelRatio": 2
   },
-  "主要な空港-500": {
-    "width": 64,
-    "height": 64,
-    "x": 1200,
-    "y": 7168,
+  "tmpoly-line-vertical-medium-200-white": {
+    "width": 8,
+    "height": 8,
+    "x": 982,
+    "y": 0,
     "pixelRatio": 2
   },
-  "交番": {
-    "width": 64,
-    "height": 64,
-    "x": 1264,
-    "y": 7168,
+  "tmpoly-line-vertical-up-light-100-black": {
+    "width": 16,
+    "height": 16,
+    "x": 990,
+    "y": 0,
     "pixelRatio": 2
   },
-  "人口100万人以上-500": {
-    "width": 64,
-    "height": 64,
-    "x": 1328,
-    "y": 7168,
+  "tmpoly-line-vertical-up-light-100-white": {
+    "width": 16,
+    "height": 16,
+    "x": 1006,
+    "y": 0,
     "pixelRatio": 2
   },
-  "人口100万人以上2-500": {
-    "width": 64,
-    "height": 64,
-    "x": 1392,
-    "y": 7168,
+  "tmpoly-line-vertical-up-light-200-black": {
+    "width": 14,
+    "height": 14,
+    "x": 1022,
+    "y": 0,
     "pixelRatio": 2
   },
-  "人口50万-100万人未満-500": {
-    "width": 64,
-    "height": 64,
-    "x": 1456,
-    "y": 7168,
+  "tmpoly-line-vertical-up-light-200-white": {
+    "width": 14,
+    "height": 14,
+    "x": 1036,
+    "y": 0,
     "pixelRatio": 2
   },
-  "人口50万人未満-500": {
-    "width": 64,
-    "height": 64,
-    "x": 1520,
-    "y": 7168,
+  "tmpoly-line-vertical-up-light-300-black": {
+    "width": 12,
+    "height": 12,
+    "x": 1050,
+    "y": 0,
     "pixelRatio": 2
   },
-  "保健所": {
-    "width": 64,
-    "height": 64,
-    "x": 1584,
-    "y": 7168,
+  "tmpoly-line-vertical-up-light-300-white": {
+    "width": 12,
+    "height": 12,
+    "x": 1062,
+    "y": 0,
     "pixelRatio": 2
   },
-  "北海道の総合振興局・振興局-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1648,
-    "y": 7168,
+  "tmpoly-line-vertical-up-light-400-black": {
+    "width": 10,
+    "height": 10,
+    "x": 1074,
+    "y": 0,
     "pixelRatio": 2
   },
-  "博物館法の登録博物館・博物館相当施設": {
-    "width": 64,
-    "height": 64,
-    "x": 1712,
-    "y": 7168,
+  "tmpoly-line-vertical-up-light-400-white": {
+    "width": 10,
+    "height": 10,
+    "x": 1084,
+    "y": 0,
     "pixelRatio": 2
   },
-  "史跡・名勝・天然記念物-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1776,
-    "y": 7168,
+  "tmpoly-line-vertical-up-light-500-black": {
+    "width": 8,
+    "height": 8,
+    "x": 1094,
+    "y": 0,
     "pixelRatio": 2
   },
-  "史跡・名勝・天然記念物": {
-    "width": 64,
-    "height": 64,
-    "x": 1840,
-    "y": 7168,
+  "tmpoly-line-vertical-up-light-500-white": {
+    "width": 8,
+    "height": 8,
+    "x": 1102,
+    "y": 0,
     "pixelRatio": 2
   },
-  "噴火口・噴気口-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1904,
-    "y": 7168,
+  "tmpoly-line-vertical-up-medium-100-black": {
+    "width": 16,
+    "height": 16,
+    "x": 1110,
+    "y": 0,
     "pixelRatio": 2
   },
-  "噴火口・噴気口": {
-    "width": 64,
-    "height": 64,
-    "x": 0,
-    "y": 7680,
+  "tmpoly-line-vertical-up-medium-100-white": {
+    "width": 16,
+    "height": 16,
+    "x": 1126,
+    "y": 0,
     "pixelRatio": 2
   },
-  "図書館": {
-    "width": 64,
-    "height": 64,
-    "x": 64,
-    "y": 7680,
+  "tmpoly-line-vertical-up-medium-200-black": {
+    "width": 12,
+    "height": 12,
+    "x": 1142,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-up-medium-200-white": {
+    "width": 12,
+    "height": 12,
+    "x": 1154,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-up-medium-300-black": {
+    "width": 10,
+    "height": 10,
+    "x": 1166,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-up-medium-300-white": {
+    "width": 10,
+    "height": 10,
+    "x": 1176,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-up-medium-400-black": {
+    "width": 8,
+    "height": 8,
+    "x": 1186,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-line-vertical-up-medium-400-white": {
+    "width": 8,
+    "height": 8,
+    "x": 1194,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-minus-100-black": {
+    "width": 14,
+    "height": 14,
+    "x": 1202,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-minus-100-white": {
+    "width": 14,
+    "height": 14,
+    "x": 1216,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-minus-200-black": {
+    "width": 14,
+    "height": 14,
+    "x": 1230,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-minus-200-white": {
+    "width": 14,
+    "height": 14,
+    "x": 1244,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-plus-100-black": {
+    "width": 14,
+    "height": 14,
+    "x": 1258,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-plus-100-white": {
+    "width": 14,
+    "height": 14,
+    "x": 1272,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-plus-200-black": {
+    "width": 14,
+    "height": 14,
+    "x": 1286,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-plus-200-white": {
+    "width": 14,
+    "height": 14,
+    "x": 1300,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-slash-back-100-black": {
+    "width": 16,
+    "height": 16,
+    "x": 1314,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-slash-back-100-white": {
+    "width": 16,
+    "height": 16,
+    "x": 1330,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-slash-back-200-black": {
+    "width": 12,
+    "height": 12,
+    "x": 1346,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-slash-back-200-white": {
+    "width": 12,
+    "height": 12,
+    "x": 1358,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-slash-forward-100-black": {
+    "width": 16,
+    "height": 16,
+    "x": 1370,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-slash-forward-100-white": {
+    "width": 16,
+    "height": 16,
+    "x": 1386,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-slash-forward-200-black": {
+    "width": 12,
+    "height": 12,
+    "x": 1402,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-slash-forward-200-white": {
+    "width": 12,
+    "height": 12,
+    "x": 1414,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-square-100-black": {
+    "width": 18,
+    "height": 18,
+    "x": 1426,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-square-100-white": {
+    "width": 18,
+    "height": 18,
+    "x": 1444,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-square-200-black": {
+    "width": 18,
+    "height": 18,
+    "x": 1462,
+    "y": 0,
+    "pixelRatio": 2
+  },
+  "tmpoly-square-200-white": {
+    "width": 18,
+    "height": 18,
+    "x": 1480,
+    "y": 0,
     "pixelRatio": 2
   },
   "国道番号-20": {
     "width": 64,
     "height": 64,
-    "x": 128,
-    "y": 7680,
+    "x": 1498,
+    "y": 0,
     "pixelRatio": 2
   },
   "国道番号": {
     "width": 64,
     "height": 64,
-    "x": 192,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "国際空港-20": {
-    "width": 64,
-    "height": 64,
-    "x": 256,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "国際空港以外の拠点空港等-20": {
-    "width": 64,
-    "height": 64,
-    "x": 320,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "城跡-20": {
-    "width": 64,
-    "height": 64,
-    "x": 384,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "城跡": {
-    "width": 64,
-    "height": 64,
-    "x": 448,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "墓地": {
-    "width": 64,
-    "height": 64,
-    "x": 512,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "外国公館": {
-    "width": 64,
-    "height": 64,
-    "x": 576,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "官公署": {
-    "width": 64,
-    "height": 64,
-    "x": 640,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "寺院-20": {
-    "width": 64,
-    "height": 64,
-    "x": 704,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "寺院": {
-    "width": 64,
-    "height": 64,
-    "x": 768,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "小学校-20": {
-    "width": 64,
-    "height": 64,
-    "x": 832,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "小学校": {
-    "width": 64,
-    "height": 64,
-    "x": 896,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "工場-20": {
-    "width": 64,
-    "height": 64,
-    "x": 960,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "市役所・東京都の区役所-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1024,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "市役所・東京都の区役所": {
-    "width": 64,
-    "height": 64,
-    "x": 1088,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "市役所・東京都の区役所（都道府県所在都市以外）-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1152,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "広葉樹林-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1216,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "広葉樹林": {
-    "width": 64,
-    "height": 64,
-    "x": 1280,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "指示点": {
-    "width": 64,
-    "height": 64,
-    "x": 1344,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "採鉱地-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1408,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "採鉱地": {
-    "width": 64,
-    "height": 64,
-    "x": 1472,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "果樹園-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1536,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "果樹園": {
-    "width": 64,
-    "height": 64,
-    "x": 1600,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "植生界": {
-    "width": 64,
-    "height": 64,
-    "x": 1664,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "標高点-500": {
-    "width": 64,
-    "height": 64,
-    "x": 1728,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "標高点（測点）-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1792,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "標高点（測点）": {
-    "width": 64,
-    "height": 64,
-    "x": 1856,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "水深-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1920,
-    "y": 7680,
-    "pixelRatio": 2
-  },
-  "水準点": {
-    "width": 64,
-    "height": 64,
-    "x": 0,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "水面標高-20": {
-    "width": 96,
-    "height": 24,
-    "x": 64,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "油井・ガス井-20": {
-    "width": 64,
-    "height": 64,
-    "x": 160,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "油井・ガス井": {
-    "width": 64,
-    "height": 64,
-    "x": 224,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "流水方向": {
-    "width": 64,
-    "height": 64,
-    "x": 288,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "消防署": {
-    "width": 64,
-    "height": 64,
-    "x": 352,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "温泉-20": {
-    "width": 64,
-    "height": 64,
-    "x": 416,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "温泉": {
-    "width": 64,
-    "height": 64,
-    "x": 480,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "港湾-20": {
-    "width": 64,
-    "height": 64,
-    "x": 544,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "港湾": {
-    "width": 64,
-    "height": 64,
-    "x": 608,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "滝": {
-    "width": 64,
-    "height": 64,
-    "x": 672,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "漁港-20": {
-    "width": 64,
-    "height": 64,
-    "x": 736,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "漁港": {
-    "width": 64,
-    "height": 64,
-    "x": 800,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "火山-20": {
-    "width": 64,
-    "height": 64,
-    "x": 864,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "灯台-20": {
-    "width": 64,
-    "height": 64,
-    "x": 928,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "灯台": {
-    "width": 64,
-    "height": 64,
-    "x": 992,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "煙突": {
-    "width": 64,
-    "height": 64,
-    "x": 1056,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "特別標高点": {
-    "width": 64,
-    "height": 64,
-    "x": 1120,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "特定重要港-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1184,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "田-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1248,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "田": {
-    "width": 64,
-    "height": 64,
-    "x": 1312,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "町・村-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1376,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "町村役場・政令指定都市の区役所-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1440,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "町村役場・政令指定都市の区役所": {
-    "width": 64,
-    "height": 64,
-    "x": 1504,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "畑-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1568,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "畑": {
-    "width": 64,
-    "height": 64,
-    "x": 1632,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "病院-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1696,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "病院": {
-    "width": 64,
-    "height": 64,
-    "x": 1760,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "発電所等-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1824,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "発電所等": {
-    "width": 64,
-    "height": 64,
-    "x": 1888,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "砂礫地（領域が不明瞭な場合）-20": {
-    "width": 3,
-    "height": 3,
-    "x": 1952,
-    "y": 7744,
-    "pixelRatio": 2
-  },
-  "神社-20": {
-    "width": 64,
-    "height": 64,
-    "x": 0,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "神社": {
-    "width": 64,
-    "height": 64,
-    "x": 64,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "税務署": {
-    "width": 64,
-    "height": 64,
-    "x": 128,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "竹林": {
-    "width": 64,
-    "height": 64,
-    "x": 192,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "笹地": {
-    "width": 64,
-    "height": 64,
-    "x": 256,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "老人ホーム": {
-    "width": 64,
-    "height": 64,
-    "x": 320,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "自然災害伝承碑": {
-    "width": 64,
-    "height": 64,
-    "x": 384,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "自衛隊-20": {
-    "width": 64,
-    "height": 64,
-    "x": 448,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "自衛隊等の飛行場-20": {
-    "width": 64,
-    "height": 64,
-    "x": 512,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "茶畑": {
-    "width": 64,
-    "height": 64,
-    "x": 576,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "荒地": {
-    "width": 64,
-    "height": 64,
-    "x": 640,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "裁判所": {
-    "width": 64,
-    "height": 64,
-    "x": 704,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "記念碑": {
-    "width": 64,
-    "height": 64,
-    "x": 768,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "警察署-20": {
-    "width": 64,
-    "height": 64,
-    "x": 832,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "警察署": {
-    "width": 64,
-    "height": 64,
-    "x": 896,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "郵便局-20": {
-    "width": 64,
-    "height": 64,
-    "x": 960,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "郵便局": {
-    "width": 64,
-    "height": 64,
-    "x": 1024,
-    "y": 7808,
+    "x": 1562,
+    "y": 0,
     "pixelRatio": 2
   },
   "都市高速道路番号-20": {
     "width": 64,
     "height": 64,
-    "x": 1088,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "都道府県所在地-100": {
-    "width": 64,
-    "height": 64,
-    "x": 1152,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "都道府県所在地-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1216,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "重要港-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1280,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "針葉樹林-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1344,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "針葉樹林": {
-    "width": 64,
-    "height": 64,
-    "x": 1408,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "雨裂（下部）-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1472,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "電子基準点-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1536,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "電子基準点": {
-    "width": 64,
-    "height": 64,
-    "x": 1600,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "電波塔": {
-    "width": 64,
-    "height": 64,
-    "x": 1664,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "風車-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1728,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "風車": {
-    "width": 64,
-    "height": 64,
-    "x": 1792,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "高等学校・中等教育学校-20": {
-    "width": 64,
-    "height": 64,
-    "x": 1856,
-    "y": 7808,
-    "pixelRatio": 2
-  },
-  "高等学校・中等教育学校": {
-    "width": 64,
-    "height": 64,
-    "x": 1920,
-    "y": 7808,
+    "x": 1626,
+    "y": 0,
     "pixelRatio": 2
   },
   "高速道路番号-20": {
     "width": 64,
     "height": 64,
-    "x": 0,
-    "y": 7872,
+    "x": 1690,
+    "y": 0,
     "pixelRatio": 2
   }
 }
