@@ -17,7 +17,7 @@ uv_deactivate: ## uv環境を無効化
 ensyurin_update: ## 演習林のデータ更新
 	cd batch && \
 	tippecanoe -o ../data/entries/pmtiles/vector/ensyurin.pmtiles \
-	$$(find data/ensyurin -name '*.geojson') --force
+	$$(find data/ensyurin -name '*.geojson') --force -z17
 
 poi_update: ## POI、検索データの更新 feature_idを追加
 	cd batch && \
