@@ -1,4 +1,14 @@
 serve: ## データのホスティング
+	@echo "Checking port 9000..."
+	@if sudo lsof -i :9000 >/dev/null 2>&1; then \
+		echo "Port 9000 is in use. Cleaning..."; \
+		sudo lsof -i :9000 | awk 'NR>1 {print $$2}' | xargs -r sudo kill -9; \
+		sleep 1; \
+		echo "Port 9000 cleaned"; \
+	else \
+		echo "Port 9000 is free"; \
+	fi
+	@echo "Starting server..."
 	pnpm run serve
 
 init:
@@ -17,7 +27,7 @@ uv_deactivate: ## uv環境を無効化
 ensyurin_update: ## 演習林のデータ更新
 	cd batch && \
 	tippecanoe -o ../data/entries/pmtiles/vector/ensyurin.pmtiles \
-	$$(find data/ensyurin -name '*.geojson') --force -z17 -pf -pk -P
+	$$(find data/ensyurin -name '*.fgb') --force -z17 -pf -pk -P
 
 poi_update: ## POI、検索データの更新 feature_idを追加
 	cd batch && \
