@@ -381,12 +381,12 @@
   },
   {
     "layer_id": "fac_poi",
-    "name": "国有林ゲート",
+    "name": "林道ゲート",
     "search_values": [
-      "国有林ゲート",
+      "林道ゲート",
       "演習林",
       "ゲート",
-      "こくゆうりんゲート"
+      "りんどうげーと"
     ],
     "feature_id": 22,
     "point": [
@@ -526,7 +526,7 @@
       136.9190129344606,
       35.54882899788583
     ],
-    "prop_id": "kozyo_kanritou",
+    "prop_id": null,
     "path": "fac_poi.geojson"
   },
   {
