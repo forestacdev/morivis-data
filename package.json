@@ -15,6 +15,8 @@
         "sirv-cli": "^3.0.1"
     },
     "dependencies": {
+        "geostyler": "^18.1.2",
+        "geostyler-cli": "^5.0.0",
         "http-server": "^14.1.1",
         "topojson-client": "^3.1.0",
         "topojson-server": "^3.0.1",
