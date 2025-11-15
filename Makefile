@@ -39,7 +39,7 @@ poi_update: ## POI、検索データの更新 feature_idを追加
 360_update: ## 360度パノラマのデータ更新
 	cd batch && \
 	uv run scripts/node.py && \
-	tippecanoe -o ../data/street_view/THETA360.pmtiles data/THETA360.geojson -L THETA360_line:../data/street_view/links.fgb -ai --force
+	tippecanoe -o ../data/street_view/panorama.pmtiles -L panorama_nodes:data/panorama_nodes.geojson -L panorama_links:../data/street_view/links.fgb -ai --force
 
 
 

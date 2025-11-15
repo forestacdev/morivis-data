@@ -16,8 +16,8 @@ OUTPUT_DIR = Path(__file__).resolve().parent.parent.parent / "data" / "street_vi
 
 
 # ノードデータとリンクデータのファイルパスを指定（適宜変更）
-nodes_file = INPUT_DIR / "THETA360.geojson"
-links_file = INPUT_DIR / "THETA360_line.geojson"
+nodes_file = INPUT_DIR / "panorama_nodes.geojson"
+links_file = INPUT_DIR / "panorama_links.geojson"
 
 # GeoJSONファイルの読み込み
 nodes_geojson = load_geojson(nodes_file)
