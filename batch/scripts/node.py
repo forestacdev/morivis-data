@@ -34,7 +34,7 @@ node_dict = {}
 
 for feature in nodes_geojson["features"]:
     if feature["geometry"]["type"] == "Point":
-        node_id = feature["properties"]["id"]
+        node_id = feature["properties"]["node_id"]
         coordinates = round_coordinates(feature["geometry"]["coordinates"])  # 丸める
         node_dict[coordinates] = node_id
 
