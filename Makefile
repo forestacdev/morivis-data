@@ -33,13 +33,14 @@ poi_update: ## POI、検索データの更新 feature_idを追加
 	cd batch && \
 	ogr2ogr -f GeoJSON -overwrite data/search/fac_poi_with_id.geojson data/search/fac_poi.geojson -lco id_field=id -nln fac_poi && \
 	uv run scripts/create_poi_search_data.py && \
+	uv run scripts/icon_image.py && \
 	tippecanoe -o ../data/entries/pmtiles/vector/fac_search.pmtiles data/search/fac_poi_with_id.geojson --force -l fac_poi && \
 	rm data/search/fac_poi_with_id.geojson
 
 360_update: ## 360度パノラマのデータ更新
 	cd batch && \
 	uv run scripts/node.py && \
-	tippecanoe -o ../data/street_view/THETA360.pmtiles data/THETA360.geojson data/THETA360_line.geojson -ai --force
+	tippecanoe -o ../data/street_view/panorama.pmtiles -L panorama_nodes:../data/street_view/nodes.fgb -L panorama_links:../data/street_view/links.fgb -ai --force
 
 
 

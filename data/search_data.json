@@ -399,6 +399,22 @@
   },
   {
     "layer_id": "fac_poi",
+    "name": "紡木人",
+    "search_values": [
+      "紡木人",
+      "自力建設",
+      "つむぎと"
+    ],
+    "feature_id": 59,
+    "point": [
+      136.91814416710022,
+      35.55394534487234
+    ],
+    "prop_id": "ziriki_25",
+    "path": "fac_poi.geojson"
+  },
+  {
+    "layer_id": "fac_poi",
     "name": "毛鹿洞池",
     "search_values": [
       "毛鹿洞池",
