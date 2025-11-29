@@ -1,15 +1,8 @@
-serve: ## データのホスティング
-	@echo "Checking port 9000..."
-	@if sudo lsof -i :9000 >/dev/null 2>&1; then \
-		echo "Port 9000 is in use. Cleaning..."; \
-		sudo lsof -i :9000 | awk 'NR>1 {print $$2}' | xargs -r sudo kill -9; \
-		sleep 1; \
-		echo "Port 9000 cleaned"; \
-	else \
-		echo "Port 9000 is free"; \
-	fi
-	@echo "Starting server..."
-	pnpm run serve
+dev: ## データのホスティング
+	@echo "Checking if port 9000 is in use..."
+	@lsof -ti:9000 && echo "Port 9000 is in use, killing process..." && npx kill-port 9000 || echo "Port 9000 is free"
+	pnpm install
+	pnpm run dev
 
 init:
 	cd batch && \
