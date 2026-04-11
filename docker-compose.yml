@@ -1,0 +1,13 @@
+services:
+
+  api:
+    build: ./api
+    ports:
+      - "3000:3000"
+    env_file:
+      - ./api/.env
+    environment:
+      - FRONTEND_BASE_URL=http://frontend:5173
+      - FRONTEND_BASE_PATH=
+    depends_on:
+      - frontend

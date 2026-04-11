@@ -1,3 +1,21 @@
-.vscode
+
+# OS
 .DS_Store
-node_modules
+Thumbs.db
+
+# Env
+.env
+.env.*
+!.env.example
+!.env.test
+
+.vscode
+node_modules/
+**/node_modules/
+.mcp.json
+.serena
+CLAUDE.md
+AGENTS.md
+.claude
+.codex
+skills

@@ -1,14 +1,17 @@
 {
     "folders": [
         {
-            "path": "."
+            "path": ".",
         },
         {
-            "path": "data"
+            "path": "data",
         },
         {
-            "path": "batch"
-        }
+            "path": "api",
+        },
+        {
+            "path": "aws",
+        },
     ],
-    "settings": {}
+    "settings": {},
 }
