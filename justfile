@@ -34,11 +34,13 @@ uv_deactivate:
 # POI、検索データの更新 feature_idを追加
 poi_update:
     cd data/scripts/python && \
+    rm -f data/search/fac_poi_with_id.geojson && \
     ogr2ogr -f GeoJSON -overwrite data/search/fac_poi_with_id.geojson data/search/fac_poi.geojson -lco id_field=id -nln fac_poi && \
     uv run create_poi_search_data.py && \
     uv run icon_image.py && \
+    mkdir -p ../../assets/entries/pmtiles/vector && \
     tippecanoe -o ../../assets/entries/pmtiles/vector/fac_search.pmtiles data/search/fac_poi_with_id.geojson --force -l fac_poi && \
-    rm data/search/fac_poi_with_id.geojson
+    rm -f data/search/fac_poi_with_id.geojson
 
 # 360度パノラマのデータ更新
 update_360:

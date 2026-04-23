@@ -481,24 +481,6 @@
   },
   {
     "layer_id": "fac_poi",
-    "name": "管理道ゲート",
-    "search_values": [
-      "管理道ゲート",
-      "演習林",
-      "ゲート",
-      "チェーンゲート",
-      "ちぇーんげーと"
-    ],
-    "feature_id": 29,
-    "point": [
-      136.92001,
-      35.551472
-    ],
-    "prop_id": "gate_ensyurin",
-    "path": "fac_poi.geojson"
-  },
-  {
-    "layer_id": "fac_poi",
     "name": "炭焼き小屋",
     "search_values": [
       "炭焼き小屋",
