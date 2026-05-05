@@ -1,7 +1,5 @@
-import os
 from PIL import Image
 from pathlib import Path
-import glob
 
 
 def crop_to_square_and_resize(input_path, output_path, target_size=60):
@@ -49,6 +47,20 @@ def crop_to_square_and_resize(input_path, output_path, target_size=60):
         return False
 
 
+def collect_webp_files(input_dir):
+    input_dir = Path(input_dir)
+
+    webp_files = []
+
+    for input_path in sorted(input_dir.glob("*.webp")):
+        webp_files.append((input_path, input_path.name))
+
+    for input_path in sorted(input_dir.glob("*/01.webp")):
+        webp_files.append((input_path, f"{input_path.parent.name}.webp"))
+
+    return webp_files
+
+
 def process_directory(input_dir, output_dir=None, target_size=60):
     """
     指定ディレクトリ内の全WebP画像を処理する
@@ -59,15 +71,18 @@ def process_directory(input_dir, output_dir=None, target_size=60):
         target_size (int): 最終的な画像サイズ
     """
     # 出力ディレクトリが指定されていない場合のデフォルト設定
+    input_dir = Path(input_dir)
+
     if output_dir is None:
-        output_dir = input_dir.rstrip("/") + "_processed"
+        output_dir = input_dir.parent / f"{input_dir.name}_processed"
+    else:
+        output_dir = Path(output_dir)
 
     # 出力ディレクトリを作成
-    os.makedirs(output_dir, exist_ok=True)
+    output_dir.mkdir(parents=True, exist_ok=True)
 
     # WebP画像ファイルを検索
-    webp_pattern = os.path.join(input_dir, "*.webp")
-    webp_files = glob.glob(webp_pattern)
+    webp_files = collect_webp_files(input_dir)
 
     if not webp_files:
         print(f"WebP画像が見つかりません: {input_dir}")
@@ -77,18 +92,16 @@ def process_directory(input_dir, output_dir=None, target_size=60):
 
     success_count = 0
 
-    for input_path in webp_files:
-        # ファイル名を取得
-        filename = os.path.basename(input_path)
-        output_path = os.path.join(output_dir, filename)
+    for input_path, output_filename in webp_files:
+        output_path = output_dir / output_filename
 
-        print(f"処理中: {filename}")
+        print(f"処理中: {input_path.relative_to(input_dir)}")
 
         if crop_to_square_and_resize(input_path, output_path, target_size):
             success_count += 1
-            print(f"  ✓ 完了: {filename}")
+            print(f"  ✓ 完了: {output_filename}")
         else:
-            print(f"  ✗ 失敗: {filename}")
+            print(f"  ✗ 失敗: {input_path}")
 
     print(f"\n処理完了: {success_count}/{len(webp_files)}個の画像を正常に処理しました")
     print(f"出力ディレクトリ: {output_dir}")

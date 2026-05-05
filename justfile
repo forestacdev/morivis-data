@@ -2,11 +2,11 @@ docker:
     @docker compose up -d
 
 # データのホスティング
-host:
+dev:
     @echo "Checking if port 9000 is in use..."
     @lsof -ti:9000 && echo "Port 9000 is in use, killing process..." && npx kill-port 9000 || echo "Port 9000 is free"
     pnpm install
-    pnpm host
+    pnpm run dev
 
 
 # 座標変換
