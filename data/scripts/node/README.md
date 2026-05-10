@@ -9,7 +9,7 @@ sprites から icon を出力
 ```
 npx mbsprite explode https://gsi-cyberjapan.github.io/optimal_bvmap/sprite/std data/icons
 npx mbsprite explode https://openmaptiles.github.io/dark-matter-gl-style/sprite data/icons
-npx mbsprite explode http://localhost:9000/data/sprite/sprite data/icons
+npx mbsprite explode http://localhost:9000/assets/sprite/sprite data/icons
 ```
 
 ## 注意
