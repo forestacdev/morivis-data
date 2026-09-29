@@ -1,0 +1,1819 @@
+{
+  "source": "https://api3.geo.admin.ch/static/images/legends/ch.swisstopo.geologie-geologische_karte_en_big.pdf",
+  "attribution": "© swisstopo",
+  "extraction": "PDF内のページ画像を上下反転して正立させた後、各rectを切り出し。pageは0始まり。",
+  "groups": [
+    {
+      "page": 0,
+      "name": "アルプス外の第三系：北側前縁地域",
+      "items": [
+        {
+          "label": "Sundgau-Schotter",
+          "rect": {
+            "left": 62,
+            "top": 109,
+            "width": 60,
+            "height": 33
+          },
+          "file": "000.webp"
+        },
+        {
+          "label": "Alte Verwitterungslehme, Höhenlehme",
+          "rect": {
+            "left": 62,
+            "top": 145,
+            "width": 60,
+            "height": 33
+          },
+          "file": "001.webp"
+        },
+        {
+          "label": "Fluviolakustrische Ablagerungen im Bresse-Graben",
+          "rect": {
+            "left": 62,
+            "top": 181,
+            "width": 60,
+            "height": 33
+          },
+          "file": "002.webp"
+        },
+        {
+          "label": "Vogesen-Sande und -Schotter",
+          "rect": {
+            "left": 62,
+            "top": 222,
+            "width": 60,
+            "height": 33
+          },
+          "file": "003.webp"
+        },
+        {
+          "label": "Obere Süsswassermolasse (OSM): Langhien–Serravallien («Tortonien»)",
+          "rect": {
+            "left": 62,
+            "top": 258,
+            "width": 60,
+            "height": 32
+          },
+          "file": "004.webp"
+        },
+        {
+          "label": "Obere Meeresmolasse (OMM): «Helvétien»",
+          "rect": {
+            "left": 75,
+            "top": 290,
+            "width": 47,
+            "height": 23
+          },
+          "file": "005.webp"
+        },
+        {
+          "label": "Obere Meeresmolasse (OMM): Burdigalien (im Allgäu inkl. «Helvétien»)",
+          "rect": {
+            "left": 62,
+            "top": 313,
+            "width": 60,
+            "height": 31
+          },
+          "file": "006.webp"
+        },
+        {
+          "label": "Untere Süsswassermolasse (USM): Aquitanien",
+          "rect": {
+            "left": 62,
+            "top": 344,
+            "width": 60,
+            "height": 32
+          },
+          "file": "007.webp"
+        },
+        {
+          "label": "Untere Süsswassermolasse (USM): Chattien",
+          "rect": {
+            "left": 62,
+            "top": 376,
+            "width": 60,
+            "height": 31
+          },
+          "file": "008.webp"
+        },
+        {
+          "label": "Untere Meeresmolasse (UMM): Rupélien",
+          "rect": {
+            "left": 62,
+            "top": 407,
+            "width": 60,
+            "height": 32
+          },
+          "file": "009.webp"
+        },
+        {
+          "label": "Fluviolakustrische bis salinare Ablagerungen («Sannoisien»): Rupélien",
+          "rect": {
+            "left": 62,
+            "top": 439,
+            "width": 60,
+            "height": 37
+          },
+          "file": "010.webp"
+        },
+        {
+          "label": "Bohnerzformation",
+          "rect": {
+            "left": 62,
+            "top": 480,
+            "width": 60,
+            "height": 32
+          },
+          "file": "011.webp"
+        }
+      ]
+    },
+    {
+      "page": 0,
+      "name": "モラッセ中の特徴的な岩相",
+      "items": [
+        {
+          "label": "Polymikte Nagelfluh (Kristallinanteil ≥ 10%)",
+          "rect": {
+            "left": 62,
+            "top": 566,
+            "width": 60,
+            "height": 32
+          },
+          "file": "012.webp"
+        },
+        {
+          "label": "Kalknagelfluh (Kristallinanteil < 10%)",
+          "rect": {
+            "left": 62,
+            "top": 598,
+            "width": 60,
+            "height": 32
+          },
+          "file": "013.webp"
+        },
+        {
+          "label": "Dünne Tufflagen des Hegau-Vulkanismus",
+          "rect": {
+            "left": 79,
+            "top": 640,
+            "width": 25,
+            "height": 24
+          },
+          "file": "014.webp"
+        },
+        {
+          "label": "Auswürflinge in der St. Galler Molasse (vorw. Malmkalk-Blöcke)",
+          "rect": {
+            "left": 79,
+            "top": 677,
+            "width": 25,
+            "height": 24
+          },
+          "file": "015.webp"
+        },
+        {
+          "label": "Bentonit-Vorkommen in der Oberen Süsswassermolasse",
+          "rect": {
+            "left": 79,
+            "top": 715,
+            "width": 25,
+            "height": 24
+          },
+          "file": "016.webp"
+        }
+      ]
+    },
+    {
+      "page": 0,
+      "name": "アルプス外の第三系：南側前縁地域",
+      "items": [
+        {
+          "label": "Pontegana-Konglomerat (Messinien) und marine Tone (Pliozän)",
+          "rect": {
+            "left": 62,
+            "top": 801,
+            "width": 60,
+            "height": 33
+          },
+          "file": "017.webp"
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "name": "アルプス外の古生界・中生界",
+      "items": [
+        {
+          "label": "Albien und Oberkreide",
+          "rect": {
+            "left": 65,
+            "top": 95,
+            "width": 60,
+            "height": 32
+          },
+          "file": "018.webp"
+        },
+        {
+          "label": "Unterkreide",
+          "rect": {
+            "left": 65,
+            "top": 127,
+            "width": 60,
+            "height": 32
+          },
+          "file": "019.webp"
+        },
+        {
+          "label": "Malm",
+          "rect": {
+            "left": 65,
+            "top": 159,
+            "width": 60,
+            "height": 31
+          },
+          "file": "020.webp"
+        },
+        {
+          "label": "Dogger",
+          "rect": {
+            "left": 65,
+            "top": 190,
+            "width": 60,
+            "height": 32
+          },
+          "file": "021.webp"
+        },
+        {
+          "label": "Lias",
+          "rect": {
+            "left": 65,
+            "top": 222,
+            "width": 60,
+            "height": 32
+          },
+          "file": "022.webp"
+        },
+        {
+          "label": "Rhät",
+          "rect": {
+            "left": 78,
+            "top": 254,
+            "width": 47,
+            "height": 23
+          },
+          "file": "023.webp"
+        },
+        {
+          "label": "Keuper",
+          "rect": {
+            "left": 65,
+            "top": 277,
+            "width": 60,
+            "height": 31
+          },
+          "file": "024.webp"
+        },
+        {
+          "label": "Muschelkalk",
+          "rect": {
+            "left": 65,
+            "top": 308,
+            "width": 60,
+            "height": 31
+          },
+          "file": "025.webp"
+        },
+        {
+          "label": "Buntsandstein",
+          "rect": {
+            "left": 65,
+            "top": 339,
+            "width": 60,
+            "height": 33
+          },
+          "file": "026.webp"
+        },
+        {
+          "label": "Perm (Rotliegendes)",
+          "rect": {
+            "left": 65,
+            "top": 372,
+            "width": 60,
+            "height": 31
+          },
+          "file": "027.webp"
+        },
+        {
+          "label": "Oberkarbon",
+          "rect": {
+            "left": 65,
+            "top": 403,
+            "width": 60,
+            "height": 32
+          },
+          "file": "028.webp"
+        },
+        {
+          "label": "Unterkarbon",
+          "rect": {
+            "left": 78,
+            "top": 435,
+            "width": 47,
+            "height": 32
+          },
+          "file": "029.webp"
+        },
+        {
+          "label": "Altpaläozoikum–Unterkarbon, ungegliedert",
+          "rect": {
+            "left": 65,
+            "top": 467,
+            "width": 60,
+            "height": 32
+          },
+          "file": "030.webp"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "name": "東アルプス上部・南アルプスの堆積岩",
+      "items": [
+        {
+          "label": "Gonfolite Lombarda (grobklastische Resedimente), inkl. Chiasso-Formation",
+          "rect": {
+            "left": 75,
+            "top": 180,
+            "width": 60,
+            "height": 55
+          },
+          "file": "031.webp"
+        },
+        {
+          "label": "Paläozän und Eozän",
+          "rect": {
+            "left": 75,
+            "top": 239,
+            "width": 60,
+            "height": 32
+          },
+          "file": "032.webp"
+        },
+        {
+          "label": "Oberkretazischer Flysch",
+          "rect": {
+            "left": 88,
+            "top": 284,
+            "width": 47,
+            "height": 27
+          },
+          "file": "033.webp"
+        },
+        {
+          "label": "Oberkreide",
+          "rect": {
+            "left": 75,
+            "top": 312,
+            "width": 60,
+            "height": 27
+          },
+          "file": "034.webp"
+        },
+        {
+          "label": "Unterkreide",
+          "rect": {
+            "left": 75,
+            "top": 339,
+            "width": 60,
+            "height": 31
+          },
+          "file": "035.webp"
+        },
+        {
+          "label": "Malm (z.T. inkl. Unterkreide)",
+          "rect": {
+            "left": 88,
+            "top": 370,
+            "width": 47,
+            "height": 27
+          },
+          "file": "036.webp"
+        },
+        {
+          "label": "Dogger (z.T. inkl. Unterkreide)",
+          "rect": {
+            "left": 88,
+            "top": 397,
+            "width": 47,
+            "height": 27
+          },
+          "file": "037.webp"
+        },
+        {
+          "label": "Mittel- und Oberlias",
+          "rect": {
+            "left": 88,
+            "top": 424,
+            "width": 47,
+            "height": 31
+          },
+          "file": "038.webp"
+        },
+        {
+          "label": "Unterlias bzw. Lias im Allgemeinen",
+          "rect": {
+            "left": 75,
+            "top": 455,
+            "width": 60,
+            "height": 32
+          },
+          "file": "039.webp"
+        },
+        {
+          "label": "Rhät",
+          "rect": {
+            "left": 88,
+            "top": 487,
+            "width": 47,
+            "height": 32
+          },
+          "file": "040.webp"
+        },
+        {
+          "label": "Hauptdolomit (Norien) bzw. Trias im Allgemeinen",
+          "rect": {
+            "left": 75,
+            "top": 519,
+            "width": 60,
+            "height": 31
+          },
+          "file": "041.webp"
+        },
+        {
+          "label": "Raibler Schichten (Carnien)",
+          "rect": {
+            "left": 88,
+            "top": 550,
+            "width": 47,
+            "height": 32
+          },
+          "file": "042.webp"
+        },
+        {
+          "label": "Ladinien und unteres Carnien (z.T. inkl. Anisien)",
+          "rect": {
+            "left": 88,
+            "top": 582,
+            "width": 47,
+            "height": 32
+          },
+          "file": "043.webp"
+        },
+        {
+          "label": "Anisien",
+          "rect": {
+            "left": 88,
+            "top": 614,
+            "width": 47,
+            "height": 28
+          },
+          "file": "044.webp"
+        },
+        {
+          "label": "Untertrias (z.T. inkl. Anisien); Servino-Verrucano-Serien",
+          "rect": {
+            "left": 88,
+            "top": 642,
+            "width": 47,
+            "height": 31
+          },
+          "file": "045.webp"
+        },
+        {
+          "label": "Perm; Servino-Verrucano-Serien",
+          "rect": {
+            "left": 75,
+            "top": 673,
+            "width": 60,
+            "height": 32
+          },
+          "file": "046.webp"
+        },
+        {
+          "label": "Oberkarbon",
+          "rect": {
+            "left": 75,
+            "top": 705,
+            "width": 60,
+            "height": 32
+          },
+          "file": "047.webp"
+        },
+        {
+          "label": "Grauwackenzone: Ordovizium–Perm",
+          "rect": {
+            "left": 75,
+            "top": 745,
+            "width": 60,
+            "height": 33
+          },
+          "file": "048.webp"
+        },
+        {
+          "label": "Walsertal-Zone: Trias–Kreide",
+          "rect": {
+            "left": 75,
+            "top": 782,
+            "width": 60,
+            "height": 32
+          },
+          "file": "049.webp"
+        },
+        {
+          "label": "Canavese-Zone: Perm–Kreide",
+          "rect": {
+            "left": 75,
+            "top": 818,
+            "width": 60,
+            "height": 32
+          },
+          "file": "050.webp"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "name": "東アルプス下部の堆積岩",
+      "items": [
+        {
+          "label": "Jura–Kreide (z.T. inkl. Trias)",
+          "rect": {
+            "left": 52,
+            "top": 40,
+            "width": 60,
+            "height": 31
+          },
+          "file": "051.webp"
+        },
+        {
+          "label": "Dogger",
+          "rect": {
+            "left": 66,
+            "top": 72,
+            "width": 46,
+            "height": 27
+          },
+          "file": "052.webp"
+        },
+        {
+          "label": "Lias",
+          "rect": {
+            "left": 66,
+            "top": 99,
+            "width": 46,
+            "height": 28
+          },
+          "file": "053.webp"
+        },
+        {
+          "label": "Rhät",
+          "rect": {
+            "left": 66,
+            "top": 127,
+            "width": 46,
+            "height": 32
+          },
+          "file": "054.webp"
+        },
+        {
+          "label": "Hauptdolomit (Norien) bzw. Trias im Allgemeinen",
+          "rect": {
+            "left": 52,
+            "top": 159,
+            "width": 60,
+            "height": 31
+          },
+          "file": "055.webp"
+        },
+        {
+          "label": "Raibler Schichten (Carnien)",
+          "rect": {
+            "left": 66,
+            "top": 190,
+            "width": 46,
+            "height": 32
+          },
+          "file": "056.webp"
+        },
+        {
+          "label": "Ladinien und unteres Carnien (z.T. inkl. Anisien)",
+          "rect": {
+            "left": 66,
+            "top": 222,
+            "width": 46,
+            "height": 32
+          },
+          "file": "057.webp"
+        },
+        {
+          "label": "Anisien",
+          "rect": {
+            "left": 66,
+            "top": 254,
+            "width": 46,
+            "height": 27
+          },
+          "file": "058.webp"
+        },
+        {
+          "label": "Perm",
+          "rect": {
+            "left": 52,
+            "top": 281,
+            "width": 60,
+            "height": 32
+          },
+          "file": "059.webp"
+        },
+        {
+          "label": "Oberkarbon",
+          "rect": {
+            "left": 52,
+            "top": 313,
+            "width": 60,
+            "height": 31
+          },
+          "file": "060.webp"
+        },
+        {
+          "label": "Zone von Roisan: Paläozoikum–Kreide",
+          "rect": {
+            "left": 52,
+            "top": 352,
+            "width": 60,
+            "height": 33
+          },
+          "file": "061.webp"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "name": "ペンニン帯：南部～ウルトラペンニン帯",
+      "items": [
+        {
+          "label": "Unterkreide und Flysch des Perrières, Hundsrück-Flysch (mit Ophiolithen und Graniten)",
+          "rect": {
+            "left": 89,
+            "top": 184,
+            "width": 60,
+            "height": 55
+          },
+          "file": "062.webp"
+        },
+        {
+          "label": "Flysch der Simmen-Decke",
+          "rect": {
+            "left": 89,
+            "top": 239,
+            "width": 60,
+            "height": 32
+          },
+          "file": "063.webp"
+        },
+        {
+          "label": "Flysch à Helminthoïdes, Plattenflysch",
+          "rect": {
+            "left": 89,
+            "top": 271,
+            "width": 60,
+            "height": 31
+          },
+          "file": "064.webp"
+        },
+        {
+          "label": "Gurnigel-, Schlieren- und Wägitaler Flysch, Flysch des Voirons",
+          "rect": {
+            "left": 89,
+            "top": 302,
+            "width": 60,
+            "height": 32
+          },
+          "file": "065.webp"
+        },
+        {
+          "label": "Jura–Kreide («Bündnerschiefer»)",
+          "rect": {
+            "left": 89,
+            "top": 343,
+            "width": 60,
+            "height": 32
+          },
+          "file": "066.webp"
+        },
+        {
+          "label": "Jura–Unterkreide der Simmen-Decke",
+          "rect": {
+            "left": 89,
+            "top": 379,
+            "width": 60,
+            "height": 32
+          },
+          "file": "067.webp"
+        },
+        {
+          "label": "Flysch der Aroser Zone",
+          "rect": {
+            "left": 89,
+            "top": 420,
+            "width": 60,
+            "height": 32
+          },
+          "file": "068.webp"
+        },
+        {
+          "label": "Perm–Kreide der Aroser Zone und der Platta-Decke (z.T. ostalpine Affinitäten), mit Ophiolithen",
+          "rect": {
+            "left": 89,
+            "top": 456,
+            "width": 60,
+            "height": 54
+          },
+          "file": "069.webp"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "name": "ペンニン帯：中部（Briançonnais-Schwelle s.l.）",
+      "items": [
+        {
+          "label": "Flysch im Allgemeinen",
+          "rect": {
+            "left": 89,
+            "top": 583,
+            "width": 60,
+            "height": 31
+          },
+          "file": "070.webp"
+        },
+        {
+          "label": "Flysch der Breccien-Decke (Paläozän–?Untereozän)",
+          "rect": {
+            "left": 103,
+            "top": 614,
+            "width": 46,
+            "height": 32
+          },
+          "file": "071.webp"
+        },
+        {
+          "label": "Flysch der Tasna- und der Klippen-Decke (Eozän)",
+          "rect": {
+            "left": 103,
+            "top": 646,
+            "width": 46,
+            "height": 32
+          },
+          "file": "072.webp"
+        },
+        {
+          "label": "Aptien–Untereozän (Couches rouges)",
+          "rect": {
+            "left": 89,
+            "top": 682,
+            "width": 60,
+            "height": 32
+          },
+          "file": "073.webp"
+        },
+        {
+          "label": "Unterkreide",
+          "rect": {
+            "left": 89,
+            "top": 714,
+            "width": 60,
+            "height": 32
+          },
+          "file": "074.webp"
+        },
+        {
+          "label": "Malm bzw. Jura im Allgemeinen",
+          "rect": {
+            "left": 89,
+            "top": 746,
+            "width": 60,
+            "height": 31
+          },
+          "file": "075.webp"
+        },
+        {
+          "label": "Dogger",
+          "rect": {
+            "left": 103,
+            "top": 777,
+            "width": 46,
+            "height": 28
+          },
+          "file": "076.webp"
+        },
+        {
+          "label": "Lias",
+          "rect": {
+            "left": 103,
+            "top": 805,
+            "width": 46,
+            "height": 27
+          },
+          "file": "077.webp"
+        },
+        {
+          "label": "Trias",
+          "rect": {
+            "left": 89,
+            "top": 832,
+            "width": 60,
+            "height": 26
+          },
+          "file": "078.webp"
+        },
+        {
+          "label": "Permo-Trias",
+          "rect": {
+            "left": 103,
+            "top": 859,
+            "width": 46,
+            "height": 18
+          },
+          "file": "079.webp"
+        },
+        {
+          "label": "Perm",
+          "rect": {
+            "left": 89,
+            "top": 877,
+            "width": 60,
+            "height": 23
+          },
+          "file": "080.webp"
+        },
+        {
+          "label": "Permo-Karbon",
+          "rect": {
+            "left": 103,
+            "top": 900,
+            "width": 46,
+            "height": 18
+          },
+          "file": "081.webp"
+        },
+        {
+          "label": "Oberkarbon",
+          "rect": {
+            "left": 89,
+            "top": 918,
+            "width": 60,
+            "height": 23
+          },
+          "file": "082.webp"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "name": "ペンニン帯：中部（続き）",
+      "items": [
+        {
+          "label": "Jura–Unterkreide der Breccien-Decke",
+          "rect": {
+            "left": 86,
+            "top": 7,
+            "width": 60,
+            "height": 32
+          },
+          "file": "083.webp"
+        },
+        {
+          "label": "Trias–Kreide (z.T. bis Eozän) der Siviez-Mischabel-, Tambo-, Suretta- und Monte-Rosa-Decke",
+          "rect": {
+            "left": 86,
+            "top": 43,
+            "width": 60,
+            "height": 55
+          },
+          "file": "084.webp"
+        },
+        {
+          "label": "Frilihorn- und Cimes-Blanches-Decke: Perm–Kreide",
+          "rect": {
+            "left": 86,
+            "top": 107,
+            "width": 60,
+            "height": 31
+          },
+          "file": "085.webp"
+        },
+        {
+          "label": "Jura–Kreide der Schamser Decken",
+          "rect": {
+            "left": 86,
+            "top": 139,
+            "width": 60,
+            "height": 31
+          },
+          "file": "086.webp"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "name": "ペンニン帯：北部",
+      "items": [
+        {
+          "label": "Flysch im Allgemeinen",
+          "rect": {
+            "left": 86,
+            "top": 252,
+            "width": 60,
+            "height": 31
+          },
+          "file": "087.webp"
+        },
+        {
+          "label": "Niesen-Flysch",
+          "rect": {
+            "left": 99,
+            "top": 284,
+            "width": 47,
+            "height": 31
+          },
+          "file": "088.webp"
+        },
+        {
+          "label": "Wildflysch der Zone Submédiane",
+          "rect": {
+            "left": 99,
+            "top": 316,
+            "width": 47,
+            "height": 30
+          },
+          "file": "089.webp"
+        },
+        {
+          "label": "Tomül- und Prättigau-Flysch, Flysch der Zone von Roz-Champatsch",
+          "rect": {
+            "left": 99,
+            "top": 347,
+            "width": 47,
+            "height": 45
+          },
+          "file": "090.webp"
+        },
+        {
+          "label": "Tertiär (Unités de la Pierre Avoi et des Cols)",
+          "rect": {
+            "left": 86,
+            "top": 401,
+            "width": 60,
+            "height": 33
+          },
+          "file": "091.webp"
+        },
+        {
+          "label": "Liechtensteiner und Vorarlberger Flysch",
+          "rect": {
+            "left": 86,
+            "top": 437,
+            "width": 60,
+            "height": 33
+          },
+          "file": "092.webp"
+        },
+        {
+          "label": "Roignais-Versoyen-Flysch",
+          "rect": {
+            "left": 86,
+            "top": 478,
+            "width": 60,
+            "height": 31
+          },
+          "file": "093.webp"
+        },
+        {
+          "label": "«Complexe antéflysch» et «formation basale»",
+          "rect": {
+            "left": 99,
+            "top": 510,
+            "width": 47,
+            "height": 27
+          },
+          "file": "094.webp"
+        },
+        {
+          "label": "Schiefer der «Unité de Ferret» (Oberkreide und/oder Tertiär)",
+          "rect": {
+            "left": 86,
+            "top": 542,
+            "width": 60,
+            "height": 32
+          },
+          "file": "095.webp"
+        },
+        {
+          "label": "Bündnerschiefer (Grava- und Tomül-Decke): Malm–Kreide",
+          "rect": {
+            "left": 86,
+            "top": 582,
+            "width": 60,
+            "height": 32
+          },
+          "file": "096.webp"
+        },
+        {
+          "label": "Jura der Zone Submédiane, Niesen- und Aul-Decke",
+          "rect": {
+            "left": 86,
+            "top": 619,
+            "width": 60,
+            "height": 32
+          },
+          "file": "097.webp"
+        },
+        {
+          "label": "Karbonatarme Metakonglomerate der Lebendun-Decke",
+          "rect": {
+            "left": 99,
+            "top": 668,
+            "width": 47,
+            "height": 27
+          },
+          "file": "098.webp"
+        },
+        {
+          "label": "Mesozoikum des externen Nordpenninikums",
+          "rect": {
+            "left": 86,
+            "top": 696,
+            "width": 60,
+            "height": 31
+          },
+          "file": "099.webp"
+        },
+        {
+          "label": "Trias",
+          "rect": {
+            "left": 86,
+            "top": 732,
+            "width": 60,
+            "height": 31
+          },
+          "file": "100.webp"
+        },
+        {
+          "label": "Perm",
+          "rect": {
+            "left": 86,
+            "top": 764,
+            "width": 60,
+            "height": 31
+          },
+          "file": "101.webp"
+        },
+        {
+          "label": "Karbon",
+          "rect": {
+            "left": 86,
+            "top": 796,
+            "width": 60,
+            "height": 31
+          },
+          "file": "102.webp"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "name": "ヘルベティック帯：上部白亜系～第三系",
+      "items": [
+        {
+          "label": "Ultrahelvetikum–?Penninikum: Flysch du Meilleret, Sardona-Flysch, Feuerstätter Decke",
+          "rect": {
+            "left": 84,
+            "top": 152,
+            "width": 46,
+            "height": 28
+          },
+          "file": "103.webp"
+        },
+        {
+          "label": "Ultrahelvetikum–?Penninikum: Wildflysch (Gros-Plané, Habkern, Liebenstein u.a.)",
+          "rect": {
+            "left": 71,
+            "top": 180,
+            "width": 59,
+            "height": 30
+          },
+          "file": "104.webp"
+        },
+        {
+          "label": "Ultrahelvetische Flysche im Allgemeinen",
+          "rect": {
+            "left": 71,
+            "top": 211,
+            "width": 59,
+            "height": 32
+          },
+          "file": "105.webp"
+        },
+        {
+          "label": "Abgeschertes und eingewickeltes Südhelvetikum (Schuppenzone von Einsiedeln und Wildhaus, Blattengrat-Komplex, Ragazer Flysch, Unterlage des Fähnernspitz, Schuppenzone von Liebenstein)",
+          "rect": {
+            "left": 71,
+            "top": 279,
+            "width": 59,
+            "height": 73
+          },
+          "file": "106.webp"
+        },
+        {
+          "label": "Subalpiner Flysch (z.T. nordhelvetisch)",
+          "rect": {
+            "left": 71,
+            "top": 356,
+            "width": 59,
+            "height": 32
+          },
+          "file": "107.webp"
+        },
+        {
+          "label": "Nordhelvetischer Flysch (Matter Formation, Engi-Dachschiefer, Altdorfer Sandstein, Grès du Val d’Illiez, Grès de Taveyanne)",
+          "rect": {
+            "left": 71,
+            "top": 424,
+            "width": 59,
+            "height": 58
+          },
+          "file": "108.webp"
+        },
+        {
+          "label": "Globigerinenschiefer",
+          "rect": {
+            "left": 71,
+            "top": 483,
+            "width": 59,
+            "height": 30
+          },
+          "file": "109.webp"
+        },
+        {
+          "label": "Neritische Sandsteine und Kalke (Nummuliten-, Lithothamnienkalk)",
+          "rect": {
+            "left": 71,
+            "top": 514,
+            "width": 59,
+            "height": 32
+          },
+          "file": "110.webp"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "name": "ヘルベティック帯：古生界・中生界",
+      "items": [
+        {
+          "label": "Oberkreide",
+          "rect": {
+            "left": 71,
+            "top": 600,
+            "width": 59,
+            "height": 32
+          },
+          "file": "111.webp"
+        },
+        {
+          "label": "Unterkreide",
+          "rect": {
+            "left": 71,
+            "top": 632,
+            "width": 59,
+            "height": 31
+          },
+          "file": "112.webp"
+        },
+        {
+          "label": "Malm",
+          "rect": {
+            "left": 71,
+            "top": 664,
+            "width": 59,
+            "height": 27
+          },
+          "file": "113.webp"
+        },
+        {
+          "label": "Bathonien–Oxfordien",
+          "rect": {
+            "left": 97,
+            "top": 691,
+            "width": 33,
+            "height": 27
+          },
+          "file": "114.webp"
+        },
+        {
+          "label": "Dogger",
+          "rect": {
+            "left": 84,
+            "top": 719,
+            "width": 46,
+            "height": 26
+          },
+          "file": "115.webp"
+        },
+        {
+          "label": "Lias",
+          "rect": {
+            "left": 84,
+            "top": 745,
+            "width": 46,
+            "height": 32
+          },
+          "file": "116.webp"
+        },
+        {
+          "label": "Trias–Dogger",
+          "rect": {
+            "left": 71,
+            "top": 777,
+            "width": 59,
+            "height": 31
+          },
+          "file": "117.webp"
+        },
+        {
+          "label": "Trias",
+          "rect": {
+            "left": 84,
+            "top": 808,
+            "width": 46,
+            "height": 31
+          },
+          "file": "118.webp"
+        },
+        {
+          "label": "Perm («Verrucano»)",
+          "rect": {
+            "left": 71,
+            "top": 840,
+            "width": 59,
+            "height": 31
+          },
+          "file": "119.webp"
+        },
+        {
+          "label": "Oberkarbon (?–Unterperm)",
+          "rect": {
+            "left": 71,
+            "top": 872,
+            "width": 59,
+            "height": 31
+          },
+          "file": "120.webp"
+        },
+        {
+          "label": "Devon–Unterkarbon",
+          "rect": {
+            "left": 71,
+            "top": 904,
+            "width": 59,
+            "height": 31
+          },
+          "file": "121.webp"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "name": "第四系",
+      "items": [
+        {
+          "label": "Alluvionen",
+          "rect": {
+            "left": 53,
+            "top": 64,
+            "width": 60,
+            "height": 32
+          },
+          "file": "122.webp"
+        },
+        {
+          "label": "Torf",
+          "rect": {
+            "left": 53,
+            "top": 96,
+            "width": 60,
+            "height": 31
+          },
+          "file": "123.webp"
+        },
+        {
+          "label": "Schuttkegel",
+          "rect": {
+            "left": 53,
+            "top": 127,
+            "width": 60,
+            "height": 32
+          },
+          "file": "124.webp"
+        },
+        {
+          "label": "Hangschutt",
+          "rect": {
+            "left": 53,
+            "top": 159,
+            "width": 60,
+            "height": 32
+          },
+          "file": "125.webp"
+        },
+        {
+          "label": "Postglaziale Bergsturzmasse",
+          "rect": {
+            "left": 53,
+            "top": 191,
+            "width": 60,
+            "height": 32
+          },
+          "file": "126.webp"
+        },
+        {
+          "label": "Sackungsmasse",
+          "rect": {
+            "left": 53,
+            "top": 223,
+            "width": 60,
+            "height": 31
+          },
+          "file": "127.webp"
+        },
+        {
+          "label": "Rutschmasse",
+          "rect": {
+            "left": 53,
+            "top": 255,
+            "width": 60,
+            "height": 31
+          },
+          "file": "128.webp"
+        },
+        {
+          "label": "Spät- bis postglaziale Schotter in den Alpen",
+          "rect": {
+            "left": 53,
+            "top": 290,
+            "width": 60,
+            "height": 33
+          },
+          "file": "129.webp"
+        },
+        {
+          "label": "Jungpleistozäne Bergsturzmasse",
+          "rect": {
+            "left": 53,
+            "top": 331,
+            "width": 60,
+            "height": 32
+          },
+          "file": "130.webp"
+        },
+        {
+          "label": "Löss, Lösslehm, Verwitterungslehm",
+          "rect": {
+            "left": 53,
+            "top": 363,
+            "width": 60,
+            "height": 31
+          },
+          "file": "131.webp"
+        },
+        {
+          "label": "Fluvioglaziale und glaziolakustrische Schotter (Hoch- und Niederterrassen)",
+          "rect": {
+            "left": 53,
+            "top": 395,
+            "width": 60,
+            "height": 31
+          },
+          "file": "132.webp"
+        },
+        {
+          "label": "Moräne, mit Wall; inkl. rezente Moräne",
+          "rect": {
+            "left": 53,
+            "top": 427,
+            "width": 60,
+            "height": 30
+          },
+          "file": "133.webp"
+        },
+        {
+          "label": "Moränenwall in See",
+          "rect": {
+            "left": 67,
+            "top": 457,
+            "width": 46,
+            "height": 28
+          },
+          "file": "134.webp"
+        },
+        {
+          "label": "Ältere fluvioglaziale Schotter (Deckenschotter)",
+          "rect": {
+            "left": 53,
+            "top": 494,
+            "width": 60,
+            "height": 32
+          },
+          "file": "135.webp"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "name": "火成岩：中生代・第三紀（アルプス）",
+      "items": [
+        {
+          "label": "Neogene Ergussgesteine: Phonolithe",
+          "rect": {
+            "left": 71,
+            "top": 190,
+            "width": 59,
+            "height": 32
+          },
+          "file": "136.webp"
+        },
+        {
+          "label": "Neogene Ergussgesteine: Olivin-Nephelinite",
+          "rect": {
+            "left": 71,
+            "top": 222,
+            "width": 59,
+            "height": 32
+          },
+          "file": "137.webp"
+        },
+        {
+          "label": "Neogene Ergussgesteine: Pyroklastika (Deckentuffe)",
+          "rect": {
+            "left": 71,
+            "top": 254,
+            "width": 59,
+            "height": 32
+          },
+          "file": "138.webp"
+        },
+        {
+          "label": "Oligozäne Ergussgesteine: Rhyolithe, Trachiandesite, Andesite",
+          "rect": {
+            "left": 71,
+            "top": 331,
+            "width": 59,
+            "height": 32
+          },
+          "file": "139.webp"
+        },
+        {
+          "label": "Tertiäre Intrusiva: Granite, Granodiorite",
+          "rect": {
+            "left": 71,
+            "top": 412,
+            "width": 59,
+            "height": 32
+          },
+          "file": "140.webp"
+        },
+        {
+          "label": "Tertiäre Intrusiva: Tonalite, Diorite, Gabbros",
+          "rect": {
+            "left": 71,
+            "top": 444,
+            "width": 59,
+            "height": 32
+          },
+          "file": "141.webp"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "name": "古生代以降の岩脈・中生代のオフィオライト",
+      "items": [
+        {
+          "label": "Postpaläozoische Ganggesteine: Basische Ganggesteine",
+          "rect": {
+            "left": 71,
+            "top": 520,
+            "width": 59,
+            "height": 33
+          },
+          "file": "142.webp"
+        },
+        {
+          "label": "Mesozoische Ophiolithe: Basaltische und metabasaltische Gesteine",
+          "rect": {
+            "left": 71,
+            "top": 602,
+            "width": 59,
+            "height": 32
+          },
+          "file": "143.webp"
+        },
+        {
+          "label": "Mesozoische Ophiolithe: Metagabbroide und eklogitische Gesteine",
+          "rect": {
+            "left": 71,
+            "top": 634,
+            "width": 59,
+            "height": 32
+          },
+          "file": "144.webp"
+        },
+        {
+          "label": "Mesozoische Ophiolithe: Meta-Ultrabasite (Serpentinite, Talkschiefer; z.T. subkontinentaler Mantel)",
+          "rect": {
+            "left": 71,
+            "top": 666,
+            "width": 59,
+            "height": 55
+          },
+          "file": "145.webp"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "name": "後期古生代（バリスカン期）の火成岩",
+      "items": [
+        {
+          "label": "Effusiva: Rhyolithe, Dacite (inkl. Ignimbrite, Granophyre)",
+          "rect": {
+            "left": 59,
+            "top": 123,
+            "width": 60,
+            "height": 32
+          },
+          "file": "146.webp"
+        },
+        {
+          "label": "Effusiva: Andesite, Basalte",
+          "rect": {
+            "left": 59,
+            "top": 155,
+            "width": 60,
+            "height": 32
+          },
+          "file": "147.webp"
+        },
+        {
+          "label": "Ganggesteine (ausseralpin): Granitporphyre, Granophyre",
+          "rect": {
+            "left": 59,
+            "top": 237,
+            "width": 60,
+            "height": 32
+          },
+          "file": "148.webp"
+        },
+        {
+          "label": "Intrusiva (Alpen), Perm: Granite, Granodiorite, Quarzdiorite",
+          "rect": {
+            "left": 59,
+            "top": 336,
+            "width": 60,
+            "height": 33
+          },
+          "file": "149.webp"
+        },
+        {
+          "label": "Intrusiva (Alpen), Mittel- bis Oberkarbon: Granite, Granodiorite, Quarzdiorite",
+          "rect": {
+            "left": 59,
+            "top": 373,
+            "width": 60,
+            "height": 31
+          },
+          "file": "150.webp"
+        },
+        {
+          "label": "Intrusiva (Alpen), Mittel- bis Oberkarbon: Syenite, Monzonite",
+          "rect": {
+            "left": 59,
+            "top": 405,
+            "width": 60,
+            "height": 31
+          },
+          "file": "151.webp"
+        },
+        {
+          "label": "Intrusiva (Alpen), Mittel- bis Oberkarbon: Diorite, Gabbros",
+          "rect": {
+            "left": 59,
+            "top": 437,
+            "width": 60,
+            "height": 31
+          },
+          "file": "152.webp"
+        },
+        {
+          "label": "Intrusiva (Alpen): Ultrabasite",
+          "rect": {
+            "left": 59,
+            "top": 472,
+            "width": 60,
+            "height": 33
+          },
+          "file": "153.webp"
+        },
+        {
+          "label": "Intrusiva (Schwarzwald): Granite (spät- bis postkinematisch)",
+          "rect": {
+            "left": 59,
+            "top": 540,
+            "width": 60,
+            "height": 32
+          },
+          "file": "154.webp"
+        },
+        {
+          "label": "Intrusiva (Schwarzwald): Granite, migmatitische Granitoide (früh- bis synkinematisch)",
+          "rect": {
+            "left": 59,
+            "top": 577,
+            "width": 60,
+            "height": 31
+          },
+          "file": "155.webp"
+        },
+        {
+          "label": "Intrusiva (Schwarzwald): Granodiorite, Tonalite (z.T. anatektisch)",
+          "rect": {
+            "left": 59,
+            "top": 609,
+            "width": 60,
+            "height": 31
+          },
+          "file": "156.webp"
+        },
+        {
+          "label": "Intrusiva (Vogesen): Quarzmonzonite (inkl. basischere Randfazies)",
+          "rect": {
+            "left": 59,
+            "top": 649,
+            "width": 60,
+            "height": 32
+          },
+          "file": "157.webp"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "name": "中生代以前の高度変成岩",
+      "items": [
+        {
+          "label": "Metagranitoide (Intrusionsalter nicht gesichert)",
+          "rect": {
+            "left": 34,
+            "top": 80,
+            "width": 60,
+            "height": 32
+          },
+          "file": "158.webp"
+        },
+        {
+          "label": "Metagranitoide, jungpaläozoisches (variszisches) Intrusionsalter",
+          "rect": {
+            "left": 47,
+            "top": 112,
+            "width": 47,
+            "height": 32
+          },
+          "file": "159.webp"
+        },
+        {
+          "label": "Diatexite, Syntexite (Schwarzwald)",
+          "rect": {
+            "left": 47,
+            "top": 144,
+            "width": 47,
+            "height": 32
+          },
+          "file": "160.webp"
+        },
+        {
+          "label": "Metagranitoide, altpaläozoisches (kaledonisches) Intrusionsalter",
+          "rect": {
+            "left": 47,
+            "top": 176,
+            "width": 47,
+            "height": 31
+          },
+          "file": "161.webp"
+        },
+        {
+          "label": "Metaperidotite",
+          "rect": {
+            "left": 47,
+            "top": 212,
+            "width": 47,
+            "height": 32
+          },
+          "file": "162.webp"
+        },
+        {
+          "label": "Metagabbros, Metabasalte (z.T. eklogitfaziell); Meta-Ultrabasite",
+          "rect": {
+            "left": 34,
+            "top": 244,
+            "width": 60,
+            "height": 31
+          },
+          "file": "163.webp"
+        },
+        {
+          "label": "Amphibolite",
+          "rect": {
+            "left": 47,
+            "top": 276,
+            "width": 47,
+            "height": 31
+          },
+          "file": "164.webp"
+        },
+        {
+          "label": "Gneise und Glimmerschiefer (inkl. Migmatite und Phyllite; vorw. Metasedimente)",
+          "rect": {
+            "left": 34,
+            "top": 320,
+            "width": 60,
+            "height": 32
+          },
+          "file": "165.webp"
+        },
+        {
+          "label": "Quarzphyllit-Serien",
+          "rect": {
+            "left": 47,
+            "top": 353,
+            "width": 47,
+            "height": 30
+          },
+          "file": "166.webp"
+        },
+        {
+          "label": "Glimmerschiefer und Paragneise mit Marmoren, Kalksilikatgesteinen, Amphiboliten und Pegmatiten der Tonale-Serie und der Scisti di Fobello e Rimella",
+          "rect": {
+            "left": 47,
+            "top": 384,
+            "width": 47,
+            "height": 54
+          },
+          "file": "167.webp"
+        },
+        {
+          "label": "Kinzigitgneise",
+          "rect": {
+            "left": 47,
+            "top": 439,
+            "width": 47,
+            "height": 31
+          },
+          "file": "168.webp"
+        },
+        {
+          "label": "Einlagerungen von Marmoren und Kalksilikatfelsen",
+          "rect": {
+            "left": 47,
+            "top": 471,
+            "width": 47,
+            "height": 30
+          },
+          "file": "169.webp"
+        },
+        {
+          "label": "Mylonite der Ivrea-Zone",
+          "rect": {
+            "left": 34,
+            "top": 510,
+            "width": 60,
+            "height": 33
+          },
+          "file": "170.webp"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2500 @@
+{
+  "source": "https://gis.geosphere.at/maps/rest/services/geologie/nied_200/MapServer/legend?f=pjson",
+  "attribution": "GeoSphere Austria",
+  "groups": [
+    {
+      "name": "岩石・地層・水域（原語：ドイツ語）",
+      "items": [
+        {
+          "file": "planar-000.webp",
+          "label": "1 - Anthropogene Ablagerung (Deponie, Bergbauhalde, etc.)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "512e08d55cfe356022ec1f72f8a02f46"
+        },
+        {
+          "file": "planar-001.webp",
+          "label": "2 - Talfüllung - Jüngster Talboden (Kies, Auelehm)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "91e1c8a4687ab3a1c3a265d4b7914a4c"
+        },
+        {
+          "file": "planar-002.webp",
+          "label": "3 - Schwemmfächer",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "52e4d6a557e1c844bc8145773255bfda"
+        },
+        {
+          "file": "planar-003.webp",
+          "label": "4 - Trockental",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "cff2d6b9f3b069da7d80079972f70fc4"
+        },
+        {
+          "file": "planar-004.webp",
+          "label": "5 - Vernässung, Moor",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "eff2bfc6df51f1e1df560d71b8d6cc17"
+        },
+        {
+          "file": "planar-005.webp",
+          "label": "6 - Seeton, limnisches Sediment",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "4fca03322e6e3614344ffc5e4977c69d"
+        },
+        {
+          "file": "planar-006.webp",
+          "label": "7 - Hangschutt",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "6abcde961bb109831f6e3aff137bd059"
+        },
+        {
+          "file": "planar-007.webp",
+          "label": "8 - Bergsturzmaterial, Blockwerk",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "e6a2f38851f2fd3f94c2cd24512b6a8f"
+        },
+        {
+          "file": "planar-008.webp",
+          "label": "9 - Talfüllung - Älterer Talboden (Kies, Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "340630be71582f502dbf5b9dc42a2df1"
+        },
+        {
+          "file": "planar-009.webp",
+          "label": "10 - Rutschhang, Massenbewegung, Sackungsmasse",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "29803eb2e98a2da9e5c1cd9bf9561843"
+        },
+        {
+          "file": "planar-010.webp",
+          "label": "11 - Fluviatile Ablagerungen i.A. (Kies, Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "93556f0f1f8d1315c73021538f696da5"
+        },
+        {
+          "file": "planar-011.webp",
+          "label": "12 - Fluviatile Ablagerung im Neusiedlerseegebiet, z.T. mit äolischen Deckschichten; Oberes Pleistozän (Kies, Sand, Flugsand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "f1c4f05a7fa9c0379bbe276f4d5fb143"
+        },
+        {
+          "file": "planar-012.webp",
+          "label": "13 - Quartärer Kies und Sand i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "56271d4c012f2c3fc3b82fe22db5f267"
+        },
+        {
+          "file": "planar-013.webp",
+          "label": "14 - Lehm, Verwitterungslehm, Hanglehm",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "406670239dd026489d32a8a750480b26"
+        },
+        {
+          "file": "planar-014.webp",
+          "label": "15 - Lehm, Löss, undifferenziert",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "902422441e46efb618bcd7b1570b93c4"
+        },
+        {
+          "file": "planar-015.webp",
+          "label": "16 - Flugsand",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "9a76378a8c5b745b949e4a62ca5468e5"
+        },
+        {
+          "file": "planar-016.webp",
+          "label": "17 - Jüngerer Flugsand; Holozän",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "7ec5d37210ffbc3dd5a1798b5788bb65"
+        },
+        {
+          "file": "planar-017.webp",
+          "label": "18 - Älterer Flugsand; Pleistozän",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "0c67825670e3e571b6c124edb7b46f05"
+        },
+        {
+          "file": "planar-018.webp",
+          "label": "19 - Löss, Lösslehm",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a0bd5db268c73b5c9528f9f56acbcb98"
+        },
+        {
+          "file": "planar-019.webp",
+          "label": "20 - Schuttkomplex des Mitterriegels und Äquivalente",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "0bd3b69d9546534467a55d238a99d90a"
+        },
+        {
+          "file": "planar-020.webp",
+          "label": "21 - Hangbrekzie i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "0122ec31bd21f817af5feb3d0fa213c4"
+        },
+        {
+          "file": "planar-021.webp",
+          "label": "22 - Hangbrekzie; ?Mindel-Riss-Interglazial",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "7e56d87f29ee6ef4811ed7c141b951b2"
+        },
+        {
+          "file": "planar-022.webp",
+          "label": "23 - Blockgletscher (Blockwerk)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "f1566fc98c763e13454bb3b649c713a0"
+        },
+        {
+          "file": "planar-023.webp",
+          "label": "24 - Terrassensedimente i.A. (Kies, Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "7a8ba234c9dc3bc65ca7de6d57b35639"
+        },
+        {
+          "file": "planar-024.webp",
+          "label": "25 - Tiefere Terrassensedimente i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "2d03d63998537c01c818990ccf91d27e"
+        },
+        {
+          "file": "planar-025.webp",
+          "label": "26 - Höhere Terrassensedimente i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "f1c4f05a7fa9c0379bbe276f4d5fb143"
+        },
+        {
+          "file": "planar-026.webp",
+          "label": "27 - Schwemmfächer im Bereich der Kleinen Karpaten",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "d968c88ff7287de7a7c3ea0391aa8275"
+        },
+        {
+          "file": "planar-027.webp",
+          "label": "28 - Hochgelegene Terrassensedimente; Oberes Pliozän (Kies und Sand, z.T. verfestigt)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "4c03b0d17c1347dd5fe36fe757d78b2f"
+        },
+        {
+          "file": "planar-028.webp",
+          "label": "29 - Terrassensedimente im Kamptal und Thayatal (Kies, Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c607949e165e0a9ff80d2faa73d1dbc7"
+        },
+        {
+          "file": "planar-029.webp",
+          "label": "30 - Tiefere Terrassensedimente; Oberes Pleistozän (Kies, Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "2e136c73ac81e45324b0ad8d1305e737"
+        },
+        {
+          "file": "planar-030.webp",
+          "label": "31 - Mittlere Terrassensedimente; Mittleres Pleistozän (Kies, Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "e0d29b44247f25fc9aba238e7c09d054"
+        },
+        {
+          "file": "planar-031.webp",
+          "label": "32 - Höhere Terrassensedimente; Unteres Pleistozän (Kies, Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "1220a0875af242812d3bc5e553c8a25b"
+        },
+        {
+          "file": "planar-032.webp",
+          "label": "33 - Fluvio-lakustrine Ablagerung in Tschechien (Kies, Sand, Ton)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "0116f125b04fc516a8b7b96ae04af47b"
+        },
+        {
+          "file": "planar-033.webp",
+          "label": "34 - Hochgelegene Terrassensedimente an der Thaya und im Weinviertel; Oberes Pliozän - Pleistozän (Kies, Sand, z.T. verfestigt)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c607949e165e0a9ff80d2faa73d1dbc7"
+        },
+        {
+          "file": "planar-034.webp",
+          "label": "35 - Niederterrasse (Kies, Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "e9c49e056278ae87663f053a7228c225"
+        },
+        {
+          "file": "planar-035.webp",
+          "label": "36 - Seewinkelschotter (Kies)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c528386933a4ec9f4784a2babcac3cdb"
+        },
+        {
+          "file": "planar-036.webp",
+          "label": "37 - Steinfeldschotter; Riss - Würm (Kies, Grobsand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "e6070e7f3ae9653dde2b33fa55b1e153"
+        },
+        {
+          "file": "planar-037.webp",
+          "label": "38 - Hochterrasse (lokal tektonisch abgesenkt), meistens mit Deckschichten von Löss und Lehm; Riss (Kies, Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "7fac9dc902a3db6e449453c17baa9af8"
+        },
+        {
+          "file": "planar-038.webp",
+          "label": "39 - Jüngerer Deckenschotter i.A., meistens mit Deckschichten von Löss und Lehm",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "8148e01a5e5a29c44733137c88191057"
+        },
+        {
+          "file": "planar-039.webp",
+          "label": "40 - Jüngerer Deckenschotter (tieferes Niveau), meistens mit Deckschichten von Löss und Lehm",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "04998a935a5aee63c737c234600c19dc"
+        },
+        {
+          "file": "planar-040.webp",
+          "label": "41 - Jüngerer Deckenschotter (höheres Niveau), meistens mit Deckschichten von Löss und Lehm",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "5951ffae75b7e59468841a0a8bff970d"
+        },
+        {
+          "file": "planar-041.webp",
+          "label": "42 - Älterer Deckenschotter, meistens mit Deckschichten von Löss und Lehm; Günz",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "11b7bf22d947d31ed439a80ec48fe97a"
+        },
+        {
+          "file": "planar-042.webp",
+          "label": "43 - Plio-Pleistozäne Schotter in verschiedenen Höhenlagen, meistens mit Deckschichten von Löss und Lehm, westl. Amstetten z.T. nur Verebnungsniveaus",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "8d6acee99a210305def63eee38afb72b"
+        },
+        {
+          "file": "planar-043.webp",
+          "label": "44 - Steinbrunner Schotter, Zillingdorfer Schotter (Kies, Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c607949e165e0a9ff80d2faa73d1dbc7"
+        },
+        {
+          "file": "planar-044.webp",
+          "label": "45 - Tiefere Terrassensedimente im Donauraum östlich der kleinen Karpaten; Pleistozän - Holozän (Kies, Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "2d03d63998537c01c818990ccf91d27e"
+        },
+        {
+          "file": "planar-045.webp",
+          "label": "46 - Fluviatile Ablagerung; Würm (Kies, Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "56271d4c012f2c3fc3b82fe22db5f267"
+        },
+        {
+          "file": "planar-046.webp",
+          "label": "47 - Fluviatile Ablagerung (Kies, Sand), z.T. mit Deckschichten aus Löss und Lehm; Mittleres Pleistozän",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a3f19f9476998b052e2c0e2b5315f791"
+        },
+        {
+          "file": "planar-047.webp",
+          "label": "48 - Fluviatile Ablagerung (Kies, Sand), z.T. mit Deckschichten aus Löss und Lehm; Unteres bis Mittleres Pleistozän",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "ae66805d94a30c60308eed743fe24516"
+        },
+        {
+          "file": "planar-048.webp",
+          "label": "49 - Fluviatile Ablagerung (Kies, Sand), z.T. mit Deckschichten aus Löss und Lehm; Unteres Pleistozän",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "60ad0a2f4e627e1c0b3d3703d2958b15"
+        },
+        {
+          "file": "planar-049.webp",
+          "label": "50 - Moräne (Gemenge von Ton bis Blockwerk)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "246ec26aa62d02a87b3606439d63bf05"
+        },
+        {
+          "file": "planar-050.webp",
+          "label": "51 - Eisrandterrasse (Kies, Sand, Bänderschluff)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "099bb4044b40b74ca8922a9bb7a654a3"
+        },
+        {
+          "file": "planar-051.webp",
+          "label": "52 - Moräne (Gemenge von Ton bis Blockwerk)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "787ce26c8616510124f66562b7d0e4c7"
+        },
+        {
+          "file": "planar-052.webp",
+          "label": "53 - Eisrandterrasse (Kies, Sand, Bänderschluff)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "4b50ee19423b7657d51ec417626b7aad"
+        },
+        {
+          "file": "planar-053.webp",
+          "label": "100 - Ledenice-Formation; Pliozän (Ton, Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "9d185530740e5acd8a5327e727cb0d25"
+        },
+        {
+          "file": "planar-054.webp",
+          "label": "101 - Korosecke-Sand und -Schotter; Mittel-Miozän (Sand, Kies mit Moldaviten)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "e4f5eff63d89feb41fae7551d3beefca"
+        },
+        {
+          "file": "planar-055.webp",
+          "label": "102 - Domanin-Formation; Badenium - Sarmatium (Ton, Kohleton, Kies)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "d51641e77f8e8d8166035a3e13a06faa"
+        },
+        {
+          "file": "planar-056.webp",
+          "label": "103 - Mydlovary-Formation; Badenium (Sandstein, Ton, Kohle, Diatomit)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "e19d82a68f39b91f9dbb56e7fcf26c24"
+        },
+        {
+          "file": "planar-057.webp",
+          "label": "104 - Zliv-Formation; Ottnangium - Karpatium (Ton, Sandstein, Konglomerat)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "37bdf1e47e64bdc3ee4ea2331d27c87d"
+        },
+        {
+          "file": "planar-058.webp",
+          "label": "105 - Lipnice-Formation; Oligozän (Kies, Sand, Sandstein, Ton)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "9c134fc5c849ec430be7356f7290f33f"
+        },
+        {
+          "file": "planar-059.webp",
+          "label": "106 - Kies (Tschechien); Pliozän",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "6143feac35af09912080fd8bd3b46eb1"
+        },
+        {
+          "file": "planar-060.webp",
+          "label": "107 - Irnfritz-Radessen-Formation (Kies, Sand, tonreich)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c71501bb6219a0fec692dc851d45d9f8"
+        },
+        {
+          "file": "planar-061.webp",
+          "label": "108 - Kies und Sand i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "099bb4044b40b74ca8922a9bb7a654a3"
+        },
+        {
+          "file": "planar-062.webp",
+          "label": "109 - Ton und Sand i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a84e1c34354b1c30c472e345d88a2a56"
+        },
+        {
+          "file": "planar-063.webp",
+          "label": "110 - Sedimente von Laimbach-Trandorf (Kies, Sand, Schluff)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "718c004e6aed59abe9758bdb2e421194"
+        },
+        {
+          "file": "planar-064.webp",
+          "label": "111 - Hollabrunn-Mistelbach-Formation (auch im nördl. Wiener Becken) (Kies, Sand, Schluff)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "439fe521fab76339d2ede8e98647d8d5"
+        },
+        {
+          "file": "planar-065.webp",
+          "label": "112 - Ziersdorf-Formation und Äquivalente; Sarmatium (Ton, Schluff, Mergel, Sand, Kies)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "43dad449b18c3e47bf9eb56151c81c18"
+        },
+        {
+          "file": "planar-066.webp",
+          "label": "113 - Tonmergel (Tegel)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "501f0fd88da41572bcfb1b26ccc67ab0"
+        },
+        {
+          "file": "planar-067.webp",
+          "label": "114 - Sand, Kies",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "817caf031ce0dbed375e5d582e7712aa"
+        },
+        {
+          "file": "planar-068.webp",
+          "label": "115 - Hollenburg-Karlstetten-Formation, Sedimente des Badenium in der Kremser Bucht und der Wachau (Konglomerat, Mergel, Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "aeb537fb4c9c6bef1641fa23c1b56bcc"
+        },
+        {
+          "file": "planar-069.webp",
+          "label": "116 - Grund-Formation, Gaindorf-Formation, Mailberg-Formation (Mergel, Sand, Kalkstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "f05eba443eb0d79eb4fe224cb81aaf27"
+        },
+        {
+          "file": "planar-070.webp",
+          "label": "117 - Laa-Formation, Flyschkonglomerat vom Haberg; Karpatium (Mergel, Mergelstein, Blockwerk aus Sandstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "d21c3d468b711a19f34c5a26bf52c7d1"
+        },
+        {
+          "file": "planar-071.webp",
+          "label": "118 - Theras-Formation, Brennholz-Formation (Sand, Kies, Quarzitschutt)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "2e3028c078b4ccc351bc758e3d872ace"
+        },
+        {
+          "file": "planar-072.webp",
+          "label": "119 - Langau-Formation, Riegersburg-Formation (Ton, Schluff, Sand, Braunkohle, Glimmersand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "dd2f135c4b9ca0cce0ad5bcaa8f289a3"
+        },
+        {
+          "file": "planar-073.webp",
+          "label": "120 - Oncophora-Schichten (Schluff, Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "43fbebe22eb75bcf2151d566ecbbc191"
+        },
+        {
+          "file": "planar-074.webp",
+          "label": "121 - Eichberg-Konglomerat (Konglomerat und Blockwerk aus Sandstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "44daaad0c51217337d12d142bb501dd9"
+        },
+        {
+          "file": "planar-075.webp",
+          "label": "122 - Plesching-Formation (Sand, Mergel z.T. mit Phosphoritknollen)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "fab66a6d025b5e3373c3aba0e4ade0a4"
+        },
+        {
+          "file": "planar-076.webp",
+          "label": "123 - Robulus-Schlier (Mergel, Sand- und Sandsteinlagen)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "024411547d374a69239ffc8726725ccf"
+        },
+        {
+          "file": "planar-077.webp",
+          "label": "124 - Mauer-Formation (Kristallinblockwerk, Sand, Mergel)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "2c0e9ec36ccaf6dc90852a10db57d1b8"
+        },
+        {
+          "file": "planar-078.webp",
+          "label": "125 - Prinzersdorfer Sande (Sand, Mergel)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "4a192b2f73767726fb7ff1beb67f9956"
+        },
+        {
+          "file": "planar-079.webp",
+          "label": "126 - Blockmergel und Blocksande von Königstetten, Blockschichten vom Heuberg (Mergel und Sand mit Blockwerk aus Kristallin und Sandstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "25342e3af76ce533102719d84388f687"
+        },
+        {
+          "file": "planar-080.webp",
+          "label": "127 - Sandstreifenschlier (Mergel, Sand und Sandsteinlagen)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c75776cc770f5eada9d53edb41e8f111"
+        },
+        {
+          "file": "planar-081.webp",
+          "label": "128 - Zellerndorf-Formation, Limberg-Subformation, Weitersfeld-Formation, Sedimente des Eggenburgium - Ottnangium i.A. in Tschechien (Ton, Diatomit)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "1b4decafabbd7b30b2410608977550c6"
+        },
+        {
+          "file": "planar-082.webp",
+          "label": "129 - Zogelsdorf-Formation, Retz-Formation, Sedimente des Eggenburgium i.A. (Tschechien) (Kalksandstein, Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "3cf331b26198243b09f6ac02f11d01ec"
+        },
+        {
+          "file": "planar-083.webp",
+          "label": "130 - Gauderndorf-Formation, Burgschleinitz-Formation, Kühnring-Subformation (Feinsand, Grob- bis Feinsand, Ton, Schluff, Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "dc54de1108ad4b98409bb0a27632a688"
+        },
+        {
+          "file": "planar-084.webp",
+          "label": "131 - Loibersdorf-Formation (Grob- bis Feinsand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a1a25b6ae4fcbcc1019e795d58688887"
+        },
+        {
+          "file": "planar-085.webp",
+          "label": "132 - Mold-Formation (Ton, Schluff)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "7aa6be00657ec119f4bd2b73bcd3c5cd"
+        },
+        {
+          "file": "planar-086.webp",
+          "label": "133 - Fels-Formation (Grob- bis Feinsand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "82b131be3868450f93e16db1fb89b5b1"
+        },
+        {
+          "file": "planar-087.webp",
+          "label": "134 - Haller Schlier und Äquivalente (Mergel, Sand und Sandstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "2e048b530f6fbc66ba700d5f88a37a7c"
+        },
+        {
+          "file": "planar-088.webp",
+          "label": "135 - Buchberg-Konglomerat (Konglomerat und Blockwerk aus Sandstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "84a8426b326996a23608e8faee36454a"
+        },
+        {
+          "file": "planar-089.webp",
+          "label": "136 - Sedimente des Egerium i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "5f70240e24e5f38643ee4807e87d0ebc"
+        },
+        {
+          "file": "planar-090.webp",
+          "label": "137 - Älterer Schlier (Ton, Schluff, Mergel, braun und schwarz)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "155ea49ba346a05d200b1a6e0fe36542"
+        },
+        {
+          "file": "planar-091.webp",
+          "label": "138 - Ollersbach-Konglomerat (Konglomerat und Blockwerk aus Kristallin, Quarz, Sandstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "66215779ba60eaadede2032a319e6863"
+        },
+        {
+          "file": "planar-092.webp",
+          "label": "139 - Melker Sand, Linzer Sand, Sandstein von Wallsee und Perg (Grob- bis Feinsand, Kies, Sandstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "53313a99de8bc7ac0acb43437828d44d"
+        },
+        {
+          "file": "planar-093.webp",
+          "label": "140 - Pielacher Tegel; Kiscellium - Egerium (Ton, Schluff, toniger Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "db6bd09a6456e6aed6acc6ee375d63c7"
+        },
+        {
+          "file": "planar-094.webp",
+          "label": "141 - Sedimente von Freistadt-Kefermarkt, einschließlich Vorkommen in Tschechien (Kies, Sand, Schluff)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a241018fcca61507c675778e5afcb35f"
+        },
+        {
+          "file": "planar-095.webp",
+          "label": "142 - St. Marein-Freischling-Formation (Kies, Sand, Schluff)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "301dc5369643f79aff2485dbf4d6db0b"
+        },
+        {
+          "file": "planar-096.webp",
+          "label": "143 - Sedimente der Subalpinen Molasse zwischen Enns und Mank; Egerium - Eggenburgium (Mergel, Sand, Sandstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "2e048b530f6fbc66ba700d5f88a37a7c"
+        },
+        {
+          "file": "planar-097.webp",
+          "label": "144 - Rogatsboden-Formation und Äquivalente (z.B. Wolfsgraben-Formation); Oberes Eozän - Oligozän (Tonmergel, Sandsteinlagen)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "6b98902501aa8e2f804f4aca118687f9"
+        },
+        {
+          "file": "planar-098.webp",
+          "label": "145 - Eisenschüssige Tone und Sande (WZ), Krepice-Formation (PE), Pavlovice-Formation (SE); Oberes Eggenburgium - Ottnangium (Schluff, Sand, Kies, Ton mit Eisenooidkalk, Diatomit)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "63b797e215cc6eab985d4fde3f3a5134"
+        },
+        {
+          "file": "planar-099.webp",
+          "label": "146 - Sakvice-Formation, Uvaly-Formation (SE); Eggenburgium, Ottnangium (Tonmergel)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "58764e110fe91ae81a52481277cfd6f7"
+        },
+        {
+          "file": "planar-100.webp",
+          "label": "147 - Schieferige Tonmergel (WZ); Eggenburgium - Ottnangium, Zdanice-Hustopece-Formation (SE); Egerium (Ton, Tonmergel, Sand, Sandstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a254ef8a3aac11323f2f7aa5467b7172"
+        },
+        {
+          "file": "planar-101.webp",
+          "label": "148 - Blockschichten in Schieferige Tonmergel und Zdanice-Hustopece-Formation (Blöcke aus Sandstein, Mergelstein, Granit, Gneis)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "00310f9e221895b9cb393ebb42a8847a"
+        },
+        {
+          "file": "planar-102.webp",
+          "label": "149 - Michelstetten-Formation (WZ), Boudky-Formation (PE); Egerium - Eggenburgium (Mergel, Ton)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "301dc5369643f79aff2485dbf4d6db0b"
+        },
+        {
+          "file": "planar-103.webp",
+          "label": "150 - Thomasl-Formation, Ottenthal-Formation (WZ), Pouzdrany-Formation (PE), Menilith-Schichten, Nemcice-Formation (SE); Priabonium - Unteres Egerium (Tonmergel, Tonstein, Sand, Diatomit)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "0249f4fa351e48db6120446d5814df00"
+        },
+        {
+          "file": "planar-104.webp",
+          "label": "151 - Reingrub-Formation, Niederhollabrunner Kalk (Hollingsteinkalk, Pfaffenholzschichten); Priabonium (Sand, Sandstein, Kalkstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "6c117d532587e668f194a7ac771f43da"
+        },
+        {
+          "file": "planar-105.webp",
+          "label": "152 - Haidhof-Formation; Lutetium (Sandstein, Kalkstein mit Bohnerz)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "eb1202a020af3e0498733f430462a280"
+        },
+        {
+          "file": "planar-106.webp",
+          "label": "153 - Waschberg-Formation; Ypresium - Lutetium (Kalkstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "1f27dce3709fb7517f435bce3daa8bd3"
+        },
+        {
+          "file": "planar-107.webp",
+          "label": "154 - Bruderndorf-Formation, Zaya-Formation; Danium - Thanetium (Mergel, Sandstein, Glaukonitsandstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "804f44a016b7adcba4edfa885956afb1"
+        },
+        {
+          "file": "planar-108.webp",
+          "label": "155 - Mucronaten-Schichten (WZ), Palava-Formation (SE); Maastrichtium - Campanium (glaukonitischer Tonmergel, Sand, Sandstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "b2d656696a25d71400e6f0dc3d0d9c6b"
+        },
+        {
+          "file": "planar-109.webp",
+          "label": "156 - Klement-Formation; Oberes Turonium - Santonium (glaukonitischer Sandstein, Tonstein, Mergelkalk)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "73972fc357a02eea6f345eccbc80dc17"
+        },
+        {
+          "file": "planar-110.webp",
+          "label": "157 - Ernstbrunn-Formation; Tithonium (organodetritischer Kalkstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "2ae96b72380c2a0447b1c9cf34d3bbbb"
+        },
+        {
+          "file": "planar-111.webp",
+          "label": "158 - Klentnitz-Formation; Oxfordium - Tithonium (Mergelkalk)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "f15f7f1b4af4bdd498ee9e2a7bcb09bc"
+        },
+        {
+          "file": "planar-112.webp",
+          "label": "200 - Blockschotter, Blockkonglomerat, Kies (u.a. Würflacher Blockschotter); Pliozän",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "3668792e7ab2667d40a4ab8108c3a8f3"
+        },
+        {
+          "file": "planar-113.webp",
+          "label": "201 - Bunte Lehmserie (nördliches Wiener Becken); Unteres Pliozän (Lehm, rötlich, Kies, Blockwerk)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a846bcff1d9af87baddc3bfcfc0f52cb"
+        },
+        {
+          "file": "planar-114.webp",
+          "label": "202 - Loipersbach-Formation (südliches Wiener Becken); Unteres Pliozän (Lehm, rötlich, Kies, Blockwerk)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "3668792e7ab2667d40a4ab8108c3a8f3"
+        },
+        {
+          "file": "planar-115.webp",
+          "label": "203 - Rohrbach- und Ternitz-Formation; Unteres Pliozän (Konglomerat)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c5580fe08aaee560e4ac9dd7c34dcd9e"
+        },
+        {
+          "file": "planar-116.webp",
+          "label": "204 - Tihany-Formation; Oberes Pannonium - Pliozän (Ton, Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "caca969785ef0ddac5e8fe50496cfb6e"
+        },
+        {
+          "file": "planar-117.webp",
+          "label": "205 - Sedimente des Pannonium i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "0116f125b04fc516a8b7b96ae04af47b"
+        },
+        {
+          "file": "planar-118.webp",
+          "label": "206 - Inzersdorfer Tegel, Congerientegel",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "3eb4118e7f39ada40eb82dc768ea5501"
+        },
+        {
+          "file": "planar-119.webp",
+          "label": "207 - Sand, Sandstein, Mehlsand",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "dab3b34bc7e1a8388f40eab2fc52442b"
+        },
+        {
+          "file": "planar-120.webp",
+          "label": "208 - Kies",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "ea3a08264f753a1bd329dd0fb5f26da4"
+        },
+        {
+          "file": "planar-121.webp",
+          "label": "209 - Leobersdorf-Formation; Unteres Pannonium (mergeliger Sand, Feinsand, Kies)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "6e6f077c40018737b10ffb49d7961bf2"
+        },
+        {
+          "file": "planar-122.webp",
+          "label": "210 - Ton, Sand, Kies, lokal Lignit und Süßwasserkalk - Gbely-Formation i.d. Slowakei",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "6d13281ab2beb55336b1a27f649a448a"
+        },
+        {
+          "file": "planar-123.webp",
+          "label": "211 - Neufeld-Formation, Dubnany-Formation; Oberes Pannonium (Sand, Kies, Ton, Braunkohle)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "f614e97add1e6d516879f4c93c061321"
+        },
+        {
+          "file": "planar-124.webp",
+          "label": "212 - Ivanka-Formation (Donau-Becken - Sand, Ton, z.T. Konglomerat, Mergel); Zahorie-Formation (Wiener Becken - Ton, Sand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c9ae9fd0f393c94205abd7bdeedfc4bf"
+        },
+        {
+          "file": "planar-125.webp",
+          "label": "213 - Kapfensteiner Schotter",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "48d7be57c0382700082f7b155bfa264a"
+        },
+        {
+          "file": "planar-126.webp",
+          "label": "214 - Triesting- und Piesting-Schotter; Unteres Pannonium",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "48d7be57c0382700082f7b155bfa264a"
+        },
+        {
+          "file": "planar-127.webp",
+          "label": "215 - Basalt von Oberpullendorf, Pauliberg (basischer Vulkanismus); Pannonium - Sarmatium",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "7814b3e80853db6a527363e6f21eb968"
+        },
+        {
+          "file": "planar-128.webp",
+          "label": "216 - Sedimente des Sarmatium i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "43dad449b18c3e47bf9eb56151c81c18"
+        },
+        {
+          "file": "planar-129.webp",
+          "label": "217 - Ton vorwiegend",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "5fa02b79df3f84ea29897617d88fd706"
+        },
+        {
+          "file": "planar-130.webp",
+          "label": "218 - Sand vorwiegend",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "5757a8ea4a4a0420f11be6068752ff5f"
+        },
+        {
+          "file": "planar-131.webp",
+          "label": "219 - Kies vorwiegend",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "75334250e2ed0aa04add4ab03b030276"
+        },
+        {
+          "file": "planar-132.webp",
+          "label": "220 - Detritärer Leithakalk",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "9b8b537be49ab15b244ec8bc006540f5"
+        },
+        {
+          "file": "planar-133.webp",
+          "label": "221 - Holic-Formation (Mergel, Sand); Skalica-Formation (Mergel)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "2c4f0e4efec2faa95f144cc11388a3dd"
+        },
+        {
+          "file": "planar-134.webp",
+          "label": "222 - Sedimente des Badenium i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "f05eba443eb0d79eb4fe224cb81aaf27"
+        },
+        {
+          "file": "planar-135.webp",
+          "label": "223 - Ton vorwiegend",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "94673f1d98d882bd26f3583c16a3f920"
+        },
+        {
+          "file": "planar-136.webp",
+          "label": "224 - Sand vorwiegend",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "b13477cc1202d10c04b00fc04dbb8e25"
+        },
+        {
+          "file": "planar-137.webp",
+          "label": "225 - Kies vorwiegend, Bannholzschotter",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "adccdf13103b709c024e235d82fd6578"
+        },
+        {
+          "file": "planar-138.webp",
+          "label": "226 - Brekzie (u.a. Gainfarner Brekzie)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "6d782d4eccad4775162c20aa58e5e048"
+        },
+        {
+          "file": "planar-139.webp",
+          "label": "227 - Leithakalk, Süßwasserkalk von Ameis",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "dd55cba3c689adba22147e8aa5346e43"
+        },
+        {
+          "file": "planar-140.webp",
+          "label": "228 - Blockschotter",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c264cbade5b1786e9136f8d2625a1d35"
+        },
+        {
+          "file": "planar-141.webp",
+          "label": "229 - Sedimente des Karpatium i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "d21c3d468b711a19f34c5a26bf52c7d1"
+        },
+        {
+          "file": "planar-142.webp",
+          "label": "230 - Korneuburg-Formation (Tonmergel, Feinsand)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "accf6fbe8cec000c7524c70428e40e53"
+        },
+        {
+          "file": "planar-143.webp",
+          "label": "231 - Brennberger Blockstrom (Kristallinblockwerk in sandig-lehmigem Bindemittel)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "d03388ca7b71ed8cabef0f93274816dd"
+        },
+        {
+          "file": "planar-144.webp",
+          "label": "232 - Sinnersdorf-Formation (Blockwerk, Konglomerat, Tufflagen)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "d03388ca7b71ed8cabef0f93274816dd"
+        },
+        {
+          "file": "planar-145.webp",
+          "label": "233 - Rust-Formation (Sand, Kies)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a1dd886a22d780df856012b4689cf888"
+        },
+        {
+          "file": "planar-146.webp",
+          "label": "234 - Hochriegel-Formation (Sand, Ton)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "b355fa8236b0190ab773c9fe4df82130"
+        },
+        {
+          "file": "planar-147.webp",
+          "label": "235 - Kohleführende Süßwasserschichten (Kies, stark verlehmt, Ton, Braunkohle)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "68a26a4939d7b52469fbda3681196116"
+        },
+        {
+          "file": "planar-148.webp",
+          "label": "236 - Neogen von Hieflau; ?Karpatium (Mergel, Sandstein, Konglomerat, Kohleflöze)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "63da3cd4b3d34f74515b60f710d43094"
+        },
+        {
+          "file": "planar-149.webp",
+          "label": "237 - Neogen der Norischen Senke (Krieglach, St. Kathrein, Aflenz); ?Ottnangium - Karpatium (Kies, stark verlehmt, Ton, Braunkohle)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "6d9cf2dc563f3e655c392312cebca13c"
+        },
+        {
+          "file": "planar-150.webp",
+          "label": "238 - Oberer Auwaldschotter (Kies aus Grauwackenzone und Kalkalpen)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c7dfd9831ab9a8d072d223781aec60c8"
+        },
+        {
+          "file": "planar-151.webp",
+          "label": "239 - Unterer Auwaldschotter (Kies aus Kristallinkomponenten)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "435cc3608cd8b869cb558a73c3500b9f"
+        },
+        {
+          "file": "planar-152.webp",
+          "label": "240 - Neogen von Kirchberg am Wechsel (Blockwerk, Sand, Ton)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "0891f8c51e27672a22006626c5856227"
+        },
+        {
+          "file": "planar-153.webp",
+          "label": "241 - Krumbach-Formation (Kies, Sand, Ton)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "0157254f1ba1172ee4849054c3de765b"
+        },
+        {
+          "file": "planar-154.webp",
+          "label": "242 - Mönichkirchen-Formation, Zöbern-Formation (Kristallinblockwerk, Rotlehm)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "9af52300871aa73382ad24c0d029f365"
+        },
+        {
+          "file": "planar-155.webp",
+          "label": "243 - Schliermergel; Eggenburgium - Ottnangium",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "b720ddc5b762f22c590ee57c1f7cb5f5"
+        },
+        {
+          "file": "planar-156.webp",
+          "label": "244 - Ritzendorf-Formation; Eggenburgium (Tonmergel, Sand, geröllführend)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "3b9727e37665169ad18fd1536b748a57"
+        },
+        {
+          "file": "planar-157.webp",
+          "label": "245 - Augenstein führende Sedimente; Oligozän - ?Unter-Miozän (Kies, Sand, ortsfremd)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "5a514125cb18257caada0ea7f5192ff3"
+        },
+        {
+          "file": "planar-158.webp",
+          "label": "246 - Sedimente von Wimpassing an der Leitha; Oberes Eozän (gelber und rötlicher Kalk, Sandstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "44120d217c65084b1481e613d6aa3890"
+        },
+        {
+          "file": "planar-159.webp",
+          "label": "300 - Buntmergelserie, Klippenhülle i.A.; Oberste Unter-Kreide (Albium) - Mittleres Eozän (Tonmergel, bunt, z.T. Blockeinstreuung)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a5dbc6a3a1210e9eaa4e860f53004fcf"
+        },
+        {
+          "file": "planar-160.webp",
+          "label": "301 - \"Klippen\"; Mittel-Jura bis Unter-Kreide (Kalkstein, Mergelstein, z.T. bankig)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "7ce323c4acc686a6adf1b3bc0e998c1c"
+        },
+        {
+          "file": "planar-161.webp",
+          "label": "302 - Gresten-Formation; Unter- bis Mittel-Jura (Sandkalk, schiefriger Tonmergel, Kohle)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "3461933a14bdd71b6b9f2e2ba331c56d"
+        },
+        {
+          "file": "planar-162.webp",
+          "label": "400 - Wolfpassing-Formation und Nordzone i.A.; Unter-Kreide - ?Cenomanium (dunkler schieferiger Flysch, z.T. quarzitisch)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "1241996786746999f36e2f666efd809d"
+        },
+        {
+          "file": "planar-163.webp",
+          "label": "401 - Kalkiger Flysch (\"Klippen\"); Obere Unter-Kreide",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "f7106e9e72fa007e4d953f9e007b1d71"
+        },
+        {
+          "file": "planar-164.webp",
+          "label": "402 - Serpentinit (Kilb und Umgebung); ?Obere Unter-Kreide",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a38d3f434bcf87056863e8207a0badcb"
+        },
+        {
+          "file": "planar-165.webp",
+          "label": "403 - Flysch i.A.; Obere Unter-Kreide - Mittleres Eozän (rhythmische Wechsellagerung von Sandstein, Ton- und Mergelstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "fd471426b50f75c6a82ffebcc905b064"
+        },
+        {
+          "file": "planar-166.webp",
+          "label": "404 - Greifenstein-, Gablitz-, Irenental-Formation, Zlin-Formation i.d. Karpaten; Thanetium - Ypresium (z.T. dickbankiger Quarzsandstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "324bdeb49d592550e240be6e853780e7"
+        },
+        {
+          "file": "planar-167.webp",
+          "label": "405 - Höhere Flyschschichten i.A.; Obere Ober-Kreide - Paleozän",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "904bfa6c20c3678925dd2779a93ce8e3"
+        },
+        {
+          "file": "planar-168.webp",
+          "label": "406 - Altlengbach-Formation; Maastrichtium - Paleozän (kalkhaltiger Quarzsandstein, Ton- und Mergelstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "030087e4be7b65437ca97cd42b8e6c8a"
+        },
+        {
+          "file": "planar-169.webp",
+          "label": "407 - Zementmergelserie und Perneck-Formation; Santonium - Campanium (Kalksandstein und Mergelstein, hellgrau)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "0f373602777eb7b1fd23383906bccfce"
+        },
+        {
+          "file": "planar-170.webp",
+          "label": "408 - Tiefere Flyschschichten i.A.; Unter-Kreide - Untere Ober-Kreide",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "8a415c1ca872d9c570cfad39f6d20877"
+        },
+        {
+          "file": "planar-171.webp",
+          "label": "409 - Reiselsberg-Formation; Cenomanium - Turonium (kalkhaltiger Quarzsandstein, Ton- und Mergelstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "976e678d3e878c4859bb3965ab2c4581"
+        },
+        {
+          "file": "planar-172.webp",
+          "label": "410 - Unterkreide i.A. (Gaultflysch, Neokomflysch); Obere Unter-Kreide (dunkler, quarzitischer Sandstein, Tonmergel, Kalksandstein, Brekzie)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "551e4d747d970abf18fa627912094a78"
+        },
+        {
+          "file": "planar-173.webp",
+          "label": "411 - Laab-Formation - Aggsbach-Subformation; Unteres - Mittleres Eozän (vorw. Ton- und Mergelstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "06418058b74ff993d99f9448f8d77be2"
+        },
+        {
+          "file": "planar-174.webp",
+          "label": "412 - Laab-Formation - Hois-Subformation; Maastrichtium - Paleozän (vorw. Quarzsandstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "82ff169e712fbe614c029d992e87ddee"
+        },
+        {
+          "file": "planar-175.webp",
+          "label": "413 - Kaumberg-Formation; Santonium - Maastrichtium (Silt- und Tonstein, dünnbankig, bunt)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "9d8e51bd701228d7576d396ef3602896"
+        },
+        {
+          "file": "planar-176.webp",
+          "label": "414 - Sievering-Formation; Maastrichtium - Paleozän (kalkhaltiger Quarzsandstein, Ton- und Mergelstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "3f672524876b23ad89fa9ac76cbc6464"
+        },
+        {
+          "file": "planar-177.webp",
+          "label": "415 - Kahlenberg-Formation; Campanium - Unteres Maastrichtium (Kalksandstein und Mergelstein, hellgrau)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "e765013325c4fcb3c390b4f2034696fb"
+        },
+        {
+          "file": "planar-178.webp",
+          "label": "416 - Hütteldorf-Formation; Cenomanium - Santonium (Sandstein, Ton- und Mergelstein, z.T. bunt)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "03b9760a9286e8c8fb758a5dcfd199a5"
+        },
+        {
+          "file": "planar-179.webp",
+          "label": "417 - Gaultflysch; Aptium - Albium (dunkler, quarzitischer Sandstein, Tonstein, schieferig)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "3b3fa1a04298a49251b60fa059f9130e"
+        },
+        {
+          "file": "planar-180.webp",
+          "label": "418 - Pikrit, Vulkanit i.A.; ?Obere Unter-Kreide",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a38d3f434bcf87056863e8207a0badcb"
+        },
+        {
+          "file": "planar-181.webp",
+          "label": "419 - Jura und Unter-Kreide der Klippenzone von St. Veit und Baunzen; Jura - Unter-Kreide (Kalkstein, Kieselgestein, Kalkmergel)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "8b32bbbbb9a7ee0d94265b3d8409c8e4"
+        },
+        {
+          "file": "planar-182.webp",
+          "label": "420 - Gresten-Formation und terrestrischer Dogger; Unter- bis Mittel-Jura (Sandkalk, schiefriger Tonmergel, dunkelgrau)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "610f096f04bc5aaeb22e245982aad8ae"
+        },
+        {
+          "file": "planar-183.webp",
+          "label": "421 - Quarzsandstein (klastischer Keuper) und Kössen-Formation; Ober-Trias (Quarzsandstein; fossilreicher, dunkler Kalk)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "534894c94d57bc1e6cb4a8bac4cbd4c4"
+        },
+        {
+          "file": "planar-184.webp",
+          "label": "422 - Ybbsitzer Klippenzone i.A.; Mittel-Jura - Mittleres Eozän",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "777307066006014c6c05053be429feb5"
+        },
+        {
+          "file": "planar-185.webp",
+          "label": "423 - Ybbsitzer Flysch i.A.; Obere Unter-Kreide - Mittleres Campanium (Flysch: Kalksandstein und Mergelstein, grau, z.T. bunt)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "904bfa6c20c3678925dd2779a93ce8e3"
+        },
+        {
+          "file": "planar-186.webp",
+          "label": "424 - Neokomflysch; Obere Unter-Kreide (Silt- und Tonstein, z.T. kieselig, Brekzie)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "8084e042e985228005d4f75a24ed7aca"
+        },
+        {
+          "file": "planar-187.webp",
+          "label": "425 - Radiolarit, Kieselkalk, Kieselschiefer, Aptychenkalk; Mittel- bis Ober-Jura",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "4a11a87915d5412a4688e88b622d3d55"
+        },
+        {
+          "file": "planar-188.webp",
+          "label": "426 - Ophiolit, Serpentinit; Mittel-Jura, Unter-Kreide",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a38d3f434bcf87056863e8207a0badcb"
+        },
+        {
+          "file": "planar-189.webp",
+          "label": "427 - Sulz-Formation; Ober-Kreide (Flysch - Quarzsandstein und Tonstein, Kalkmergel, z.T. bunt)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "7d6c9eb8119ce227cb090a895d673adb"
+        },
+        {
+          "file": "planar-190.webp",
+          "label": "428 - Klippen von Sulz; Ober-Trias - Unter-Kreide (Kalk, Dolomit, Fleckenkalkmergel)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "9dccd5c887aafc5ab045ab8dee2cc24e"
+        },
+        {
+          "file": "planar-191.webp",
+          "label": "429 - Serpentinit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a38d3f434bcf87056863e8207a0badcb"
+        },
+        {
+          "file": "planar-192.webp",
+          "label": "430 - Metagabbro",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "ced66bf381db898dc813e6d2c099149b"
+        },
+        {
+          "file": "planar-193.webp",
+          "label": "431 - Grünschiefer",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "2027285fef2fb23c6b3a3d37ca2febd4"
+        },
+        {
+          "file": "planar-194.webp",
+          "label": "432 - Phyllit (meist Kalkphyllit)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "4a143539cfe653e2ac7a89bd6bc95771"
+        },
+        {
+          "file": "planar-195.webp",
+          "label": "433 - Quarzphyllit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "d066cbf7e2eb5c36a119178ab846ab27"
+        },
+        {
+          "file": "planar-196.webp",
+          "label": "434 - Serizitkalkschiefer; Kreide",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "b6d61e36e1214c07ad950340b7d477d1"
+        },
+        {
+          "file": "planar-197.webp",
+          "label": "435 - Marmor (Ophikalzit)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c9dad4ef55dce470c9b140ee9454ea5b"
+        },
+        {
+          "file": "planar-198.webp",
+          "label": "436 - Caker Konglomerat",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "4a143539cfe653e2ac7a89bd6bc95771"
+        },
+        {
+          "file": "planar-199.webp",
+          "label": "437 - Rauhwacke; ?Permotrias",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "f15d28a2fdb12ded79a55dc87dbfff7f"
+        },
+        {
+          "file": "planar-200.webp",
+          "label": "500 - Gosau-Gruppe i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "fac4abff1be25a1b2c422d7259be1842"
+        },
+        {
+          "file": "planar-201.webp",
+          "label": "501 - Obere Gosau-Subgruppe; Campanium - Eozän",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "459141e0919c663c11f8b80fa30cf47b"
+        },
+        {
+          "file": "planar-202.webp",
+          "label": "502 - Gießhübel-Formation; Maastrichtium - Paleozän (Sandstein, Mergelstein, Brekzie)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "01a6b532af0a8971eff18464f8d02830"
+        },
+        {
+          "file": "planar-203.webp",
+          "label": "503 - Zwieselalm-Formation; Maastrichtium - Eozän (Sandstein, Mergelstein, Brekzie)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "459141e0919c663c11f8b80fa30cf47b"
+        },
+        {
+          "file": "planar-204.webp",
+          "label": "504 - Nierental-Formation; Campanium - Paleozän (Mergelkalkstein, bunt)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "1018291b994b1e7cbd5e6c5f32f88f50"
+        },
+        {
+          "file": "planar-205.webp",
+          "label": "505 - Brunnbach-Formation; Campanium - Paleozän (Sandstein, Mergelstein, Konglomerat)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "6dfea48ddafe5170f52dcbf63adc4860"
+        },
+        {
+          "file": "planar-206.webp",
+          "label": "506 - Spitzenbach-Formation, Karbonatbrekzie, Hieselberg-Formation; Santonium - Campanium (Karbonatbrekzie)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "e2276538dad2308f41e81b0989bc8298"
+        },
+        {
+          "file": "planar-207.webp",
+          "label": "507 - Untere Gosau-Subgruppe (Flachwassergosau); Turonium - Maastrichtium",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "3260a2e3609ad84e7da94001a38b8f8c"
+        },
+        {
+          "file": "planar-208.webp",
+          "label": "508 - Kohleführende Serie, Dreistettener Konglomerat; Campanium",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "cc383dca030ebfa571f8493a2266950f"
+        },
+        {
+          "file": "planar-209.webp",
+          "label": "509 - Grobklastika der Gießhübler Mulde; Coniacium - Santonium (Konglomerat, Sandstein, kohlige Lagen)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "90a709abcd729b09cda0fd9a6089d7b6"
+        },
+        {
+          "file": "planar-210.webp",
+          "label": "510 - Weisswasser-Formation (\"Inoceramenmergel\"); Coniacium - Santonium (Kalkmergelstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "4219e0e351571e351b19a975cb5da0d5"
+        },
+        {
+          "file": "planar-211.webp",
+          "label": "511 - Kreuzgraben-Formation; Turonium - Campanium (Konglomerat, rot, basales Konglomerat i.A.)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "e2e57f519e3880c9014c29eaecb63497"
+        },
+        {
+          "file": "planar-212.webp",
+          "label": "512 - Kreide i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "f41ee2fa3070a9017366b34f8293578b"
+        },
+        {
+          "file": "planar-213.webp",
+          "label": "513 - Mergel, Brekzie und Karbonatsandstein (Gießhübler Mulde)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "533f13777db802869a03e8ef2a03b719"
+        },
+        {
+          "file": "planar-214.webp",
+          "label": "514 - Losenstein-Formation (Tonmergelstein, Sandstein, Konglomerat)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "626031d24f269e41cdb647385af5e17f"
+        },
+        {
+          "file": "planar-215.webp",
+          "label": "515 - Roßfeld-Formation (Kalkmergelstein, Sandstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "63410a2ad6dcdee690b149d84690de33"
+        },
+        {
+          "file": "planar-216.webp",
+          "label": "516 - Schrambach-Formation (Mergelkalkstein, Mergelstein, schiefrig)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "f9a04b9920477780062a263645c029c1"
+        },
+        {
+          "file": "planar-217.webp",
+          "label": "517 - Ammergau-Formation (= Aptychenschichten, z.T. inkl. Schrambach-Formation); Ober-Jura - Unter-Kreide (Mergelkalkstein, hell, dünnbankig)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "460bc004690a613b1d88cd57cba9f3cf"
+        },
+        {
+          "file": "planar-218.webp",
+          "label": "518 - Jura i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "59fb33266b94c3c3ed2f2d8a5ff53532"
+        },
+        {
+          "file": "planar-219.webp",
+          "label": "519 - Ober-Jura (Malm-)Kalke i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "0d071c4123fa0dae24383832c4a3e4a5"
+        },
+        {
+          "file": "planar-220.webp",
+          "label": "520 - Oberalm-Formation; Ober-Jura (Kalkstein, hell, bankig)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "000a8a3c12176b31d62b54b0f180a136"
+        },
+        {
+          "file": "planar-221.webp",
+          "label": "521 - Plassenkalk, Tressensteinkalk; Ober-Jura (Riffkalkstein, Feinschuttkalkstein, hell)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "fc6cd638d43678339d9b46bd6ddff96e"
+        },
+        {
+          "file": "planar-222.webp",
+          "label": "522 - Schwellenfazies; Unter - Ober-Jura (Kalkstein, überwiegend rot, z.T. spätig)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "da4dce639629e56943cb1e37a3d74c81"
+        },
+        {
+          "file": "planar-223.webp",
+          "label": "523 - Jura-Beckenfazies i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "6edde1f903289063fd07df10022240ef"
+        },
+        {
+          "file": "planar-224.webp",
+          "label": "524 - Ruhpolding-Formation; Ober-Jura (Radiolarit - Kieselgestein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "69525bd337e1f1e78f990ea5c584e965"
+        },
+        {
+          "file": "planar-225.webp",
+          "label": "525 - Chiemgau-Formation; Mittel-Jura (Kieselschiefer, Kieselkalkstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "2ae96b72380c2a0447b1c9cf34d3bbbb"
+        },
+        {
+          "file": "planar-226.webp",
+          "label": "526 - Scheibelberg-Formation; Unter-Jura (Kalkstein mit Hornsteinknollen, dickbankig)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "9fdcdbee9b6bf468d6209dc9cb7c1cf1"
+        },
+        {
+          "file": "planar-227.webp",
+          "label": "527 - Allgäu-Formation; Unter-Jura (Fleckenmergelkalk)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "304bcf91ceac5e5f8cd3e96db44f76f0"
+        },
+        {
+          "file": "planar-228.webp",
+          "label": "528 - Kalksburg-Formation, Kieselkalk; Unter-Jura (Mergel- und Sandkalkstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "2d8fbf230122e7fe41fd72a7d99fb302"
+        },
+        {
+          "file": "planar-229.webp",
+          "label": "529 - Oberseebrekzie; Unter- bis Mittel-Jura (Kalkbrekzie mit Großschollen aus Dachsteinkalk)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a8225468993774262e7724264b2a80a8"
+        },
+        {
+          "file": "planar-230.webp",
+          "label": "530 - Oberrhät-(Rhätolias-)Riffkalk",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "58722c00230a041d51d903258b4172ee"
+        },
+        {
+          "file": "planar-231.webp",
+          "label": "531 - Kössen-Formation (Mergel- bis Kalkstein, dunkel); Schattwald-Formation (Tonmergel, rot)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "db280f47c728a45d19aaae3579b2b4a3"
+        },
+        {
+          "file": "planar-232.webp",
+          "label": "532 - Zlambach-Formation (HF - Mergelstein, Kalkstein, dunkel)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "4a532da02429c711ae267ef4e907b2af"
+        },
+        {
+          "file": "planar-233.webp",
+          "label": "533 - Dachsteinkalk, Anningerkalk; Norium - Rhätium (Kalkstein, dickbankig)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "99a7d2477f4a020e046263a9b79bd459"
+        },
+        {
+          "file": "planar-234.webp",
+          "label": "534 - Dachsteinkalk-Riffentwicklung (Kalkstein, massig)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "e62489cae0205a07b8d5b4e88c9e5058"
+        },
+        {
+          "file": "planar-235.webp",
+          "label": "535 - Dachsteindolomit; Norium - Rhätium",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "3f2526a54cc0a5a4db3694c35e123109"
+        },
+        {
+          "file": "planar-236.webp",
+          "label": "536 - Aflenzerkalk (HF); Norium (Kalkstein, Feinschuttkalkstein, bankig, dunkel)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "20fdf03b71779f634cd760154d25702b"
+        },
+        {
+          "file": "planar-237.webp",
+          "label": "537 - Pedataschichten (HF); Norium (Feinschuttkalkstein, bankig)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "82853578a2e9665256de3ec5c0d63ad6"
+        },
+        {
+          "file": "planar-238.webp",
+          "label": "538 - Pötschenkalk (HF); Oberes Karnium - Norium (Kalkstein mit Hornsteinknollen, bankig, grau)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "e687895f97ef69dd3833c9fd186ef31b"
+        },
+        {
+          "file": "planar-239.webp",
+          "label": "539 - Hallstätter Kalk (oberer) (HF); Oberes Karnium - Norium (Kalkstein, knollig, massig und bankig, bunt)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "37fd9b543f83a915bead0e8265d26a67"
+        },
+        {
+          "file": "planar-240.webp",
+          "label": "540 - Plattenkalk; Norium - Rhätium (Kalkstein-Dolomitstein-Wechselfolge)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "b4c5bef024b114df8f3255bf37544389"
+        },
+        {
+          "file": "planar-241.webp",
+          "label": "541 - Hauptdolomit; Norium (Dolomitstein, bankig)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "9a76378a8c5b745b949e4a62ca5468e5"
+        },
+        {
+          "file": "planar-242.webp",
+          "label": "542 - Opponitz-Formation; Oberes Karnium (Kalkstein, Mergelstein, Rauhwacke, Gips)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "3219e18dcc1e6b4f0837b6028268aa16"
+        },
+        {
+          "file": "planar-243.webp",
+          "label": "543 - Waxeneckkalk; Oberes Karnium (Kalkstein, massig)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "679c62b2dda3462272e2dc8fac8f6740"
+        },
+        {
+          "file": "planar-244.webp",
+          "label": "544 - Lunz-Formation; Unteres Karnium (Sandstein, feinkörnig, Steinkohle)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "ff2ea5723f31851df5eb406d004339c8"
+        },
+        {
+          "file": "planar-245.webp",
+          "label": "545 - Reingrabener Schiefer, Hornsteinkalk, Leckkogel-Schichten; Unteres Karnium (Schiefertonstein, Kalkstein, dunkel)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "cd10f0d0b50eb4f0ca00cdf3064c8350"
+        },
+        {
+          "file": "planar-246.webp",
+          "label": "546 - Nordalpine Raibl-Formation; Unteres Karnium (Schiefertonstein, Kalkstein, Dolomitstein, dunkel)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c4b594e538cd12959fdf191d51c020f5"
+        },
+        {
+          "file": "planar-247.webp",
+          "label": "547 - Wettersteinkalk; Ladinium - Unteres Karnium",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "9c090002fff854a394f8758d5831903f"
+        },
+        {
+          "file": "planar-248.webp",
+          "label": "548 - Wettersteinkalk-Lagune; Ladinium - Unteres Karnium (Kalkstein, bankig bis massig)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "0157254f1ba1172ee4849054c3de765b"
+        },
+        {
+          "file": "planar-249.webp",
+          "label": "549 - Wettersteinkalk - Riff und Riffschutt; Ladinium - Unteres Karnium (Kalkstein, massig)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "f2535323cef8edea952d986ba0dbe0ac"
+        },
+        {
+          "file": "planar-250.webp",
+          "label": "550 - Wettersteindolomit, Ramsaudolomit; Ladinium - Unteres Karnium (Dolomitstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "0ab79d70710791facf99ac0ff293501c"
+        },
+        {
+          "file": "planar-251.webp",
+          "label": "551 - \"Sonderentwicklung\"; Mittleres Anisium - Unteres Karnium (Kalkstein/Dolomitstein, bankig, dunkel)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c3492898cc5c4818507e957abec4d1f4"
+        },
+        {
+          "file": "planar-252.webp",
+          "label": "552 - Partnach-Formation; Ladinium - Unteres Karnium (Tonmergelstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "874f2b4fc22b84e42cbe8820cb4e8998"
+        },
+        {
+          "file": "planar-253.webp",
+          "label": "553 - Raminger Kalk; ?Anisium - Unteres Karnium (Feinschuttkalkstein, massig bis bankig)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "71872b48fed2857cda064bac296aa789"
+        },
+        {
+          "file": "planar-254.webp",
+          "label": "554 - Reifling-Formation; Anisium - Karnium (Kalkstein mit Hornsteinknollen, bankig)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "196ad756cfe39ca7d5e5c051e2a29070"
+        },
+        {
+          "file": "planar-255.webp",
+          "label": "555 - Grafensteigkalk; Mittleres Anisium - Unteres Karnium (Feinschuttkalkstein, bankig, dunkel)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "521728b655fdb96dba44d3f10757037e"
+        },
+        {
+          "file": "planar-256.webp",
+          "label": "556 - Grauer und bunter pelagischer Kalk mit distalem Plattformdetritus; Mittleres Anisium - Unteres Karnium",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "227b21d516b775c03926ff6c0e168325"
+        },
+        {
+          "file": "planar-257.webp",
+          "label": "557 - Hallstätter Kalk (unterer) (HF); Anisium - Unteres Karnium (Kalkstein, knollig, massig und bankig, bunt)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "8c3b2a7509a2a2f65b9f21a954b60496"
+        },
+        {
+          "file": "planar-258.webp",
+          "label": "558 - Steinalmkalk, Steinalmdolomit; Anisium (Kalkstein, Dolomitstein, massig, hell)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a4a4422afa9f62296393089215338470"
+        },
+        {
+          "file": "planar-259.webp",
+          "label": "559 - Gutensteiner Kalk + Dolomit; Anisium (Kalkstein, Dolomitstein, bankig, dunkel)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "0a1bf5f999781113798b8e6d4ceebec6"
+        },
+        {
+          "file": "planar-260.webp",
+          "label": "560 - Rauhwacke (\"Reichenhall-Formation\"); Anisium",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "67257a8cdf34b113b5387aaae968dc1e"
+        },
+        {
+          "file": "planar-261.webp",
+          "label": "561 - Werfen-Formation; Unter-Trias (Sandstein, Siltstein, schieferig, Kalkstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "de541327886edc25f76a789d8064996c"
+        },
+        {
+          "file": "planar-262.webp",
+          "label": "562 - Serpentinit, Melaphyr, Gabbro; ?Perm, ?Trias",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a38d3f434bcf87056863e8207a0badcb"
+        },
+        {
+          "file": "planar-263.webp",
+          "label": "563 - Haselgebirge; Perm (Tonstein, Gips, Salz)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "abd7f0d98c5df4c09dbf67a63811b34b"
+        },
+        {
+          "file": "planar-264.webp",
+          "label": "564 - Prebichl-Formation; Perm (Konglomerat, Sandstein, Siltstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "71c0b7e301c114eb90dd17a91f0e5cd2"
+        },
+        {
+          "file": "planar-265.webp",
+          "label": "565 - Kieselschiefer mit Olistholithen (u.a. Trias-Radiolarit, \"Erzmarmor\"); Mittel-Jura",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "01304be051382a8064e51b1ee8b9e703"
+        },
+        {
+          "file": "planar-266.webp",
+          "label": "566 - Silbersberg-Gruppe i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "73972fc357a02eea6f345eccbc80dc17"
+        },
+        {
+          "file": "planar-267.webp",
+          "label": "567 - Riebeckitgneis; ?Jura",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "599c9ddf036aac2d7de33078aec6f8bf"
+        },
+        {
+          "file": "planar-268.webp",
+          "label": "568 - Schiefer, Serizitquarzit, Metakonglomerat; ?Perm",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "bcedb5daa98b59f42bcedfbdb25f1b6c"
+        },
+        {
+          "file": "planar-269.webp",
+          "label": "569 - Sandstein, Schiefer, Konglomerat; Unter-Karbon",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "cdad08e8d479589004bf343f9a8af162"
+        },
+        {
+          "file": "planar-270.webp",
+          "label": "570 - Triebenstein-Kalk, Steinberg-Kalk, Dolomit; Unter-Karbon",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "0146154d25f057fc399d0efa37033582"
+        },
+        {
+          "file": "planar-271.webp",
+          "label": "571 - Bänderkalk; Ober-Silur - Unter-Devon",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "299fc620bc427fd90f14febcc4c88c8f"
+        },
+        {
+          "file": "planar-272.webp",
+          "label": "572 - Radschiefer; Ordovizium - Silur. Eisenerzer Schichten; Karbon (Phyllit, Tonschiefer, Quarzit)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "551e4d747d970abf18fa627912094a78"
+        },
+        {
+          "file": "planar-273.webp",
+          "label": "573 - Quarzit i.A., Polsterquarzit; Ordovizium - Silur",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "de64e239e0fcb4db2b61d025a8a859c7"
+        },
+        {
+          "file": "planar-274.webp",
+          "label": "574 - Metabasit, Metatuffit, Metadiabas, Grünschiefer; Ordovizium - Devon",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "024411547d374a69239ffc8726725ccf"
+        },
+        {
+          "file": "planar-275.webp",
+          "label": "575 - Cystoideenkalk; Ober-Ordovizium",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "b4d95546a2f33f673c00f0ae96868dfb"
+        },
+        {
+          "file": "planar-276.webp",
+          "label": "576 - Blasseneck Porphyroid, Klastika unter dem Porphyroid; Ober-Ordovizium",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "1a1fe15481d168cb08b646fc6d27eb27"
+        },
+        {
+          "file": "planar-277.webp",
+          "label": "577 - Vöstenhofer Kristallin und Kaintaleckschollen (Glimmerschiefer, Amphibolit, Marmor)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "48e37938a19a47fdffe09b22f78855ec"
+        },
+        {
+          "file": "planar-278.webp",
+          "label": "578 - Laufnitzdorf-Gruppe; Silur - Ober-Devon (Schiefer, Lydit, Karbonat, Sandstein = Dornerkogel-Formation)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "ebe70f90de4be00ff224478c25aaedb1"
+        },
+        {
+          "file": "planar-279.webp",
+          "label": "579 - Basische Metavulkanite und Metatuffite",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "bf4aed1bc00e7596d48719d8373a0a14"
+        },
+        {
+          "file": "planar-280.webp",
+          "label": "580 - Hochschlag-Formation, Schöckl-Kalk und Karbonat i.A.; ?Devon (Kalk-Kalkmarmor, Dolomit-Dolomitmarmor)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "90f090bb997e4d1190b9791765e6c9ee"
+        },
+        {
+          "file": "planar-281.webp",
+          "label": "581 - Kogler-Formation; Silur - Mittel-Devon (Plattenkalk)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "688e40545fdbfa20c372ee2bf328712a"
+        },
+        {
+          "file": "planar-282.webp",
+          "label": "582 - Schönberg-Formation (\"Arzberger Schichten\"); Devon (Kalk, Schwarzschiefer)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "6b078f2fa161b28cd9e3a9e5aa89defe"
+        },
+        {
+          "file": "planar-283.webp",
+          "label": "583 - Passail-Gruppe; Silur - Unter-Devon (Phyllit)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "b06020424e1337b15d349e8b76efc730"
+        },
+        {
+          "file": "planar-284.webp",
+          "label": "584 - Anger-Kristallin (Glimmerschiefer, phyllitischer Glimmerschiefer)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "48e37938a19a47fdffe09b22f78855ec"
+        },
+        {
+          "file": "planar-285.webp",
+          "label": "600 - Dünnplattiger Kalk; Rhätium",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "f739d7692045a71ac4656d6627c7191b"
+        },
+        {
+          "file": "planar-286.webp",
+          "label": "601 - Serizitschiefer; \"Bunter Keuper\"; Karnium - Norium",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "b4c5bef024b114df8f3255bf37544389"
+        },
+        {
+          "file": "planar-287.webp",
+          "label": "602 - Anhydrit, Gips, Dolomit, Schwarzer Tonschiefer (Kapellener Schiefer); Karnium",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "87e774fa07e060e9a2f6ea7fef6d4276"
+        },
+        {
+          "file": "planar-288.webp",
+          "label": "603 - Karbonate der Mitteltrias i.A.; Anisium - Ladinium",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a17250b95f1363329b4c92e912072af7"
+        },
+        {
+          "file": "planar-289.webp",
+          "label": "604 - Wettersteindolomit; Anisium - Ladinium",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "0ab79d70710791facf99ac0ff293501c"
+        },
+        {
+          "file": "planar-290.webp",
+          "label": "605 - Dunkler, geschichteter Dolomit, Tonschiefer; Anisium - Ladinium",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "84eb70d12da512167d7460fe2c40163c"
+        },
+        {
+          "file": "planar-291.webp",
+          "label": "606 - Kalk, Bänderkalk bis Kalkmarmor; Anisium",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "0a1bf5f999781113798b8e6d4ceebec6"
+        },
+        {
+          "file": "planar-292.webp",
+          "label": "607 - Rauhwacke; Anisium",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "af08d9599e6591dbf96411545e93da8d"
+        },
+        {
+          "file": "planar-293.webp",
+          "label": "608 - \"Permoskyth\" i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "6c117d532587e668f194a7ac771f43da"
+        },
+        {
+          "file": "planar-294.webp",
+          "label": "609 - Semmeringquarzit, Luzna-Formation; Unter-Trias",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "705a8b6a201fdefb77476e7510278e60"
+        },
+        {
+          "file": "planar-295.webp",
+          "label": "610 - Alpiner Verrucano, Tattermann-Schiefer, Devin-Formation; Perm (Meta-Konglomerat, Quarzit, Serizitphyllit)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "7dab80e44561531f243549d49b74c0b1"
+        },
+        {
+          "file": "planar-296.webp",
+          "label": "611 - Roßkogelporphyroid",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c0a7d9faf2776e7d200116517933c098"
+        },
+        {
+          "file": "planar-297.webp",
+          "label": "612 - Aplit, Pegmatit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "599c9ddf036aac2d7de33078aec6f8bf"
+        },
+        {
+          "file": "planar-298.webp",
+          "label": "613 - Orthogneis",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "7625084746b69389ee6141e1ab440d5b"
+        },
+        {
+          "file": "planar-299.webp",
+          "label": "614 - Glimmerschiefer, Paragneis",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "7383c44dd6d7dceb207b0abf5195c4bb"
+        },
+        {
+          "file": "planar-300.webp",
+          "label": "615 - Amphibolit, Hornblendengneis, Serpentinit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "8b6effdae9b58a0840c54888130dba6a"
+        },
+        {
+          "file": "planar-301.webp",
+          "label": "616 - Marmor",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c9dad4ef55dce470c9b140ee9454ea5b"
+        },
+        {
+          "file": "planar-302.webp",
+          "label": "617 - Schwarzglimmerschiefer (\"Schwarze Serie\")",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "48e37938a19a47fdffe09b22f78855ec"
+        },
+        {
+          "file": "planar-303.webp",
+          "label": "618 - Amphibolit, Bänderamphibolit, Speikkomplex",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "551e4d747d970abf18fa627912094a78"
+        },
+        {
+          "file": "planar-304.webp",
+          "label": "619 - Strallegger Gneis und Äquivalente",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "b69b40f2fa7acaacf969c07e3e940bd6"
+        },
+        {
+          "file": "planar-305.webp",
+          "label": "620 - Amphibolit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "2027285fef2fb23c6b3a3d37ca2febd4"
+        },
+        {
+          "file": "planar-306.webp",
+          "label": "621 - Gabbro (Birkfelder Gabbro)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "28c47244e384f958f4306a5a99db864e"
+        },
+        {
+          "file": "planar-307.webp",
+          "label": "622 - Pegmatit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "599c9ddf036aac2d7de33078aec6f8bf"
+        },
+        {
+          "file": "planar-308.webp",
+          "label": "623 - Granitgneis",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "e53f8d4ef17be448d825c1aa639d28b2"
+        },
+        {
+          "file": "planar-309.webp",
+          "label": "624 - Grobgneis, Randquarzit, Leukophyllit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "30c6a75d17233e57113d827b6a6d38de"
+        },
+        {
+          "file": "planar-310.webp",
+          "label": "625 - Hüllschiefer (Glimmerschiefer, Phyllit)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "6bedc00c8509a5804d979b97c21b71a4"
+        },
+        {
+          "file": "planar-311.webp",
+          "label": "626 - Biotit-Plagioklas-Gneis bis Glimmerschiefer",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c4b594e538cd12959fdf191d51c020f5"
+        },
+        {
+          "file": "planar-312.webp",
+          "label": "627 - Feinkörniger Orthogneis",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "9de37c451292ff388554a2dd27948169"
+        },
+        {
+          "file": "planar-313.webp",
+          "label": "628 - Augengneis",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "30c6a75d17233e57113d827b6a6d38de"
+        },
+        {
+          "file": "planar-314.webp",
+          "label": "629 - Heller, phyllonitischer Glimmerschiefer (Waldbach-Phyllit), Phyllonit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "1241996786746999f36e2f666efd809d"
+        },
+        {
+          "file": "planar-315.webp",
+          "label": "630 - Hornblendegneis",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "d7ed7b378b40049070df7809ca5d9826"
+        },
+        {
+          "file": "planar-316.webp",
+          "label": "631 - Amphibolit, Bänderamphibolit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "37ae9ef19a71084c33cde18d078dbac0"
+        },
+        {
+          "file": "planar-317.webp",
+          "label": "632 - Schwarzphyllit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "6bedc00c8509a5804d979b97c21b71a4"
+        },
+        {
+          "file": "planar-318.webp",
+          "label": "633 - Erzführende Serie: Phyllit und Hornblende-Gesteine",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "f0de7a8f289b911c484f1116fe4878dd"
+        },
+        {
+          "file": "planar-319.webp",
+          "label": "634 - Granitgneis",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "0744ed27619c72efe78bb305df2c754b"
+        },
+        {
+          "file": "planar-320.webp",
+          "label": "635 - Wiesmather Gneis und Äquivalente (Granitgneis, feinkörnig, hell)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "b69b40f2fa7acaacf969c07e3e940bd6"
+        },
+        {
+          "file": "planar-321.webp",
+          "label": "636 - Glimmerschiefer, z.T. Granat-Chloritoid führend",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "48e37938a19a47fdffe09b22f78855ec"
+        },
+        {
+          "file": "planar-322.webp",
+          "label": "637 - Wechselschiefer (Graphitphyllit, Graphitquarzit, Phyllit)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "fa4c15b9345695d8997762be302b3c62"
+        },
+        {
+          "file": "planar-323.webp",
+          "label": "638 - Wechselgneis",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "030087e4be7b65437ca97cd42b8e6c8a"
+        },
+        {
+          "file": "planar-324.webp",
+          "label": "639 - Amphibolit, Chlorit-Epidot-Blastenschiefer",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "5ddc5304f880c73d5e7e6905e4c0c373"
+        },
+        {
+          "file": "planar-325.webp",
+          "label": "640 - Somar-Formation; Mittel-Jura (Brekzie mit kristallinen Komponenten)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "afcbb8dd2f73be8f7931b01f52371247"
+        },
+        {
+          "file": "planar-326.webp",
+          "label": "641 - Slepy- und Korenec-Formation; Mittel-Jura (Turbidit in dunklen Schiefern)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "28f8b842b1d386405fa0fa84ee7dc871"
+        },
+        {
+          "file": "planar-327.webp",
+          "label": "642 - Marianka-Formation (Marientaler Schichten); Unter-Jura (dunkler Schiefer)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "6edde1f903289063fd07df10022240ef"
+        },
+        {
+          "file": "planar-328.webp",
+          "label": "643 - Prepadle-Formation (Ballensteiner Kalk); Unter-Jura",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "f9ee293d8e3575f7aa3bd80b10755902"
+        },
+        {
+          "file": "planar-329.webp",
+          "label": "644 - Autochthone/Parautochthone Sedimente; Jura - Kreide",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "73a3820f999f9a5798f0d67198c5f6ef"
+        },
+        {
+          "file": "planar-330.webp",
+          "label": "645 - Diorit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "8b6effdae9b58a0840c54888130dba6a"
+        },
+        {
+          "file": "planar-331.webp",
+          "label": "646 - Mittelkörniger, leukokrater, muskovitreicher Zweiglimmergranit bis Granodiorit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "15440e547af6e2acd8a58596510418a8"
+        },
+        {
+          "file": "planar-332.webp",
+          "label": "647 - Grobkörniger Muskovit bis Muskovit-Biotit-Granit, Granodiorit i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a1eb753418569548990f8b8df74ee69e"
+        },
+        {
+          "file": "planar-333.webp",
+          "label": "648 - Dunkler Schiefer, Graphitphyllit, Metaquarzit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "ae7419eed3453a4f8abe3576f96e291d"
+        },
+        {
+          "file": "planar-334.webp",
+          "label": "649 - Chlorit-Biotit-Phyllit, Meta-Sandstein, Meta-Rauhwacke",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "551e4d747d970abf18fa627912094a78"
+        },
+        {
+          "file": "planar-335.webp",
+          "label": "650 - Grünschiefer der Harmonia-Serie",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "73972fc357a02eea6f345eccbc80dc17"
+        },
+        {
+          "file": "planar-336.webp",
+          "label": "651 - Amphibolit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "f62759d12dffbd7787235710e4f65cd1"
+        },
+        {
+          "file": "planar-337.webp",
+          "label": "700 - Klikov-Formation (\"Gmünder Schichten\"); Ober-Kreide (Tonstein, Sandstein, Konglomerat)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "fbaf89fdd67d48998907433306e91494"
+        },
+        {
+          "file": "planar-338.webp",
+          "label": "701 - Zöbing-Formation; Ober-Karbon - Perm (Sandstein, Tonschiefer, Kalk)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "8084e042e985228005d4f75a24ed7aca"
+        },
+        {
+          "file": "planar-339.webp",
+          "label": "702 - Grauwacke, Konglomerat (Boskowitzer Furche); Karbon",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "997fa9f6e4c5d8f390e183788f1327d5"
+        },
+        {
+          "file": "planar-340.webp",
+          "label": "703 - Lesonice-Kalk; Devon",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "43b4a245252801266100f9c5f0443de3"
+        },
+        {
+          "file": "planar-341.webp",
+          "label": "704 - \"Old Red\" (über Brünner Pluton, Mähren); Kambrium - Devon (Konglomerat, Sandstein, Tonstein)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "ffc7e581beb67c94b9dcf337dcc59d5e"
+        },
+        {
+          "file": "planar-342.webp",
+          "label": "705 - Amphibolit i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "2027285fef2fb23c6b3a3d37ca2febd4"
+        },
+        {
+          "file": "planar-343.webp",
+          "label": "706 - Diorit, Gabbro",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "39ebba954da59b8e8bc2b4bd98a173df"
+        },
+        {
+          "file": "planar-344.webp",
+          "label": "707 - Ultrabasit, Serpentinit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a38d3f434bcf87056863e8207a0badcb"
+        },
+        {
+          "file": "planar-345.webp",
+          "label": "708 - Mylonit, Störungszone i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "81f02c7b991da655739257f5194b7688"
+        },
+        {
+          "file": "planar-346.webp",
+          "label": "709 - Paragneis, Mischgneis, Glimmerschiefer (Drosendorf-Einheit, Gföhl-Einheit)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "379b6dea174213e307b5847281829d28"
+        },
+        {
+          "file": "planar-347.webp",
+          "label": "710 - Granitgneis Typ Weiterndorf, Meires, Lancov u.a.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "eeb60bbb30b08cf08116fc0853442b9c"
+        },
+        {
+          "file": "planar-348.webp",
+          "label": "711 - Quarzit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "6d262a5f56a86c64e721245aa4756171"
+        },
+        {
+          "file": "planar-349.webp",
+          "label": "712 - Granat-Pyroxenit, Eklogit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "2ff095a78c4d0a34c1a1e78733eb5efc"
+        },
+        {
+          "file": "planar-350.webp",
+          "label": "713 - Granulit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "de541327886edc25f76a789d8064996c"
+        },
+        {
+          "file": "planar-351.webp",
+          "label": "714 - (Granat-)Pyroxen-Amphibolit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c56e7611dcec13d2904ced11f5072e4c"
+        },
+        {
+          "file": "planar-352.webp",
+          "label": "715 - Wolfshofer Syenitgneis",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "efb29f5a239941b95a93c213d03a8f74"
+        },
+        {
+          "file": "planar-353.webp",
+          "label": "716 - Gföhler Gneis (Granitgneis)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "7625084746b69389ee6141e1ab440d5b"
+        },
+        {
+          "file": "planar-354.webp",
+          "label": "717 - Migmatitgneis, migmatischer Paragneis (Mähren)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "dd87d70e0868d52d32939a750e79181a"
+        },
+        {
+          "file": "planar-355.webp",
+          "label": "718 - Graphitquarzit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "290dbdd7ba9be62cf3aa122dad8c2999"
+        },
+        {
+          "file": "planar-356.webp",
+          "label": "719 - Mischserie von Biotitgneis, Amphibolit, Augitgneis",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "fac8689082226325bda5fe58edb97420"
+        },
+        {
+          "file": "planar-357.webp",
+          "label": "720 - Augitgneis",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "3ef14bea3a535c556135b3a83d9dd08b"
+        },
+        {
+          "file": "planar-358.webp",
+          "label": "721 - Buschandlwand- und Rehberg-Amphibolit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "075d1d9bd7fcd50bcef193ae18a18896"
+        },
+        {
+          "file": "planar-359.webp",
+          "label": "722 - Leukoquarzdioritgneis (Hartenstein-Gneis)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "2b45449b2612e7c97a4210529556947f"
+        },
+        {
+          "file": "planar-360.webp",
+          "label": "723 - Dioritgneis, Biotitamphibolit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "dce00ddfad87ecc29d7eefd7cb04105b"
+        },
+        {
+          "file": "planar-361.webp",
+          "label": "724 - Marmor, Silikatmarmor",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c9dad4ef55dce470c9b140ee9454ea5b"
+        },
+        {
+          "file": "planar-362.webp",
+          "label": "725 - Graphit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "bf81f2d232e51fd9f7b198b56eb1ccda"
+        },
+        {
+          "file": "planar-363.webp",
+          "label": "726 - Kalksilikatgneis",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "924e702dfa6615ed584d528d041a9a28"
+        },
+        {
+          "file": "planar-364.webp",
+          "label": "727 - Granodioritgneis von Spitz",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "48910d80a22c2c7458cc4eaf15fde176"
+        },
+        {
+          "file": "planar-365.webp",
+          "label": "728 - Dobra-Gneis (Granitgneis, stellenweise mit Amphibolitlagen)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c4ac89f306727caea75a5d56f49ab1ef"
+        },
+        {
+          "file": "planar-366.webp",
+          "label": "729 - Cordierit-Sillimanitgneis, Biotit-Plagioklas-Gneis, Zweiglimmergneis",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "422e9eec3b05279f0471e55b265a7b08"
+        },
+        {
+          "file": "planar-367.webp",
+          "label": "730 - Leukokrater, häufig Sillimanit führender Orthogneis",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c0a7d9faf2776e7d200116517933c098"
+        },
+        {
+          "file": "planar-368.webp",
+          "label": "731 - Schiefergneis",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "aacd586d4e6b97188be8a782a377ac37"
+        },
+        {
+          "file": "planar-369.webp",
+          "label": "732 - Metatexit (Perlgneis)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "492866ad116e950a9ab77d8ce8509c47"
+        },
+        {
+          "file": "planar-370.webp",
+          "label": "733 - Übergangszone von Schiefergneis zu Perlgneis",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "427886753ba659f612bf0a97e9529203"
+        },
+        {
+          "file": "planar-371.webp",
+          "label": "734 - Eisgarner Granit i.A. (Zweiglimmer-Granitgneis)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "8918e76c32791307f3e94e7df1c7a1ce"
+        },
+        {
+          "file": "planar-372.webp",
+          "label": "735 - feinkörnig",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "1e35b75979f2f6b8dfd36d6365f426dc"
+        },
+        {
+          "file": "planar-373.webp",
+          "label": "736 - mittel- bis grobkörnig",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "f4ca88e41fc3b019eba8f896ee10ac6b"
+        },
+        {
+          "file": "planar-374.webp",
+          "label": "737 - porphyrisch (Typ Cimer)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "9b1fccc531bd1e6724d3a1cf4ca45601"
+        },
+        {
+          "file": "planar-375.webp",
+          "label": "738 - Muskovitgranit, Typ Galthof (Homolka)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "9c5ab981f47222c5c319eaae2f62576d"
+        },
+        {
+          "file": "planar-376.webp",
+          "label": "739 - Zweiglimmergranit i.A.",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "0f34e029921a40656627d8e95a09ca12"
+        },
+        {
+          "file": "planar-377.webp",
+          "label": "740 - Altenberger Granit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "40d4db7b45c2b6596e73e1b466302354"
+        },
+        {
+          "file": "planar-378.webp",
+          "label": "741 - Granit mit Molybdänvererzung (Kozi Hora und Nebelstein-Suite)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "3e916418eed0c0d903afd44c713b8031"
+        },
+        {
+          "file": "planar-379.webp",
+          "label": "742 - Mauthausener Granit, Schremser Granit, Leukogranite und Feinkorngranite i.A. (fein- bis mittelkörnige Granite)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "1a1fe15481d168cb08b646fc6d27eb27"
+        },
+        {
+          "file": "planar-380.webp",
+          "label": "743 - Aplit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "599c9ddf036aac2d7de33078aec6f8bf"
+        },
+        {
+          "file": "planar-381.webp",
+          "label": "744 - Granitporphyr, Granitgänge",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "62c82847d1891588955901945495eaa0"
+        },
+        {
+          "file": "planar-382.webp",
+          "label": "745 - Jüngere Granitstöcke im Weinsberger Granit (Typ Plochwald etc.)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "7564835c2b345e69555598650a152918"
+        },
+        {
+          "file": "planar-383.webp",
+          "label": "746 - Weinsberger Granit (grob- bis riesenkörnig, mit porphyrischen Alkalifeldspat)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "7c6d80eaac8d107f9e95b1c69fae6a75"
+        },
+        {
+          "file": "planar-384.webp",
+          "label": "747 - Migmagranit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a3f0b28d44f1df757a8026b36a127e56"
+        },
+        {
+          "file": "planar-385.webp",
+          "label": "748 - Übergangszone Weinsberger Granit - Grobkorngneis, Vermischungszonen von Weinsberger Granit mit Migmagranit bzw. Engerwitzdorfer Granit",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "710e2acf68b4beab212a6b10cee14698"
+        },
+        {
+          "file": "planar-386.webp",
+          "label": "749 - Schlierengranit (Diatexit mit porphyrischen Kalifeldspaten, Grobkorngneis)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "b818aadb567522d68a219208136609a8"
+        },
+        {
+          "file": "planar-387.webp",
+          "label": "750 - Wolfsegger Granit (Biotit-Granit)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "455607e0c29d1356ae9838f9fd4bf044"
+        },
+        {
+          "file": "planar-388.webp",
+          "label": "751 - Rastenberger Granodiorit (Durbachit) (grobkörnig mit porphyrischen Alkalifeldspat und Hornblende)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "a0f7ef7d75eb71fbe4b4ba6b3821365e"
+        },
+        {
+          "file": "planar-389.webp",
+          "label": "752 - Randgranit des Rastenberger Granodioritplutons (feinkörniger Biotitgranit)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "af11a872e11260b74a53e25ead7dbdaf"
+        },
+        {
+          "file": "planar-390.webp",
+          "label": "753 - Freistädter Granodiorit, grobkörnig",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c15473ad292a95bb3fcc240fa7ad26c5"
+        },
+        {
+          "file": "planar-391.webp",
+          "label": "754 - Freistädter Granodiorit, feinkörnig",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "67d78e7c127c4a5da9b53a07ffaadbae"
+        },
+        {
+          "file": "planar-392.webp",
+          "label": "755 - Karlstifter Granit (mittelkörniger Biotitgranit mit porphyrischer Randfazies)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "29d298b4f9c7daf784ae40223b1c19b1"
+        },
+        {
+          "file": "planar-393.webp",
+          "label": "756 - Engerwitzdorfer Granit (mittelkörniger Biotitgranit mit porphyrischem rosa Alkalifeldspat)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "29d298b4f9c7daf784ae40223b1c19b1"
+        },
+        {
+          "file": "planar-394.webp",
+          "label": "757 - Metamorphe Karbonatgesteine i.A. (Marmor, Silikatmarmor, Kalksilikatgneis)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "ba199ff8c1969d0580d9511815e6bc5d"
+        },
+        {
+          "file": "planar-395.webp",
+          "label": "758 - Bittescher Gneis (Granitgneis, stellenweise mit Amphibolitlagen)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "c4ac89f306727caea75a5d56f49ab1ef"
+        },
+        {
+          "file": "planar-396.webp",
+          "label": "759 - Weitersfelder Stengelgneis, Arkose-Grauwackengneis",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "106f86b70cb31666ba0bb95c6514503d"
+        },
+        {
+          "file": "planar-397.webp",
+          "label": "760 - Glimmerschiefer, Paragneis, Quarzit, Amphibolit der Therasburg- und Pernegg-Gruppe",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "422e9eec3b05279f0471e55b265a7b08"
+        },
+        {
+          "file": "planar-398.webp",
+          "label": "761 - Therasburg-Gneis (Granodioritgneis)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "195995204dbbb8d887f8d8d90c9e4be2"
+        },
+        {
+          "file": "planar-399.webp",
+          "label": "762 - Porphyroid von Zeletice",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "1a1fe15481d168cb08b646fc6d27eb27"
+        },
+        {
+          "file": "planar-400.webp",
+          "label": "763 - Thaya-Batholit/Brünner Pluton (Granit bis Granodiorit)",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "8fb2e891ea412f7bf55e205150f2f6eb"
+        },
+        {
+          "file": "planar-401.webp",
+          "label": "830 - Oberflächengewässer",
+          "sourceLayer": "PLANAR_NIED",
+          "symbol": "12cf9b93038776ee2cb73874a9b438ec"
+        }
+      ]
+    },
+    {
+      "name": "断層・ナップ境界などの地質構造（原語：ドイツ語）",
+      "items": [
+        {
+          "file": "tectonic-000.webp",
+          "label": "Störung gesichert",
+          "sourceLayer": "TEKT_NIED",
+          "symbol": "6c78117bb99b977541b665472d277c29"
+        },
+        {
+          "file": "tectonic-001.webp",
+          "label": "Störung vermutet",
+          "sourceLayer": "TEKT_NIED",
+          "symbol": "f67d7b84760958d4d7592e21c2fb8746"
+        },
+        {
+          "file": "tectonic-002.webp",
+          "label": "Geneigte Störung im Bereich des Wiener Beckens gesichert",
+          "sourceLayer": "TEKT_NIED",
+          "symbol": "8937e5cbe378590cc0d2ae1b01becd6f"
+        },
+        {
+          "file": "tectonic-003.webp",
+          "label": "Geneigte Störung im Bereich des Wiener Beckens vermutet",
+          "sourceLayer": "TEKT_NIED",
+          "symbol": "8887dc0879a64b864508f6aa6aa23a21"
+        },
+        {
+          "file": "tectonic-004.webp",
+          "label": "Deckengrenze 1. Ordnung gesichert",
+          "sourceLayer": "TEKT_NIED",
+          "symbol": "2ddb9c55e380a1f8cdd40acb433dba01"
+        },
+        {
+          "file": "tectonic-005.webp",
+          "label": "Deckengrenze 1. Ordnung vermutet",
+          "sourceLayer": "TEKT_NIED",
+          "symbol": "43b1b65c8e2c91d6fbb2804a4a73f8ac"
+        },
+        {
+          "file": "tectonic-006.webp",
+          "label": "Deckengrenze 2. Ordnung gesichert",
+          "sourceLayer": "TEKT_NIED",
+          "symbol": "46268fe4a3def34cf394128bb20c28b5"
+        },
+        {
+          "file": "tectonic-007.webp",
+          "label": "Deckengrenze 2. Ordnung vermutet",
+          "sourceLayer": "TEKT_NIED",
+          "symbol": "dc4acf1d7e0018106be3f7af4aeb3c7c"
+        },
+        {
+          "file": "tectonic-008.webp",
+          "label": "Teildecken- und Schuppengrenze gesichert",
+          "sourceLayer": "TEKT_NIED",
+          "symbol": "1f6b9dde4aff01299365c1e3d1caa028"
+        },
+        {
+          "file": "tectonic-009.webp",
+          "label": "Teildecken- und Schuppengrenze vermutet",
+          "sourceLayer": "TEKT_NIED",
+          "symbol": "a0a0f7f09eba204023d275ac64e3ab6f"
+        },
+        {
+          "file": "tectonic-010.webp",
+          "label": "Seitenverschiebung (1) vermutet",
+          "sourceLayer": "TEKT_NIED",
+          "symbol": "1db177f464e8ad220956257a5471fc78"
+        },
+        {
+          "file": "tectonic-011.webp",
+          "label": "Seitenverschiebung (2) vermutet",
+          "sourceLayer": "TEKT_NIED",
+          "symbol": "1db177f464e8ad220956257a5471fc78"
+        }
+      ]
+    }
+  ]
+}
