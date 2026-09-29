@@ -1,0 +1,472 @@
+{
+  "source": "https://gis.geosphere.at/maps/rest/services/geologie/karte_500/MapServer/legend?f=pjson",
+  "attribution": "GeoSphere Austria",
+  "groups": [
+    {
+      "name": "岩石・地層など（原語：ドイツ語）",
+      "items": [
+        {
+          "file": "geology-000.webp",
+          "label": "1 - Firn, Gletscher",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "56eaef7eea4c3a3e8d1d0065c2bd3080"
+        },
+        {
+          "file": "geology-001.webp",
+          "label": "2 - Quartär i. Allg. (Alluvium; Pleistozän entlang der Hauptentwässerungslinien und Moränen im Alpenvorland)",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "eb5ad9f821da75b71b112325e2723f1e"
+        },
+        {
+          "file": "geology-002.webp",
+          "label": "3 - Molassezone; Obereozän - Miozän; Inneralpine Becken; Neogen",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "db28d1b7c38100b0004c6bf41018753a"
+        },
+        {
+          "file": "geology-003.webp",
+          "label": "4 - Allochthone und parautochthone Molasse; Obereozän - Miozän/Oberjura",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "7ea993b63c62732a45ee8734d362dd72"
+        },
+        {
+          "file": "geology-004.webp",
+          "label": "5 - Alttertiärklippen (Ernstbrunner Klippen)",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "a3344ee81aff7327e2e689102ac51449"
+        },
+        {
+          "file": "geology-005.webp",
+          "label": "6 - Andesit, Dazit, Trachyt; Karpat, Baden",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "8fa59216a2f0af1b4b24d0a1f922a939"
+        },
+        {
+          "file": "geology-006.webp",
+          "label": "7 - Basalt, Basanit, Nephelinit, Tuff, Sarmat/Pannon - Plio-/Pleistozän",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "8b12ca4092647ab56c01092bf5fb5301"
+        },
+        {
+          "file": "geology-007.webp",
+          "label": "8 - Post-variszische Klastika (Perm von Zöbing); Perm",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "9815c248aaba7fbd4916e3747797a07b"
+        },
+        {
+          "file": "geology-008.webp",
+          "label": "9 - Granitoid (Südböhmischer Pluton); Karbon",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "0511f86cee1d699a58834260cada97e9"
+        },
+        {
+          "file": "geology-009.webp",
+          "label": "10 - Metamorphite i. Allg.: meist Paragneis, Glimmerschiefer (Moldanubikum, Moravikum)",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "8acb488ac1513ca9bde6a24f9499e6ff"
+        },
+        {
+          "file": "geology-010.webp",
+          "label": "11 - Orthogneis",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "b0d781954a57134f38723cce016945eb"
+        },
+        {
+          "file": "geology-011.webp",
+          "label": "12 - Migmatit",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "3d5a0b2db432db8329bee3309dee9cb2"
+        },
+        {
+          "file": "geology-012.webp",
+          "label": "13 - Amphibolit",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "0f2cbeb4a9f0a48e2dd202ad2d8ee3ff"
+        },
+        {
+          "file": "geology-013.webp",
+          "label": "14 - Marmor, Kalksilikatgestein",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "9e1684876c5fd35c22fce1d4496af011"
+        },
+        {
+          "file": "geology-014.webp",
+          "label": "15 - Granulit",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "c92d73e22e38a7db17e3ca4223fb65d1"
+        },
+        {
+          "file": "geology-015.webp",
+          "label": "16 - Ultrabasit",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "b1eedcca679489385850b78a11edc7b2"
+        },
+        {
+          "file": "geology-016.webp",
+          "label": "17 - Kontinentalrandsediment (Helvetikum i.w.S. inkl. Grestener- und Hauptkilppenzone); Jura - Mitteleozän",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "3b6bab4435e3c344fd1c3c329ebb4be9"
+        },
+        {
+          "file": "geology-017.webp",
+          "label": "18 - Liebensteiner- und Feuerstätter Decke (nicht differenziert); Lias - Eozän",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "4c1d925da67ddd156e11d2f451d489b9"
+        },
+        {
+          "file": "geology-018.webp",
+          "label": "19 - Rhenodanubischer Flysch; Unterkreide - Eozän",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "b2c01a6f1fcb46736063964c8a50cd56"
+        },
+        {
+          "file": "geology-019.webp",
+          "label": "20 - Tiefmarines Sediment - Ophiolith (Ybbsitzer- , Sulzer- und St. Veiter-Klippen, Nordrandzone); Jura - Kreide",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "3d8e3075b7c901e5a531865d6ed82193"
+        },
+        {
+          "file": "geology-020.webp",
+          "label": "21 - Tektonische Melange ostalpiner und penninischer Gesteine (Matreier Zone - Nordrahmenzone, Richbergkogel-Serie, Arosa-Zone); Permomesozoikum",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "87a1a716ed3e4d9df345755500061ba6"
+        },
+        {
+          "file": "geology-021.webp",
+          "label": "22 - Ozeanisches Metasediment, z. T. flyschartig (Bündner Schiefer, Rechnitzer Serie, Prättigauflysch); Jura - Kreide, z. T. Alttertiär",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "468fad31c7fe2f1a4aee519424c7e52d"
+        },
+        {
+          "file": "geology-022.webp",
+          "label": "23 - Grünschiefer, Prasinit, Serpentinit",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "584665d6f591a195e35f3417e16dc6de"
+        },
+        {
+          "file": "geology-023.webp",
+          "label": "24 - Eklogit führendes Metasediment",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "5cfd850698785852ef6eca5e09fc135c"
+        },
+        {
+          "file": "geology-024.webp",
+          "label": "25 - Metasediment (in Falknis- und Sulzfluh-Decke nicht differenziert ); Permomesozoikum, z. T. Alttertiär",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "2c643a84ed4f4744ae2dab1ee2d6e103"
+        },
+        {
+          "file": "geology-025.webp",
+          "label": "26 - Metasediment (Tasna-Decke); Permotrias",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "2c643a84ed4f4744ae2dab1ee2d6e103"
+        },
+        {
+          "file": "geology-026.webp",
+          "label": "27 - Metasediment (Brennkogel-, Kaserer-Serie); Jura - Kreide",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "0360554f3773b34c5f7d5b70c27ad341"
+        },
+        {
+          "file": "geology-027.webp",
+          "label": "28 - Metasediment (Hochstegen-Serie); Malm",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "38ccc457e08052b366b4c01a180cba92"
+        },
+        {
+          "file": "geology-028.webp",
+          "label": "29 - Metasediment (Wustkogel-, Seidlwinkel-, Schrovin-Serie); Permotrias",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "09808d3574b2606e77b8f9065b8c7a9e"
+        },
+        {
+          "file": "geology-029.webp",
+          "label": "30 - Orthogneis (Zentralgneis); Permokarbon",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "3cd4bc24e9dcceca648efb0edb083cf0"
+        },
+        {
+          "file": "geology-030.webp",
+          "label": "31 - Metasediment, Metavulkanit (Habach-, Greiner-, Storz-, Kareck-Serie); Paläozoikum",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "0902bb9c4eab2b07d33688737e9f104e"
+        },
+        {
+          "file": "geology-031.webp",
+          "label": "32 - Migmatit, Anatexit, migmatischer Paragneis (Altes Dach, Altkristallin i. Allg.)",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "0ee30be030d2bb974c5a988430bf5903"
+        },
+        {
+          "file": "geology-032.webp",
+          "label": "33 - Amphibolit (Zwölferzug-Basisamphibolit)",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "627b4abadb1dc3577c1f6d1d93342b91"
+        },
+        {
+          "file": "geology-033.webp",
+          "label": "34 - meist Klastika (Gosau - Schichten); Oberkreide - Eozän",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "e159e40fa9d47d727752651a7119ed33"
+        },
+        {
+          "file": "geology-034.webp",
+          "label": "35 - überwiegend Karbonatgestein; Mitteltrias - Unterkreide",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "dd94cd18eb692b4fa1f276733769c117"
+        },
+        {
+          "file": "geology-035.webp",
+          "label": "36 - Siliciklastika;  Permoskyth",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "1da13c82003bf4d0953ffadbcbe85f68"
+        },
+        {
+          "file": "geology-036.webp",
+          "label": "37 - überwiegend Karbonatgestein;  Mitteltrias - Jura",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "d868a7a00d686434c5271e04ac93f80f"
+        },
+        {
+          "file": "geology-037.webp",
+          "label": "38 - Siliciklastika;  Permoskyth",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "7162da120fb08d23c297477ef08ed63e"
+        },
+        {
+          "file": "geology-038.webp",
+          "label": "39 - Porphyroid; Perm",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "cf9788a79f7a492ffaa95e28f8bb4c50"
+        },
+        {
+          "file": "geology-039.webp",
+          "label": "40 - Karbonatgestein, Klastika (Karbon von Nötsch); oberes Vise - Oberkarbon",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "3e3c314480c71385b5e1b0463d586625"
+        },
+        {
+          "file": "geology-040.webp",
+          "label": "41 - Karbonatgestein, Klastika (Grauwackenzone / Veitscher Decke); oberes Vise - Oberkarbon",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "0d97aded9f7eb2a431bcb29f6fe999d4"
+        },
+        {
+          "file": "geology-041.webp",
+          "label": "42 - Phyllit, Metaklastika, Metavulkanit (Grauwackenzone/Silbersberg-Decke westl. Aflenz nicht ausgeschieden); Altpaläozoikum i. Allg. ?Permoskyth",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "c94797ac27e95018395fccefe08acfba"
+        },
+        {
+          "file": "geology-042.webp",
+          "label": "43 - Post-variszische Klastika; Oberkarbon",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "4455883bd0574a2d0f9f2077182c054f"
+        },
+        {
+          "file": "geology-043.webp",
+          "label": "44 - überwiegend pelitisch-psammitisches Sediment; Oberordovicium",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "11abb7b4a49cade0f544fab5bd440553"
+        },
+        {
+          "file": "geology-044.webp",
+          "label": "45 - Quarzphyllite, z. T. Phyllonite",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "1baa5e175c922feb9f9f5371c5d464a2"
+        },
+        {
+          "file": "geology-045.webp",
+          "label": "46 - Karbonatgestein",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "ceefe06784792f576fab1cf45b29ade1"
+        },
+        {
+          "file": "geology-046.webp",
+          "label": "47 - Basischer Vulkanit",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "80ea1a2f4886d07e64809f5fee25b8b8"
+        },
+        {
+          "file": "geology-047.webp",
+          "label": "48 - Porphyroid (Blasseneck Porphyroid); Oberordovicium",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "aa83fd0316a4fa7988c4b58be4290c2b"
+        },
+        {
+          "file": "geology-048.webp",
+          "label": "49 - Granitoid; Permokarbon",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "c8ce45c410cd0b4ae0e16819a64bbb91"
+        },
+        {
+          "file": "geology-049.webp",
+          "label": "50 - Altkristallin i. Allg. (meist Paragneis, Glimmerschiefer lokal, auch Granatphyllit)",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "d12fa50dc76d460b171b179fa788d2e3"
+        },
+        {
+          "file": "geology-050.webp",
+          "label": "51 - Orthogneis",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "f9d6eb5b9b833f064efbc7c60c7d1360"
+        },
+        {
+          "file": "geology-051.webp",
+          "label": "52 - Amphibolit",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "6105efce0a7cb647dea3e343ab5b4171"
+        },
+        {
+          "file": "geology-052.webp",
+          "label": "53 - Marmor",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "0a08fc08bb4882b5c0a2a2fd57a963aa"
+        },
+        {
+          "file": "geology-053.webp",
+          "label": "54 - Ultrabasit",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "0ebf7b194c292e89792b5b744d24999c"
+        },
+        {
+          "file": "geology-054.webp",
+          "label": "55 - Schladminger Kristallin",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "d12fa50dc76d460b171b179fa788d2e3"
+        },
+        {
+          "file": "geology-055.webp",
+          "label": "56 - Bundschuh Kristallin",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "d12fa50dc76d460b171b179fa788d2e3"
+        },
+        {
+          "file": "geology-056.webp",
+          "label": "57 - Granitoid; Permokarbon",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "43d15b01ee80ca2ce07da24e504c2a10"
+        },
+        {
+          "file": "geology-057.webp",
+          "label": "58 - Tonalit, Granodiorit, Oligozän",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "1f2bdd93c9746bb65e47a6cb94bbad1a"
+        },
+        {
+          "file": "geology-058.webp",
+          "label": "59 - Ganggestein (im Gefolge der tertiären Intrusionen)",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "8313990c9559f7fb8bb4a49585ef376b"
+        },
+        {
+          "file": "geology-059.webp",
+          "label": "60 - Karbonatgestein; Trias",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "34a91df550897ca77e3d35f9ef43dd20"
+        },
+        {
+          "file": "geology-060.webp",
+          "label": "61 - Post-variszische Klastika und Karbonatgestein; Oberkarbon - Perm",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "3b1b4eefc8a178d76f9a42fc2021b1d9"
+        },
+        {
+          "file": "geology-061.webp",
+          "label": "62 - Kalk, Feinklastika",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "b02ff7263f43fc309b64ddb9cbc02296"
+        },
+        {
+          "file": "geology-062.webp",
+          "label": "63 - Phyllit; Oberordovicium - Unterkarbon",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "1950adf14632c492bee39251e47f58c7"
+        },
+        {
+          "file": "geology-063.webp",
+          "label": "64 - Comelico-Porphyroid;  Ordovicium",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "5ab48e92993aca57c4313dba53ba8808"
+        },
+        {
+          "file": "geology-064.webp",
+          "label": "65 - Gewässer",
+          "sourceLayer": "Geologische Einheiten",
+          "symbol": "56eaef7eea4c3a3e8d1d0065c2bd3080"
+        }
+      ]
+    },
+    {
+      "name": "断層・ナップ境界などの地質構造（原語：ドイツ語）",
+      "items": [
+        {
+          "file": "tectonic-000.webp",
+          "label": "Störung i. Allg. nachgewiesen",
+          "sourceLayer": "Tektonische Linien",
+          "symbol": "6c78117bb99b977541b665472d277c29"
+        },
+        {
+          "file": "tectonic-001.webp",
+          "label": "Störung i. Allg. vermutet",
+          "sourceLayer": "Tektonische Linien",
+          "symbol": "0e635c1a2bb3faecfe9b7a4661690ada"
+        },
+        {
+          "file": "tectonic-002.webp",
+          "label": "Deckengrenzen zweiter Ordnung nachgewiesen",
+          "sourceLayer": "Tektonische Linien",
+          "symbol": "56ee234f636565c17dd3ec0fbb376e91"
+        },
+        {
+          "file": "tectonic-003.webp",
+          "label": "Deckengrenzen zweiter Ordnung vermutet",
+          "sourceLayer": "Tektonische Linien",
+          "symbol": "96e668d6120dd3569442952f8fd6117b"
+        },
+        {
+          "file": "tectonic-004.webp",
+          "label": "Hauptdeckengrenzen der helvetischen, penninischen und ostalpinen Einheiten nachgewiesen",
+          "sourceLayer": "Tektonische Linien",
+          "symbol": "7d1c0b467ce6f43482f3b4051bdfa1fc"
+        },
+        {
+          "file": "tectonic-005.webp",
+          "label": "Hauptdeckengrenzen der helvetischen, penninischen und ostalpinen Einheiten vermutet",
+          "sourceLayer": "Tektonische Linien",
+          "symbol": "b4a9dc171ccd0ea13fd31294af91a9e1"
+        },
+        {
+          "file": "tectonic-006.webp",
+          "label": "Störung i. Allg. nachgewiesen",
+          "sourceLayer": "Tektonische Linien",
+          "symbol": "5a4b093d6aeb3c103a30028cf899a6e6"
+        },
+        {
+          "file": "tectonic-007.webp",
+          "label": "Störung i. Allg. vermutet",
+          "sourceLayer": "Tektonische Linien",
+          "symbol": "465b4aeef7bcfe878a62fc632a3edc56"
+        },
+        {
+          "file": "tectonic-008.webp",
+          "label": "geneigte Störung nachgewiesen",
+          "sourceLayer": "Tektonische Linien",
+          "symbol": "219d415f66f28f0369ea5918222a98fd"
+        },
+        {
+          "file": "tectonic-009.webp",
+          "label": "geneigte Störung vermutet",
+          "sourceLayer": "Tektonische Linien",
+          "symbol": "409a82be47550e311ec4f5770b764f92"
+        },
+        {
+          "file": "tectonic-010.webp",
+          "label": "Deckengrenze vermutet",
+          "sourceLayer": "Tektonische Linien",
+          "symbol": "132fb0f68172c7be528adaf7c86f2e99"
+        }
+      ]
+    }
+  ]
+}
