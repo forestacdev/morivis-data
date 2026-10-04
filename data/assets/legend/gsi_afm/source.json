@@ -1,0 +1,487 @@
+{
+  "source": "https://www.gsi.go.jp/common/000084060.pdf",
+  "title": "活断層図（都市圏活断層図）の内容（記号一覧）",
+  "attribution": "国土地理院",
+  "sourceSha256": "73babaafc8c3d53ff4b6ffeb14828cf4212f5d6b711a49dffc2175796b9918d0",
+  "processing": "PDFをPopplerで300dpiのPNGに変換し、記号欄を切り出した。白い余白を調整して可逆圧縮のWebPに変換。記号の描き直し・色変更なし。",
+  "cropCoordinates": "左上原点。各ページを幅1335・高さ1887に正規化したときの座標。pageは1始まり。",
+  "groups": [
+    {
+      "name": "活断層・変位地形",
+      "items": [
+        {
+          "file": "fault-01.webp",
+          "label": "活断層",
+          "page": 1,
+          "crop": {
+            "x": 392,
+            "y": 187,
+            "width": 120,
+            "height": 86
+          }
+        },
+        {
+          "file": "fault-02.webp",
+          "label": "活断層（位置やや不明確）",
+          "page": 1,
+          "crop": {
+            "x": 392,
+            "y": 283,
+            "width": 120,
+            "height": 86
+          }
+        },
+        {
+          "file": "fault-03.webp",
+          "label": "活断層（活撓曲）",
+          "page": 1,
+          "crop": {
+            "x": 392,
+            "y": 379,
+            "width": 120,
+            "height": 86
+          }
+        },
+        {
+          "file": "fault-04.webp",
+          "label": "活断層（伏在部）",
+          "page": 1,
+          "crop": {
+            "x": 392,
+            "y": 475,
+            "width": 120,
+            "height": 58
+          }
+        },
+        {
+          "file": "fault-05.webp",
+          "label": "横ずれ",
+          "page": 1,
+          "crop": {
+            "x": 392,
+            "y": 543,
+            "width": 120,
+            "height": 59
+          }
+        },
+        {
+          "file": "fault-06.webp",
+          "label": "縦ずれ",
+          "page": 1,
+          "crop": {
+            "x": 392,
+            "y": 612,
+            "width": 120,
+            "height": 58
+          }
+        },
+        {
+          "file": "fault-07.webp",
+          "label": "地震断層",
+          "page": 1,
+          "crop": {
+            "x": 392,
+            "y": 680,
+            "width": 120,
+            "height": 86
+          }
+        },
+        {
+          "file": "fault-08.webp",
+          "label": "トレンチ調査地点",
+          "page": 1,
+          "crop": {
+            "x": 392,
+            "y": 776,
+            "width": 120,
+            "height": 86
+          }
+        },
+        {
+          "file": "fault-09.webp",
+          "label": "活断層露頭",
+          "page": 1,
+          "crop": {
+            "x": 392,
+            "y": 872,
+            "width": 120,
+            "height": 59
+          }
+        },
+        {
+          "file": "fault-10.webp",
+          "label": "活断層の名称",
+          "page": 1,
+          "crop": {
+            "x": 392,
+            "y": 941,
+            "width": 120,
+            "height": 59
+          }
+        },
+        {
+          "file": "fault-11.webp",
+          "label": "推定活断層（地表）",
+          "page": 1,
+          "crop": {
+            "x": 392,
+            "y": 1010,
+            "width": 120,
+            "height": 59
+          }
+        },
+        {
+          "file": "fault-12.webp",
+          "label": "推定活断層（地表）（位置やや不明確）",
+          "page": 1,
+          "crop": {
+            "x": 392,
+            "y": 1079,
+            "width": 120,
+            "height": 58
+          }
+        },
+        {
+          "file": "fault-13.webp",
+          "label": "推定活断層（地下）",
+          "page": 1,
+          "crop": {
+            "x": 392,
+            "y": 1147,
+            "width": 120,
+            "height": 86
+          }
+        },
+        {
+          "file": "fault-14.webp",
+          "label": "活褶曲",
+          "page": 1,
+          "crop": {
+            "x": 392,
+            "y": 1243,
+            "width": 120,
+            "height": 58
+          }
+        },
+        {
+          "file": "fault-15.webp",
+          "label": "地形面の傾動方向",
+          "page": 1,
+          "crop": {
+            "x": 392,
+            "y": 1311,
+            "width": 120,
+            "height": 59
+          }
+        },
+        {
+          "file": "fault-16.webp",
+          "label": "活断層（海（湖）底部）",
+          "page": 1,
+          "crop": {
+            "x": 392,
+            "y": 1380,
+            "width": 120,
+            "height": 59
+          }
+        },
+        {
+          "file": "fault-17.webp",
+          "label": "推定活断層（海（湖）底部）",
+          "page": 1,
+          "crop": {
+            "x": 392,
+            "y": 1449,
+            "width": 120,
+            "height": 58
+          }
+        },
+        {
+          "file": "fault-18.webp",
+          "label": "活断層（活撓曲）（海（湖）底部）",
+          "page": 1,
+          "crop": {
+            "x": 392,
+            "y": 1517,
+            "width": 120,
+            "height": 59
+          }
+        },
+        {
+          "file": "fault-19.webp",
+          "label": "活褶曲（海底部）",
+          "page": 1,
+          "crop": {
+            "x": 392,
+            "y": 1586,
+            "width": 120,
+            "height": 59
+          }
+        }
+      ]
+    },
+    {
+      "name": "地形分類",
+      "items": [
+        {
+          "file": "landform-01.webp",
+          "label": "上位段丘面",
+          "page": 2,
+          "crop": {
+            "x": 392,
+            "y": 138,
+            "width": 120,
+            "height": 192
+          }
+        },
+        {
+          "file": "landform-02.webp",
+          "label": "中位段丘面",
+          "page": 2,
+          "crop": {
+            "x": 392,
+            "y": 340,
+            "width": 120,
+            "height": 192
+          }
+        },
+        {
+          "file": "landform-03.webp",
+          "label": "下位段丘面",
+          "page": 2,
+          "crop": {
+            "x": 392,
+            "y": 542,
+            "width": 120,
+            "height": 192
+          }
+        },
+        {
+          "file": "landform-04.webp",
+          "label": "沖積低地",
+          "page": 2,
+          "crop": {
+            "x": 392,
+            "y": 744,
+            "width": 120,
+            "height": 64
+          }
+        },
+        {
+          "file": "landform-05.webp",
+          "label": "扇状地・沖積錐",
+          "page": 2,
+          "crop": {
+            "x": 392,
+            "y": 818,
+            "width": 120,
+            "height": 86
+          }
+        },
+        {
+          "file": "landform-06.webp",
+          "label": "埋立地・干拓地",
+          "page": 2,
+          "crop": {
+            "x": 392,
+            "y": 914,
+            "width": 120,
+            "height": 86
+          }
+        },
+        {
+          "file": "landform-07.webp",
+          "label": "砂丘",
+          "page": 2,
+          "crop": {
+            "x": 392,
+            "y": 1010,
+            "width": 120,
+            "height": 59
+          }
+        },
+        {
+          "file": "landform-08.webp",
+          "label": "地すべり",
+          "page": 2,
+          "crop": {
+            "x": 392,
+            "y": 1079,
+            "width": 120,
+            "height": 58
+          }
+        },
+        {
+          "file": "landform-09.webp",
+          "label": "変位した谷線",
+          "page": 2,
+          "crop": {
+            "x": 392,
+            "y": 1147,
+            "width": 120,
+            "height": 59
+          }
+        },
+        {
+          "file": "landform-10.webp",
+          "label": "火口・カルデラ",
+          "page": 2,
+          "crop": {
+            "x": 392,
+            "y": 1216,
+            "width": 120,
+            "height": 58
+          }
+        },
+        {
+          "file": "landform-11.webp",
+          "label": "溶岩円頂丘",
+          "page": 2,
+          "crop": {
+            "x": 392,
+            "y": 1284,
+            "width": 120,
+            "height": 59
+          }
+        },
+        {
+          "file": "landform-12.webp",
+          "label": "溶岩流堆積面",
+          "page": 2,
+          "crop": {
+            "x": 392,
+            "y": 1353,
+            "width": 120,
+            "height": 57
+          }
+        },
+        {
+          "file": "landform-13.webp",
+          "label": "火砕流堆積面",
+          "page": 2,
+          "crop": {
+            "x": 392,
+            "y": 1420,
+            "width": 120,
+            "height": 57
+          }
+        },
+        {
+          "file": "landform-14.webp",
+          "label": "岩屑なだれ堆積面",
+          "page": 2,
+          "crop": {
+            "x": 392,
+            "y": 1487,
+            "width": 120,
+            "height": 58
+          }
+        },
+        {
+          "file": "landform-15.webp",
+          "label": "泥流堆積面",
+          "page": 2,
+          "crop": {
+            "x": 392,
+            "y": 1555,
+            "width": 120,
+            "height": 57
+          }
+        },
+        {
+          "file": "landform-16.webp",
+          "label": "氷成堆積物堆積面",
+          "page": 2,
+          "crop": {
+            "x": 392,
+            "y": 1622,
+            "width": 120,
+            "height": 95
+          }
+        },
+        {
+          "file": "landform-17.webp",
+          "label": "2024年の地震の際に海面上に現れた可能性のある岩礁・海浜等",
+          "page": 2,
+          "crop": {
+            "x": 392,
+            "y": 1727,
+            "width": 120,
+            "height": 96
+          }
+        }
+      ]
+    },
+    {
+      "name": "段丘面の細分",
+      "items": [
+        {
+          "file": "terrace-01.webp",
+          "label": "上位段丘面1（相対的に古い時代）",
+          "page": 2,
+          "crop": {
+            "x": 540,
+            "y": 205,
+            "width": 76,
+            "height": 58
+          }
+        },
+        {
+          "file": "terrace-02.webp",
+          "label": "上位段丘面2（比較的新しい時代）",
+          "page": 2,
+          "crop": {
+            "x": 540,
+            "y": 273,
+            "width": 76,
+            "height": 57
+          }
+        },
+        {
+          "file": "terrace-03.webp",
+          "label": "中位段丘面1（比較的古い時代）",
+          "page": 2,
+          "crop": {
+            "x": 540,
+            "y": 408,
+            "width": 76,
+            "height": 57
+          }
+        },
+        {
+          "file": "terrace-04.webp",
+          "label": "中位段丘面2（比較的新しい時代）",
+          "page": 2,
+          "crop": {
+            "x": 540,
+            "y": 475,
+            "width": 76,
+            "height": 57
+          }
+        },
+        {
+          "file": "terrace-05.webp",
+          "label": "下位段丘面1（比較的古い時代）",
+          "page": 2,
+          "crop": {
+            "x": 540,
+            "y": 609,
+            "width": 76,
+            "height": 57
+          }
+        },
+        {
+          "file": "terrace-06.webp",
+          "label": "下位段丘面2（比較的新しい時代）",
+          "page": 2,
+          "crop": {
+            "x": 540,
+            "y": 676,
+            "width": 76,
+            "height": 58
+          }
+        }
+      ]
+    }
+  ]
+}
