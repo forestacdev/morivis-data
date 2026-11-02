@@ -1,0 +1,79 @@
+{
+  "provider": "岐阜県森林研究所",
+  "sourceUrl": "https://tiles.arcgis.com/tiles/jJQWqgqiNhLLjkin/arcgis/rest/services/土石流災害リスク評価図/MapServer/legend?f=pjson",
+  "itemUrl": "https://www.arcgis.com/home/item.html?id=496aaf42c93a4df0901825e8c38bf257",
+  "checkedAt": "2026-10-28",
+  "processing": "公式ArcGIS凡例のimageData（PNG）を無損失WebPへ変換。切り抜き・拡大縮小なし。空のラベルは公式レイヤー名で補完。",
+  "symbols": [
+    {
+      "file": "0-0.webp",
+      "label": "建物",
+      "layerId": 0,
+      "layerName": "建物",
+      "legendIndex": 0,
+      "originalLabel": "",
+      "width": 20,
+      "height": 20
+    },
+    {
+      "file": "1-0.webp",
+      "label": "2度以下",
+      "layerId": 1,
+      "layerName": "水系線（集水面積1ha以上）の縦断勾配",
+      "legendIndex": 0,
+      "originalLabel": "2度以下",
+      "width": 20,
+      "height": 20
+    },
+    {
+      "file": "1-1.webp",
+      "label": "8度以下",
+      "layerId": 1,
+      "layerName": "水系線（集水面積1ha以上）の縦断勾配",
+      "legendIndex": 1,
+      "originalLabel": "8度以下",
+      "width": 20,
+      "height": 20
+    },
+    {
+      "file": "1-2.webp",
+      "label": "8度超",
+      "layerId": 1,
+      "layerName": "水系線（集水面積1ha以上）の縦断勾配",
+      "legendIndex": 2,
+      "originalLabel": "8度超",
+      "width": 20,
+      "height": 20
+    },
+    {
+      "file": "2-0.webp",
+      "label": "1km以下",
+      "layerId": 2,
+      "layerName": "建物までの距離",
+      "legendIndex": 0,
+      "originalLabel": "1km以下",
+      "width": 20,
+      "height": 20
+    },
+    {
+      "file": "2-1.webp",
+      "label": "2km以下",
+      "layerId": 2,
+      "layerName": "建物までの距離",
+      "legendIndex": 1,
+      "originalLabel": "2km以下",
+      "width": 20,
+      "height": 20
+    },
+    {
+      "file": "2-2.webp",
+      "label": "2km超",
+      "layerId": 2,
+      "layerName": "建物までの距離",
+      "legendIndex": 2,
+      "originalLabel": "2km超",
+      "width": 20,
+      "height": 20
+    }
+  ]
+}

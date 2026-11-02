@@ -1,0 +1,877 @@
+{
+  "provider": "岐阜県森林研究所",
+  "checkedAt": "2026-10-28",
+  "processing": "6配信で共通の記号画像はW30H20の無損失WebPを使用。画像の色・線・形は変更なし。dimension値ごとに道路種別・幅員の見出しと勾配ラベルを切り替える。幅員2.5m・3.0mは18％以下、幅員3.6mは12％以下。全角・半角記号と空白の表記を統一。",
+  "symbols": [
+    {
+      "file": "0-0.webp",
+      "label": "集水面積1ha以上の水系線",
+      "layerId": 0,
+      "layerName": "集水面積1ha以上の水系線",
+      "legendIndex": 0,
+      "originalLabel": "",
+      "width": 20,
+      "height": 20
+    },
+    {
+      "file": "1-0.webp",
+      "label": "縦断勾配7％以下",
+      "layerId": 1,
+      "layerName": "森林作業道（幅員3.0m） 到達可能範囲",
+      "legendIndex": 0,
+      "originalLabel": "縦断勾配7％以下",
+      "width": 20,
+      "height": 20
+    },
+    {
+      "file": "1-1.webp",
+      "label": "縦断勾配18％以下",
+      "layerId": 1,
+      "layerName": "森林作業道（幅員3.0m） 到達可能範囲",
+      "legendIndex": 1,
+      "originalLabel": "縦断勾配18％以下",
+      "width": 20,
+      "height": 20
+    },
+    {
+      "file": "2-0.webp",
+      "label": "作設困難範囲",
+      "layerId": 2,
+      "layerName": "森林作業道（幅員3.0m） 到達困難な作設可能範囲",
+      "legendIndex": 0,
+      "originalLabel": "作設困難範囲",
+      "width": 20,
+      "height": 20
+    },
+    {
+      "file": "2-1.webp",
+      "label": "縦断勾配7％以下",
+      "layerId": 2,
+      "layerName": "森林作業道（幅員3.0m） 到達困難な作設可能範囲",
+      "legendIndex": 1,
+      "originalLabel": "縦断勾配7％以下",
+      "width": 20,
+      "height": 20
+    },
+    {
+      "file": "2-2.webp",
+      "label": "縦断勾配18％以下",
+      "layerId": 2,
+      "layerName": "森林作業道（幅員3.0m） 到達困難な作設可能範囲",
+      "legendIndex": 2,
+      "originalLabel": "縦断勾配18％以下",
+      "width": 20,
+      "height": 20
+    }
+  ],
+  "sources": [
+    {
+      "provider": "岐阜県森林研究所",
+      "sourceUrl": "https://tiles.arcgis.com/tiles/jJQWqgqiNhLLjkin/arcgis/rest/services/路網整備難易度W25H20/MapServer/legend?f=pjson",
+      "itemUrl": "https://www.arcgis.com/home/item.html?id=1c2ce2ca73344647b49477b54c293c10",
+      "checkedAt": "2026-10-28",
+      "processing": "公式ArcGIS凡例のimageData（PNG）を無損失WebPへ変換。切り抜き・拡大縮小なし。空のラベルは公式レイヤー名で補完。",
+      "symbols": [
+        {
+          "file": "0-0.webp",
+          "label": "集水面積1ha以上の水系線",
+          "layerId": 0,
+          "layerName": "集水面積1ha以上の水系線",
+          "legendIndex": 0,
+          "originalLabel": "",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-0.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 1,
+          "layerName": "森林作業道(幅員2.5m)到達可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-1.webp",
+          "label": "縦断勾配18％以下",
+          "layerId": 1,
+          "layerName": "森林作業道(幅員2.5m)到達可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配18％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-0.webp",
+          "label": "作設困難範囲",
+          "layerId": 2,
+          "layerName": "森林作業道(幅員2.5m)到達困難な作設可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "作設困難範囲",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-1.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 2,
+          "layerName": "森林作業道(幅員2.5m)到達困難な作設可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-2.webp",
+          "label": "縦断勾配18％以下",
+          "layerId": 2,
+          "layerName": "森林作業道(幅員2.5m)到達困難な作設可能範囲",
+          "legendIndex": 2,
+          "originalLabel": "縦断勾配18％以下",
+          "width": 20,
+          "height": 20
+        }
+      ]
+    },
+    {
+      "provider": "岐阜県森林研究所",
+      "sourceUrl": "https://tiles.arcgis.com/tiles/jJQWqgqiNhLLjkin/arcgis/rest/services/路網整備難易度W25H30/MapServer/legend?f=pjson",
+      "itemUrl": "https://www.arcgis.com/home/item.html?id=1b4936e6d8c14364bfc0f553fb8a9324",
+      "checkedAt": "2026-10-28",
+      "processing": "公式ArcGIS凡例のimageData（PNG）を無損失WebPへ変換。切り抜き・拡大縮小なし。空のラベルは公式レイヤー名で補完。",
+      "symbols": [
+        {
+          "file": "0-0.webp",
+          "label": "集水面積1ha以上の水系線",
+          "layerId": 0,
+          "layerName": "集水面積1ha以上の水系線",
+          "legendIndex": 0,
+          "originalLabel": "",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-0.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 1,
+          "layerName": "森林作業道(幅員2.5m)到達可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-1.webp",
+          "label": "縦断勾配18％以下",
+          "layerId": 1,
+          "layerName": "森林作業道(幅員2.5m)到達可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配18％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-0.webp",
+          "label": "作設困難範囲",
+          "layerId": 2,
+          "layerName": "森林作業道(幅員2.5m)到達困難な作設可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "作設困難範囲",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-1.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 2,
+          "layerName": "森林作業道(幅員2.5m)到達困難な作設可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-2.webp",
+          "label": "縦断勾配18％以下",
+          "layerId": 2,
+          "layerName": "森林作業道(幅員2.5m)到達困難な作設可能範囲",
+          "legendIndex": 2,
+          "originalLabel": "縦断勾配18％以下",
+          "width": 20,
+          "height": 20
+        }
+      ]
+    },
+    {
+      "provider": "岐阜県森林研究所",
+      "sourceUrl": "https://tiles.arcgis.com/tiles/jJQWqgqiNhLLjkin/arcgis/rest/services/路網整備難易度W30H20/MapServer/legend?f=pjson",
+      "itemUrl": "https://www.arcgis.com/home/item.html?id=8b4172302d4b47d7acc3a1214d50f1e0",
+      "checkedAt": "2026-10-28",
+      "processing": "公式ArcGIS凡例のimageData（PNG）を無損失WebPへ変換。切り抜き・拡大縮小なし。空のラベルは公式レイヤー名で補完。",
+      "symbols": [
+        {
+          "file": "0-0.webp",
+          "label": "集水面積1ha以上の水系線",
+          "layerId": 0,
+          "layerName": "集水面積1ha以上の水系線",
+          "legendIndex": 0,
+          "originalLabel": "",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-0.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 1,
+          "layerName": "森林作業道(幅員3.0m)到達可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-1.webp",
+          "label": "縦断勾配18％以下",
+          "layerId": 1,
+          "layerName": "森林作業道(幅員3.0m)到達可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配18％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-0.webp",
+          "label": "作設困難範囲",
+          "layerId": 2,
+          "layerName": "森林作業道(幅員3.0m)到達困難な作設可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "作設困難範囲",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-1.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 2,
+          "layerName": "森林作業道(幅員3.0m)到達困難な作設可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-2.webp",
+          "label": "縦断勾配18％以下",
+          "layerId": 2,
+          "layerName": "森林作業道(幅員3.0m)到達困難な作設可能範囲",
+          "legendIndex": 2,
+          "originalLabel": "縦断勾配18％以下",
+          "width": 20,
+          "height": 20
+        }
+      ]
+    },
+    {
+      "provider": "岐阜県森林研究所",
+      "sourceUrl": "https://tiles.arcgis.com/tiles/jJQWqgqiNhLLjkin/arcgis/rest/services/路網整備難易度W30H30/MapServer/legend?f=pjson",
+      "itemUrl": "https://www.arcgis.com/home/item.html?id=f19a76fffa094f6f9a41a5ca3d3edc71",
+      "checkedAt": "2026-10-28",
+      "processing": "公式ArcGIS凡例のimageData（PNG）を無損失WebPへ変換。切り抜き・拡大縮小なし。空のラベルは公式レイヤー名で補完。",
+      "symbols": [
+        {
+          "file": "0-0.webp",
+          "label": "集水面積1ha以上の水系線",
+          "layerId": 0,
+          "layerName": "集水面積1ha以上の水系線",
+          "legendIndex": 0,
+          "originalLabel": "",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-0.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 1,
+          "layerName": "森林作業道(幅員3.0m)到達可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-1.webp",
+          "label": "縦断勾配18％以下",
+          "layerId": 1,
+          "layerName": "森林作業道(幅員3.0m)到達可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配18％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-0.webp",
+          "label": "作設困難範囲",
+          "layerId": 2,
+          "layerName": "森林作業道(幅員3.0m)到達困難な作設可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "作設困難範囲",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-1.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 2,
+          "layerName": "森林作業道(幅員3.0m)到達困難な作設可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-2.webp",
+          "label": "縦断勾配18％以下",
+          "layerId": 2,
+          "layerName": "森林作業道(幅員3.0m)到達困難な作設可能範囲",
+          "legendIndex": 2,
+          "originalLabel": "縦断勾配18％以下",
+          "width": 20,
+          "height": 20
+        }
+      ]
+    },
+    {
+      "provider": "岐阜県森林研究所",
+      "sourceUrl": "https://tiles.arcgis.com/tiles/jJQWqgqiNhLLjkin/arcgis/rest/services/路網整備難易度W36H20/MapServer/legend?f=pjson",
+      "itemUrl": "https://www.arcgis.com/home/item.html?id=e5988e71131341a09abfc3fa40af98d9",
+      "checkedAt": "2026-10-28",
+      "processing": "公式ArcGIS凡例のimageData（PNG）を無損失WebPへ変換。切り抜き・拡大縮小なし。空のラベルは公式レイヤー名で補完。",
+      "symbols": [
+        {
+          "file": "0-0.webp",
+          "label": "集水面積1ha以上の水系線",
+          "layerId": 0,
+          "layerName": "集水面積1ha以上の水系線",
+          "legendIndex": 0,
+          "originalLabel": "",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-0.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 1,
+          "layerName": "林業専用道(幅員3.6ｍ)到達可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-1.webp",
+          "label": "縦断勾配12％以下",
+          "layerId": 1,
+          "layerName": "林業専用道(幅員3.6ｍ)到達可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配12％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-0.webp",
+          "label": "作設困難範囲",
+          "layerId": 2,
+          "layerName": "林業専用道(幅員3.6m)到達困難な作設可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "作設困難範囲",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-1.webp",
+          "label": "縦断勾配7%以下",
+          "layerId": 2,
+          "layerName": "林業専用道(幅員3.6m)到達困難な作設可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配7%以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-2.webp",
+          "label": "縦断勾配12％以下",
+          "layerId": 2,
+          "layerName": "林業専用道(幅員3.6m)到達困難な作設可能範囲",
+          "legendIndex": 2,
+          "originalLabel": "縦断勾配12％以下",
+          "width": 20,
+          "height": 20
+        }
+      ]
+    },
+    {
+      "provider": "岐阜県森林研究所",
+      "sourceUrl": "https://tiles.arcgis.com/tiles/jJQWqgqiNhLLjkin/arcgis/rest/services/路網整備難易度W36H30/MapServer/legend?f=pjson",
+      "itemUrl": "https://www.arcgis.com/home/item.html?id=b2fb580e8f91460481e503591c429aed",
+      "checkedAt": "2026-10-28",
+      "processing": "公式ArcGIS凡例のimageData（PNG）を無損失WebPへ変換。切り抜き・拡大縮小なし。空のラベルは公式レイヤー名で補完。",
+      "symbols": [
+        {
+          "file": "0-0.webp",
+          "label": "集水面積1ha以上の水系線",
+          "layerId": 0,
+          "layerName": "集水面積1ha以上の水系線",
+          "legendIndex": 0,
+          "originalLabel": "",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-0.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 1,
+          "layerName": "林業専用道(幅員3.6ｍ)到達可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-1.webp",
+          "label": "縦断勾配12％以下",
+          "layerId": 1,
+          "layerName": "林業専用道(幅員3.6ｍ)到達可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配12％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-0.webp",
+          "label": "作設困難範囲",
+          "layerId": 2,
+          "layerName": "林業専用道(幅員3.6m)到達困難な作設可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "作設困難範囲",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-1.webp",
+          "label": "縦断勾配7%以下",
+          "layerId": 2,
+          "layerName": "林業専用道(幅員3.6m)到達困難な作設可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配7%以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-2.webp",
+          "label": "縦断勾配12％以下",
+          "layerId": 2,
+          "layerName": "林業専用道(幅員3.6m)到達困難な作設可能範囲",
+          "legendIndex": 2,
+          "originalLabel": "縦断勾配12％以下",
+          "width": 20,
+          "height": 20
+        }
+      ]
+    }
+  ],
+  "legendUpdatedAt": "2026-10-30",
+  "defaultDimension": "W30H20",
+  "legendByDimension": {
+    "W25H20": {
+      "sourceUrl": "https://tiles.arcgis.com/tiles/jJQWqgqiNhLLjkin/arcgis/rest/services/路網整備難易度W25H20/MapServer/legend?f=pjson",
+      "symbols": [
+        {
+          "file": "0-0.webp",
+          "label": "集水面積1ha以上の水系線",
+          "layerId": 0,
+          "layerName": "集水面積1ha以上の水系線",
+          "legendIndex": 0,
+          "originalLabel": "",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-0.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 1,
+          "layerName": "森林作業道（幅員2.5m） 到達可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-1.webp",
+          "label": "縦断勾配18％以下",
+          "layerId": 1,
+          "layerName": "森林作業道（幅員2.5m） 到達可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配18％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-0.webp",
+          "label": "作設困難範囲",
+          "layerId": 2,
+          "layerName": "森林作業道（幅員2.5m） 到達困難な作設可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "作設困難範囲",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-1.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 2,
+          "layerName": "森林作業道（幅員2.5m） 到達困難な作設可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-2.webp",
+          "label": "縦断勾配18％以下",
+          "layerId": 2,
+          "layerName": "森林作業道（幅員2.5m） 到達困難な作設可能範囲",
+          "legendIndex": 2,
+          "originalLabel": "縦断勾配18％以下",
+          "width": 20,
+          "height": 20
+        }
+      ]
+    },
+    "W25H30": {
+      "sourceUrl": "https://tiles.arcgis.com/tiles/jJQWqgqiNhLLjkin/arcgis/rest/services/路網整備難易度W25H30/MapServer/legend?f=pjson",
+      "symbols": [
+        {
+          "file": "0-0.webp",
+          "label": "集水面積1ha以上の水系線",
+          "layerId": 0,
+          "layerName": "集水面積1ha以上の水系線",
+          "legendIndex": 0,
+          "originalLabel": "",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-0.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 1,
+          "layerName": "森林作業道（幅員2.5m） 到達可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-1.webp",
+          "label": "縦断勾配18％以下",
+          "layerId": 1,
+          "layerName": "森林作業道（幅員2.5m） 到達可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配18％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-0.webp",
+          "label": "作設困難範囲",
+          "layerId": 2,
+          "layerName": "森林作業道（幅員2.5m） 到達困難な作設可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "作設困難範囲",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-1.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 2,
+          "layerName": "森林作業道（幅員2.5m） 到達困難な作設可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-2.webp",
+          "label": "縦断勾配18％以下",
+          "layerId": 2,
+          "layerName": "森林作業道（幅員2.5m） 到達困難な作設可能範囲",
+          "legendIndex": 2,
+          "originalLabel": "縦断勾配18％以下",
+          "width": 20,
+          "height": 20
+        }
+      ]
+    },
+    "W30H20": {
+      "sourceUrl": "https://tiles.arcgis.com/tiles/jJQWqgqiNhLLjkin/arcgis/rest/services/路網整備難易度W30H20/MapServer/legend?f=pjson",
+      "symbols": [
+        {
+          "file": "0-0.webp",
+          "label": "集水面積1ha以上の水系線",
+          "layerId": 0,
+          "layerName": "集水面積1ha以上の水系線",
+          "legendIndex": 0,
+          "originalLabel": "",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-0.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 1,
+          "layerName": "森林作業道（幅員3.0m） 到達可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-1.webp",
+          "label": "縦断勾配18％以下",
+          "layerId": 1,
+          "layerName": "森林作業道（幅員3.0m） 到達可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配18％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-0.webp",
+          "label": "作設困難範囲",
+          "layerId": 2,
+          "layerName": "森林作業道（幅員3.0m） 到達困難な作設可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "作設困難範囲",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-1.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 2,
+          "layerName": "森林作業道（幅員3.0m） 到達困難な作設可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-2.webp",
+          "label": "縦断勾配18％以下",
+          "layerId": 2,
+          "layerName": "森林作業道（幅員3.0m） 到達困難な作設可能範囲",
+          "legendIndex": 2,
+          "originalLabel": "縦断勾配18％以下",
+          "width": 20,
+          "height": 20
+        }
+      ]
+    },
+    "W30H30": {
+      "sourceUrl": "https://tiles.arcgis.com/tiles/jJQWqgqiNhLLjkin/arcgis/rest/services/路網整備難易度W30H30/MapServer/legend?f=pjson",
+      "symbols": [
+        {
+          "file": "0-0.webp",
+          "label": "集水面積1ha以上の水系線",
+          "layerId": 0,
+          "layerName": "集水面積1ha以上の水系線",
+          "legendIndex": 0,
+          "originalLabel": "",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-0.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 1,
+          "layerName": "森林作業道（幅員3.0m） 到達可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-1.webp",
+          "label": "縦断勾配18％以下",
+          "layerId": 1,
+          "layerName": "森林作業道（幅員3.0m） 到達可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配18％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-0.webp",
+          "label": "作設困難範囲",
+          "layerId": 2,
+          "layerName": "森林作業道（幅員3.0m） 到達困難な作設可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "作設困難範囲",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-1.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 2,
+          "layerName": "森林作業道（幅員3.0m） 到達困難な作設可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-2.webp",
+          "label": "縦断勾配18％以下",
+          "layerId": 2,
+          "layerName": "森林作業道（幅員3.0m） 到達困難な作設可能範囲",
+          "legendIndex": 2,
+          "originalLabel": "縦断勾配18％以下",
+          "width": 20,
+          "height": 20
+        }
+      ]
+    },
+    "W36H20": {
+      "sourceUrl": "https://tiles.arcgis.com/tiles/jJQWqgqiNhLLjkin/arcgis/rest/services/路網整備難易度W36H20/MapServer/legend?f=pjson",
+      "symbols": [
+        {
+          "file": "0-0.webp",
+          "label": "集水面積1ha以上の水系線",
+          "layerId": 0,
+          "layerName": "集水面積1ha以上の水系線",
+          "legendIndex": 0,
+          "originalLabel": "",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-0.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 1,
+          "layerName": "林業専用道（幅員3.6m） 到達可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-1.webp",
+          "label": "縦断勾配12％以下",
+          "layerId": 1,
+          "layerName": "林業専用道（幅員3.6m） 到達可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配12％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-0.webp",
+          "label": "作設困難範囲",
+          "layerId": 2,
+          "layerName": "林業専用道（幅員3.6m） 到達困難な作設可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "作設困難範囲",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-1.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 2,
+          "layerName": "林業専用道（幅員3.6m） 到達困難な作設可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配7%以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-2.webp",
+          "label": "縦断勾配12％以下",
+          "layerId": 2,
+          "layerName": "林業専用道（幅員3.6m） 到達困難な作設可能範囲",
+          "legendIndex": 2,
+          "originalLabel": "縦断勾配12％以下",
+          "width": 20,
+          "height": 20
+        }
+      ]
+    },
+    "W36H30": {
+      "sourceUrl": "https://tiles.arcgis.com/tiles/jJQWqgqiNhLLjkin/arcgis/rest/services/路網整備難易度W36H30/MapServer/legend?f=pjson",
+      "symbols": [
+        {
+          "file": "0-0.webp",
+          "label": "集水面積1ha以上の水系線",
+          "layerId": 0,
+          "layerName": "集水面積1ha以上の水系線",
+          "legendIndex": 0,
+          "originalLabel": "",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-0.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 1,
+          "layerName": "林業専用道（幅員3.6m） 到達可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "縦断勾配7％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "1-1.webp",
+          "label": "縦断勾配12％以下",
+          "layerId": 1,
+          "layerName": "林業専用道（幅員3.6m） 到達可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配12％以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-0.webp",
+          "label": "作設困難範囲",
+          "layerId": 2,
+          "layerName": "林業専用道（幅員3.6m） 到達困難な作設可能範囲",
+          "legendIndex": 0,
+          "originalLabel": "作設困難範囲",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-1.webp",
+          "label": "縦断勾配7％以下",
+          "layerId": 2,
+          "layerName": "林業専用道（幅員3.6m） 到達困難な作設可能範囲",
+          "legendIndex": 1,
+          "originalLabel": "縦断勾配7%以下",
+          "width": 20,
+          "height": 20
+        },
+        {
+          "file": "2-2.webp",
+          "label": "縦断勾配12％以下",
+          "layerId": 2,
+          "layerName": "林業専用道（幅員3.6m） 到達困難な作設可能範囲",
+          "legendIndex": 2,
+          "originalLabel": "縦断勾配12％以下",
+          "width": 20,
+          "height": 20
+        }
+      ]
+    }
+  }
+}
